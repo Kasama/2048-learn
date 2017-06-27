@@ -1,5 +1,3 @@
-# Gabriel Scalet Bicalho, 8937204
-
 import copy
 from random import randint
 
