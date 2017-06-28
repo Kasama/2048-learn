@@ -76,12 +76,7 @@ class Puzzle2048(object):
         return ans
 
     def addNewNumber(self):
-        freeSpots = []
-        for i in range(len(self.game)):
-            for j in range(len(self.game[0])):
-                if self.game[i][j] == 0:
-                    freeSpots += [(i, j)]
-
+        freeSpots = self.getFreeSpots()
         if len(freeSpots) == 0:
             return False
 
@@ -89,10 +84,24 @@ class Puzzle2048(object):
         # Add new number to matrix
         # With 10% chance of it being a 4
         if randint(0, 9) == 0:
-            self.game[pickedSpot[0]][pickedSpot[1]] = 4
+            num = 4
         else:
-            self.game[pickedSpot[0]][pickedSpot[1]] = 2
+            num = 2
 
+        return self.addNumber(pickedSpot, num)
+
+    def getFreeSpots(self):
+        freeSpots = []
+        for i in range(len(self.game)):
+            for j in range(len(self.game[0])):
+                if self.game[i][j] == 0:
+                    freeSpots += [(i, j)]
+        return freeSpots
+
+    def addNumber(self, where, number):
+        if self.game[where[0]][where[1]] != 0:
+            return False
+        self.game[where[0]][where[1]] = number
         return True
 
     def toArray(self):
