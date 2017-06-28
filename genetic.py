@@ -12,6 +12,12 @@ def binaryArrayToInt(bitlist):
         num = (num << 1) | int(bit)
     return num
 
+def compareTuples(t1, t2):
+    for i in range(len(t1)):
+        if t1[i] != t2[i]:
+            return t1[i] - t2[i]
+    return 0
+
 def evaluateMaxValAndScore(individual):
     game = evaluateOnce(individual)
     max_val = max([max(line) for line in game.game])
@@ -38,6 +44,7 @@ def evaluateOnce(individual):
     funcs = [game.up, game.down, game.left, game.right]
     
     arr = np.asarray(game.toArray())
+    arr[arr > 0] = np.log2(arr[arr>0])
     arr_max = arr.max()
     if arr_max:
         arr = arr / arr_max
@@ -47,6 +54,8 @@ def evaluateOnce(individual):
     moved = funcs[move]()
     while(moved and game.addNewNumber()):
         arr = np.asarray(game.toArray())
+        arr[arr > 0] = np.log2(arr[arr>0])
+        
         arr_max = arr.max()
         if arr_max:
             arr = arr / arr_max
@@ -135,11 +144,11 @@ def doMutation(mlp1, max_mutations=3):
 size_population = 100
 generations = 100
 mutation_probablility = 0.2
-size_of_sample = 10
+size_of_sample = 20
 max_cuts = 10
 max_mutations = 20
 evaluation_function = evaluateMaxValAndScore
-num_evaluations = 10
+num_evaluations = 100
 
 population = []
 for i in range(size_population):
@@ -153,7 +162,7 @@ population = [population[i] for i in order]
 evaluation = [evaluation[i] for i in order]
 
 for current_generation in range(generations):
-    print("generation", current_generation)
+    print("generation", current_generation + 1)
     
     zipping = list(zip(evaluation, population))
     
@@ -188,8 +197,24 @@ for current_generation in range(generations):
     population = [population[i] for i in order]
     evaluation = [evaluation[i] for i in order]
     
-    print(evaluation)
+    eval_to_print = []
+    for num in evaluation:
+        max_val = int(np.round(num/10000000))
+        score_val = int(np.floor(num)%100000)
+        eval_to_print.append((max_val, score_val))
     
-print(evaluate(population[0]).game)
+    #val = n * 10000000 + game.score
+    i = 0
+    while i < len(eval_to_print):
+        num = eval_to_print[i]
+        print("(%02d, %02d) " % num, end="")
+        i += 1
+        if not i % 8:
+            print()
+    print()
+    #print(eval_to_print)
+    #print(evaluation)
+    
+print(evaluateOnce(population[0]).game)
 
 
