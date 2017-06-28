@@ -29,39 +29,39 @@ class Puzzle2048(object):
 						self.game[i][j-1] = self.game[i][j]
 						self.game[i][j] = 0
 
-	def rotateMatrixClockwise(matrix):
+	def rotateMatrixClockwise(self, matrix):
 		matrix = list(zip(*matrix[::-1]))
 		matrix = [list(line) for line in matrix]
 		return matrix
 	
-	def rotateMatrixAntiClockwise(matrix):
+	def rotateMatrixAntiClockwise(self, matrix):
 		matrix = list(reversed(list(zip(*matrix))))
 		matrix = [list(line) for line in matrix]
 		return matrix
 
 	def up(self):
-		self.game = rotateMatrixAntiClockwise(self.game)
+		self.game = self.rotateMatrixAntiClockwise(self.game)
 		self.merge()
 		self.makeFall()
-		self.game = rotateMatrixClockwise(self.game)
+		self.game = self.rotateMatrixClockwise(self.game)
 	
 	def down(self):
-		self.game = rotateMatrixClockwise(self.game)
+		self.game = self.rotateMatrixClockwise(self.game)
 		self.merge()
 		self.makeFall()
-		self.game = rotateMatrixAntiClockwise(self.game)
+		self.game = self.rotateMatrixAntiClockwise(self.game)
 	
 	def left(self):
 		self.merge()
 		self.makeFall()
 	
 	def right(self):
-		self.game = rotateMatrixClockwise(self.game)
-		self.game = rotateMatrixClockwise(self.game)
+		self.game = self.rotateMatrixClockwise(self.game)
+		self.game = self.rotateMatrixClockwise(self.game)
 		self.merge()
 		self.makeFall()
-		self.game = rotateMatrixClockwise(self.game)
-		self.game = rotateMatrixClockwise(self.game)
+		self.game = self.rotateMatrixClockwise(self.game)
+		self.game = self.rotateMatrixClockwise(self.game)
 
 	def addNewNumber(self):
 		freeSpots = []
@@ -83,4 +83,22 @@ class Puzzle2048(object):
 			
 		return True
 
+def doRandomMove(game):
+	num = randint(0, 3)
+	if num == 0:
+		game.up()
+	elif num == 1:
+		game.down()
+	elif num == 2:
+		game.left()
+	elif num == 3:
+		game.right()
 
+if __name__ == '__main__':
+    game = Puzzle2048()
+    
+    doRandomMove(game)
+    while(game.addNewNumber()):
+    	doRandomMove(game)
+    
+    print(game.game)
