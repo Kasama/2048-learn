@@ -1,4 +1,5 @@
 from random import randint
+import numpy as np
 
 class Puzzle2048:
     def __init__(self, size=4, num_starting_squares=2):
@@ -13,12 +14,15 @@ class Puzzle2048:
 
     #Merges values towards the left
     def merge(self):
+        ans = False
         for i in range(len(self.game)):
             for j in range(1, len(self.game[0])):
-                if self.game[i][j-1] == self.game[i][j]:
+                if self.game[i][j-1] == self.game[i][j] and self.game[i][j] != 0:
                     self.game[i][j-1] *= 2
                     self.game[i][j] = 0
                     self.score += self.game[i][j-1]
+                    ans = True
+        return ans
 
     #Makes the movement to the left 
     def makeFall(self):
@@ -44,28 +48,28 @@ class Puzzle2048:
 
     def up(self):
         self.game = self.rotateMatrixAntiClockwise(self.game)
-        self.merge()
-        ans = self.makeFall()
+        ans = self.merge()
+        ans = ans or self.makeFall()
         self.game = self.rotateMatrixClockwise(self.game)
         return ans
     
     def down(self):
         self.game = self.rotateMatrixClockwise(self.game)
-        self.merge()
-        ans = self.makeFall()
+        ans = self.merge()
+        ans = ans or self.makeFall()
         self.game = self.rotateMatrixAntiClockwise(self.game)
         return ans
     
     def left(self):
-        self.merge()
-        ans = self.makeFall()
+        ans = self.merge()
+        ans = ans or self.makeFall()
         return ans
     
     def right(self):
         self.game = self.rotateMatrixClockwise(self.game)
         self.game = self.rotateMatrixClockwise(self.game)
-        self.merge()
-        ans = self.makeFall()
+        ans = self.merge()
+        ans = ans or self.makeFall()
         self.game = self.rotateMatrixClockwise(self.game)
         self.game = self.rotateMatrixClockwise(self.game)
         return ans
@@ -97,30 +101,40 @@ class Puzzle2048:
         return ans
 
 
-def doRandomMove(game):
-    num = randint(0, 3)
+def doMove(game, num):
     if num == 0:
-        game.up()
+        return game.up()
     elif num == 1:
-        game.down()
+        return game.right()
     elif num == 2:
-        game.left()
+        return game.down()
     elif num == 3:
-        game.right()
+        return game.left()
 
 
 if __name__ == '__main__':
-    n = 10000
+    n = 100
     
     tot = 0
     curr_max = 0
     for i in range(n):
         game = Puzzle2048()
-        doRandomMove(game)
-        while(game.addNewNumber()):
-            doRandomMove(game)
-        tot += game.score
         
+        moved = False
+        j = 0
+        move = 0
+        while not moved and j < 4:
+            moved = doMove(game, (move + j) % 4)
+            j+=1
+        
+        while(moved and game.addNewNumber()):
+            move += 1
+            moved = False
+            j = 0
+            while not moved and j < 4:
+                moved = doMove(game, (move + j) % 4)
+                j+=1
+        tot += game.score
         max_val = max([max(l) for l in game.game])
         if max_val > curr_max:
             curr_max = max_val
