@@ -1,6 +1,7 @@
 from random import uniform
 from random import randint
 from random import sample
+from random import getrandbits
 import mlp
 import puzzle_2048 as pzl
 import numpy as np
@@ -89,11 +90,10 @@ def doCrossoverOnAttribute(mlp1, mlp2, child1, child2, attribute_weights, attrib
     num_cuts = randint(1, max_cuts)
     cut_locations = [0] + sorted(sample(range(1, l_1.shape[0]), num_cuts)) + [l_1.shape[0]]
     
-    do_crossover = False
+    #Do the crossover
     for i in range(1, len(cut_locations)):
-        if do_crossover:
+        if bool(getrandbits(1)):
             l_1[cut_locations[i-1]:cut_locations[i]], l_2[cut_locations[i-1]:cut_locations[i]] = l_2[cut_locations[i-1]:cut_locations[i]], l_1[cut_locations[i-1]:cut_locations[i]]
-        do_crossover = not do_crossover
     
     #pass from chromosome back to mlp
     l_1 = l_1.reshape(l_shape)
@@ -156,18 +156,18 @@ size_population = 50
 generations = 100
 mutation_probablility = 0.2
 size_of_sample = 10
-max_cuts = 10
-max_mutations = 20
+max_cuts = 4
+max_mutations = 5
 evaluation_function = evaluateMaxValAndScore
 num_evaluations = 10
 
 population = []
-for i in range(size_population):
+for i in range(size_population * 10):
     population.append(mlp.MLP(16, 8, 4))
 
 evaluation = list(map(lambda e: evaluate(e, evaluation_function, num_evaluations), population))
 
-order = list(reversed(np.argsort(evaluation)))
+order = list(reversed(np.argsort(evaluation)))[:size_population]
 
 population = [population[i] for i in order]
 evaluation = [evaluation[i] for i in order]
