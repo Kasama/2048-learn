@@ -47,7 +47,7 @@ def evaluateOnce(individual):
     if arr_max:
         arr = arr / arr_max
     
-    _, _, out, _ = individual.feed_forward(arr)
+    _, _, out, _ = individual.feed_forward(arr) #(0.45, 0.6, 0.1, 0.3)
     move = probabilityArrayToInt(out)
     
     moved = False
@@ -66,14 +66,11 @@ def evaluateOnce(individual):
         _, _, out, _ = individual.feed_forward(arr)
         move = probabilityArrayToInt(out)
         
-        #print(move)
-        
         moved = False
         i = 0
         while not moved and i < len(funcs):
             moved = funcs[(move + i) % len(funcs)]()
             i += 1
-        
     
     return game
 
@@ -92,8 +89,11 @@ def doCrossoverOnAttribute(mlp1, mlp2, child1, child2, attribute_weights, attrib
     num_cuts = randint(1, max_cuts)
     cut_locations = [0] + sorted(sample(range(1, l_1.shape[0]), num_cuts)) + [l_1.shape[0]]
     
+    do_crossover = False
     for i in range(1, len(cut_locations)):
-        l_1[cut_locations[i-1]:cut_locations[i]], l_2[cut_locations[i-1]:cut_locations[i]] = l_2[cut_locations[i-1]:cut_locations[i]], l_1[cut_locations[i-1]:cut_locations[i]]
+        if do_crossover:
+            l_1[cut_locations[i-1]:cut_locations[i]], l_2[cut_locations[i-1]:cut_locations[i]] = l_2[cut_locations[i-1]:cut_locations[i]], l_1[cut_locations[i-1]:cut_locations[i]]
+        do_crossover = not do_crossover
     
     #pass from chromosome back to mlp
     l_1 = l_1.reshape(l_shape)
@@ -152,7 +152,7 @@ def doMutation(mlp1, max_mutations=3):
     child = doMutationOnAttribute(mlp1, child, "output_layer_weights", "output_layer_bias", max_mutations)
     return child
 
-size_population = 100
+size_population = 50
 generations = 100
 mutation_probablility = 0.2
 size_of_sample = 10
