@@ -1,6 +1,6 @@
 from random import randint
 
-class Puzzle2048(object):
+class Puzzle2048:
 	def __init__(self, size=4, num_starting_squares=2):
 		self.game = []
 		self.score = 0
@@ -22,12 +22,15 @@ class Puzzle2048(object):
 
 	#Makes the movement to the left 
 	def makeFall(self):
+		was_valid = False
 		for n in range(len(self.game[0])):
 			for i in range(len(self.game)):
 				for j in range(1, len(self.game[0])):
-					if self.game[i][j-1] == 0:
+					if self.game[i][j-1] == 0 and self.game[i][j] != 0:
 						self.game[i][j-1] = self.game[i][j]
 						self.game[i][j] = 0
+						was_valid = True
+		return was_valid
 
 	def rotateMatrixClockwise(self, matrix):
 		matrix = list(zip(*matrix[::-1]))
@@ -42,26 +45,30 @@ class Puzzle2048(object):
 	def up(self):
 		self.game = self.rotateMatrixAntiClockwise(self.game)
 		self.merge()
-		self.makeFall()
+		ans = self.makeFall()
 		self.game = self.rotateMatrixClockwise(self.game)
+		return ans
 	
 	def down(self):
 		self.game = self.rotateMatrixClockwise(self.game)
 		self.merge()
-		self.makeFall()
+		ans = self.makeFall()
 		self.game = self.rotateMatrixAntiClockwise(self.game)
+		return ans
 	
 	def left(self):
 		self.merge()
-		self.makeFall()
+		ans = self.makeFall()
+		return ans
 	
 	def right(self):
 		self.game = self.rotateMatrixClockwise(self.game)
 		self.game = self.rotateMatrixClockwise(self.game)
 		self.merge()
-		self.makeFall()
+		ans = self.makeFall()
 		self.game = self.rotateMatrixClockwise(self.game)
 		self.game = self.rotateMatrixClockwise(self.game)
+		return ans
 
 	def addNewNumber(self):
 		freeSpots = []
@@ -82,6 +89,12 @@ class Puzzle2048(object):
 			self.game[pickedSpot[0]][pickedSpot[1]] = 2
 			
 		return True
+		
+	def toArray(self):
+		ans = []
+		for aux in self.game:
+			ans += aux
+		return ans
 
 def doRandomMove(game):
 	num = randint(0, 3)
@@ -95,10 +108,20 @@ def doRandomMove(game):
 		game.right()
 
 if __name__ == '__main__':
-    game = Puzzle2048()
-    
-    doRandomMove(game)
-    while(game.addNewNumber()):
-    	doRandomMove(game)
-    
-    print(game.game)
+	n = 10000
+	
+	tot = 0
+	curr_max = 0
+	for i in range(n):
+		game = Puzzle2048()
+		doRandomMove(game)
+		while(game.addNewNumber()):
+			doRandomMove(game)
+		tot += game.score
+		
+		max_val = max([max(l) for l in game.game])
+		if max_val > curr_max:
+			curr_max = max_val
+	
+	print(tot/n)
+	print(curr_max)

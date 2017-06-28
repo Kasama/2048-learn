@@ -41,7 +41,7 @@ class MLP:  # {
         min = - max
 
         if (self.f == sigmoid):
-            print("Using sigmoid")
+            #print("Using sigmoid")
             sys.stdout.flush()
             max *= 4
             min *= 4
