@@ -1,7 +1,6 @@
 from random import uniform
 from random import randint
 from random import sample
-from copy import deepcopy
 import mlp
 import puzzle_2048 as pzl
 import numpy as np
@@ -11,12 +10,10 @@ def binaryArrayToInt(bitlist):
     for bit in bitlist:
         num = (num << 1) | int(bit)
     return num
-
-def compareTuples(t1, t2):
-    for i in range(len(t1)):
-        if t1[i] != t2[i]:
-            return t1[i] - t2[i]
-    return 0
+    
+def probabilityArrayToInt(problist):
+    problist = np.asarray(problist)
+    return np.argmax(problist)
 
 def evaluateMaxValAndScore(individual):
     game = evaluateOnce(individual)
@@ -32,6 +29,7 @@ def evaluateScore(individual):
     return evaluateOnce(individual).score
 
 def evaluate(individual, evaluation_function, num_evaluations):
+    #print("evaluation")
     score = 0
     for i in range(num_evaluations):
         score += evaluation_function(individual)
@@ -41,7 +39,7 @@ def evaluate(individual, evaluation_function, num_evaluations):
 def evaluateOnce(individual):
     game = pzl.Puzzle2048()
     
-    funcs = [game.up, game.down, game.left, game.right]
+    funcs = [game.up, game.right, game.down, game.left]
     
     arr = np.asarray(game.toArray())
     arr[arr > 0] = np.log2(arr[arr>0])
@@ -50,19 +48,32 @@ def evaluateOnce(individual):
         arr = arr / arr_max
     
     _, _, out, _ = individual.feed_forward(arr)
-    move = binaryArrayToInt(out.round())
-    moved = funcs[move]()
+    move = probabilityArrayToInt(out)
+    
+    moved = False
+    i = 0
+    while not moved and i < len(funcs):
+        moved = funcs[(move + i) % len(funcs)]()
+        i += 1
+    
     while(moved and game.addNewNumber()):
         arr = np.asarray(game.toArray())
-        arr[arr > 0] = np.log2(arr[arr>0])
-        
+        arr[arr > 0] = np.log2(arr[arr > 0])
         arr_max = arr.max()
         if arr_max:
             arr = arr / arr_max
         
         _, _, out, _ = individual.feed_forward(arr)
-        move = binaryArrayToInt(out.round())
-        moved = funcs[move]()
+        move = probabilityArrayToInt(out)
+        
+        #print(move)
+        
+        moved = False
+        i = 0
+        while not moved and i < len(funcs):
+            moved = funcs[(move + i) % len(funcs)]()
+            i += 1
+        
     
     return game
 
@@ -144,15 +155,15 @@ def doMutation(mlp1, max_mutations=3):
 size_population = 100
 generations = 100
 mutation_probablility = 0.2
-size_of_sample = 20
+size_of_sample = 10
 max_cuts = 10
 max_mutations = 20
 evaluation_function = evaluateMaxValAndScore
-num_evaluations = 100
+num_evaluations = 10
 
 population = []
 for i in range(size_population):
-    population.append(mlp.MLP(16, 8, 2))
+    population.append(mlp.MLP(16, 8, 4))
 
 evaluation = list(map(lambda e: evaluate(e, evaluation_function, num_evaluations), population))
 
@@ -171,7 +182,7 @@ for current_generation in range(generations):
         genetic_operation = uniform(0, 1)
         if genetic_operation > mutation_probablility:
             #select parents
-            s = sample(zipping, 5)
+            s = sample(zipping, size_of_sample)
             s = sorted(s, key= lambda e: e[0])
             p1 = s[0][1]
             p2 = s[1][1]
@@ -182,16 +193,23 @@ for current_generation in range(generations):
             children.append(c2)
         else:
             #select parent
-            s = sample(zipping, 5)
+            s = sample(zipping, size_of_sample)
             s = sorted(s, key= lambda e: e[0])
             p1 = s[0][1]
             #do mutation
             c1 = doMutation(p1, max_mutations)
             children.append(c1)
     
+    #we also throw in a few new random ones for good measure
+    children = children + [mlp.MLP(16, 8, 4)]*10
+    
+    #add children to the population
     population = population + children
+    
+    #evaluate new ones
     evaluation = evaluation + list(map(lambda e: evaluate(e, evaluation_function, num_evaluations), children))
     
+    #get the size_population best results
     order = list(reversed(np.argsort(evaluation)))[:size_population]
     
     population = [population[i] for i in order]
@@ -207,9 +225,9 @@ for current_generation in range(generations):
     i = 0
     while i < len(eval_to_print):
         num = eval_to_print[i]
-        print("(%02d, %02d) " % num, end="")
+        print("(%04d, %05d) " % num, end="")
         i += 1
-        if not i % 8:
+        if not i % 4:
             print()
     print()
     #print(eval_to_print)
