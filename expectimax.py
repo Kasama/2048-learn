@@ -1,12 +1,13 @@
-import puzzle_2048 as pzl
 import numpy as np
+import puzzle_2048 as pzl
 from copy import deepcopy
 
 
 class Node:
-    def __init__(self, game: pzl.Puzzle2048, probability: float):
+    def __init__(self, game: pzl.Puzzle2048, probability: float, move: int):
         self.game = game
         self.accumulated_prob = probability
+        self.move = move
     # end init
 
     def __str__(self):
@@ -26,15 +27,18 @@ def genNextStep(node: Node):
     for move in [0, 1, 2, 3]:
         child = deepcopy(node.game)
         if (pzl.doMove(child, move)):
-            every_move.append(child)
+            every_move.append((child, move))
     # end for
     if len(every_move) == 0:
         return []
     movement_prob = 1 / len(every_move)
     next_step = []
-    for move in every_move:
-        free_spots = move.getFreeSpots()
-        spot_prob = 1 / len(free_spots)
+    for child in every_move:
+        game = child[0]
+        move = child[1]
+        free_spots = game.getFreeSpots()
+        # spot_prob = 1 / len(free_spots)
+        spot_prob = 1 / 16  # maybe use 16, maybe use len(free_spots)
         for spot in free_spots:
             for num in [(2, 0.9), (4, 0.1)]:
                 n = num[0]
@@ -44,9 +48,12 @@ def genNextStep(node: Node):
                     movement_prob * \
                     spot_prob * \
                     num[1]
-                new_game = deepcopy(move)
+                new_game = deepcopy(game)
                 new_game.addNumber(spot, n)
-                new_move = Node(new_game, prob)
+                if node.move == -1:
+                    new_move = Node(new_game, prob, move)
+                else:
+                    new_move = Node(new_game, prob, node.move)
                 next_step.append(new_move)
             # end for
         # end for
@@ -55,11 +62,48 @@ def genNextStep(node: Node):
 # end genNextStep
 
 
-start = Node(pzl.Puzzle2048(4, 1), 1)
-print('start member:', start)
-second = genNextStep(start)
-print('second:', second)
-total = 0
-for node in second:
-    total += node.accumulated_prob
-print('total probability:', total)
+def predict(game, lookahead=1):
+    prediction = genNextStep(game)
+    for i in range(lookahead-1):
+        future = []
+        for node in prediction:
+            future += genNextStep(node)
+        prediction = future
+    return prediction
+
+
+start = Node(pzl.Puzzle2048(4, 2), 1, -1)
+# start.game.game = [
+#         [2, 0, 0, 0],
+#         [2, 0, 0, 0],
+#         [0, 0, 0, 0],
+#         [16, 2, 4, 0]]
+# start.game.score = 48
+
+while (True):
+    second = predict(start, 3)
+
+    max_node = None
+    max_score = 0
+    max_prob = 0
+    for node in second:
+        # max_tile = max([max(line) for line in node.game.game])
+        # max_tile *= 10000000
+        max_tile = 0
+        score = node.accumulated_prob * (node.game.score + max_tile)
+        # print('game score:', node.game.score, ' - score:', score)
+        if score >= max_score:
+            max_score = score
+            max_node = node
+            max_prob = node.accumulated_prob
+        # end if
+    # end for
+
+    pzl.doMove(start.game, max_node.move)
+    start.game.addNewNumber()
+
+    print('max possible score:', max_score/max_prob)
+    names = ['up', 'right', 'down', 'left']
+    print('moving', names[max_node.move])
+    print('score:', start.game.score)
+    print('game:\n' + str(np.array(start.game.game)))
