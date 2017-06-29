@@ -162,7 +162,7 @@ evaluation_function = evaluateMaxValAndScore
 num_evaluations = 10
 
 population = []
-for i in range(size_population * 10):
+for i in range(size_population):
     population.append(mlp.MLP(16, 8, 4))
 
 evaluation = list(map(lambda e: evaluate(e, evaluation_function, num_evaluations), population))
@@ -192,6 +192,7 @@ for current_generation in range(generations):
             children.append(c1)
             children.append(c2)
         else:
+            a=2
             #select parent
             s = sample(zipping, size_of_sample)
             s = sorted(s, key= lambda e: e[0])
