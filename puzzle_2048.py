@@ -1,5 +1,4 @@
 from random import randint
-import numpy as np
 
 
 class Puzzle2048(object):
@@ -49,28 +48,32 @@ class Puzzle2048(object):
 
     def up(self):
         self.game = self.rotateMatrixAntiClockwise(self.game)
-        ans = self.merge()
-        ans = ans or self.makeFall()
+        ans = self.makeFall()
+        ans |= self.merge()
+        ans |= self.makeFall()
         self.game = self.rotateMatrixClockwise(self.game)
         return ans
 
     def down(self):
         self.game = self.rotateMatrixClockwise(self.game)
-        ans = self.merge()
-        ans = ans or self.makeFall()
+        ans = self.makeFall()
+        ans |= self.merge()
+        ans |= self.makeFall()
         self.game = self.rotateMatrixAntiClockwise(self.game)
         return ans
 
     def left(self):
-        ans = self.merge()
-        ans = ans or self.makeFall()
+        ans = self.makeFall()
+        ans |= self.merge()
+        ans |= self.makeFall()
         return ans
 
     def right(self):
         self.game = self.rotateMatrixClockwise(self.game)
         self.game = self.rotateMatrixClockwise(self.game)
-        ans = self.merge()
-        ans = ans or self.makeFall()
+        ans = self.makeFall()
+        ans |= self.merge()
+        ans |= self.makeFall()
         self.game = self.rotateMatrixClockwise(self.game)
         self.game = self.rotateMatrixClockwise(self.game)
         return ans
@@ -120,22 +123,3 @@ def doMove(game, num):
         return game.down()
     elif num == 3:
         return game.left()
-
-
-if __name__ == '__main__':
-    n = 100
-    tot = 0
-    curr_max = 0
-    for i in range(n):
-        game = Puzzle2048()
-        doRandomMove(game)
-        while(game.addNewNumber()):
-            doRandomMove(game)
-        tot += game.score
-
-        max_val = max([max(l) for l in game.game])
-        if max_val > curr_max:
-            curr_max = max_val
-
-    print(tot/n)
-    print(curr_max)
