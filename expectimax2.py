@@ -104,7 +104,7 @@ game = pzl.Puzzle2048(4, 2)
 
 names = ['up', 'right', 'down', 'left']
 while (True):
-    best_score, move = find_best_move(game, 1, 3)
+    best_score, move = find_best_move(game, 1, 1)
 
     if(not pzl.doMove(game, move)):
         print('game over. Score:', game.score)
