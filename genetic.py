@@ -153,11 +153,11 @@ def doMutation(mlp1, max_mutations=3):
     return child
 
 size_population = 50
-generations = 100
+generations = 200
 mutation_probablility = 0.2
 size_of_sample = 10
-max_cuts = 4
-max_mutations = 5
+max_cuts = 10
+max_mutations = 20
 evaluation_function = evaluateMaxValAndScore
 num_evaluations = 10
 
@@ -220,20 +220,22 @@ for current_generation in range(generations):
     for num in evaluation:
         max_val = int(np.round(num/10000000))
         score_val = int(np.floor(num)%100000)
-        eval_to_print.append((max_val, score_val))
+        eval_to_print.append((num, max_val, score_val))
     
     #val = n * 10000000 + game.score
     i = 0
     while i < len(eval_to_print):
         num = eval_to_print[i]
-        print("(%04d, %05d) " % num, end="")
+        print("(%f, %04d, %05d) " % num, end="")
         i += 1
         if not i % 4:
             print()
     print()
     #print(eval_to_print)
     #print(evaluation)
-    
-print(evaluateOnce(population[0]).game)
+
+print("Generations Done!")
+for i in range(20):
+    print(evaluateOnce(population[0]).game)
 
 
