@@ -69,15 +69,15 @@ def find_best_move(game: pzl.Puzzle2048, acc_prob=1, lookahead: int=2):  # {
                     else:
                         max_tile = max([max(line) for line in game.game])
 
-                        table = np.asarray(game.game)
-                        line = [Inversions.ratio(l) for l in table]
-                        row = [Inversions.ratio(r) for r in table.T]
-                        inv = sum(line) + sum(row) / (len(line) + len(row))
+                        # table = np.asarray(game.game)
+                        # line = [Inversions.ratio(l) for l in table]
+                        # row = [Inversions.ratio(r) for r in table.T]
+                        # inv = sum(line) + sum(row) / (len(line) + len(row))
 
                         score = \
                             game_copy.score + \
-                            (max_tile * 1_000_000) + \
-                            (inv * 100_000_000)
+                            (max_tile * 1_000_000)
+                        # (inv * 100_000_000)
                     # end if
                     move_scores[move] += prob * score
                 # end for
@@ -92,8 +92,6 @@ def find_best_move(game: pzl.Puzzle2048, acc_prob=1, lookahead: int=2):  # {
             best_score = move_scores[move]
     return (best_score, best_move)
 # end find_best_move }
-
-
 
 num_tests = 20
 max_val = 0
