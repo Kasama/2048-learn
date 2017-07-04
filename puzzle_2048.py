@@ -123,3 +123,9 @@ def doMove(game, num):
         return game.down()
     elif num == 3:
         return game.left()
+
+def forceMove(game, init_move):
+    for i in range(4):
+        if(doMove(game, (init_move + i) % 4)):
+            return True
+    return False

@@ -5,6 +5,7 @@ from random import getrandbits
 import mlp
 import puzzle_2048 as pzl
 import numpy as np
+import pickle
 
 def binaryArrayToInt(bitlist):
     num = 0
@@ -161,9 +162,19 @@ max_mutations = 5
 evaluation_function = evaluateMaxValAndScore
 num_evaluations = 10
 
+save_file_name = "games.p"
+log_file_name = "games_log.log"
+load_from_file = False
+
 population = []
-for i in range(size_population):
-    population.append(mlp.MLP(16, 8, 4))
+
+if load_from_file:
+    population = pickle.load(open(save_file_name, "rb"))
+else:
+    for i in range(size_population):
+        population.append(mlp.MLP(16, 8, 4))
+    log_file = open(log_file_name, 'w')
+    log_file.close()
 
 evaluation = list(map(lambda e: evaluate(e, evaluation_function, num_evaluations), population))
 
@@ -215,6 +226,16 @@ for current_generation in range(generations):
     
     population = [population[i] for i in order]
     evaluation = [evaluation[i] for i in order]
+    
+    #we save the last generation
+    pickle.dump(population, open(save_file_name, "wb"))
+    
+    #we log the evaluations
+    log_file = open(log_file_name, 'a')
+    for i in range(len(evaluation) - 1):
+        log_file.write(str(evaluation[i]) + ", ")
+    log_file.write(str(evaluation[len(evaluation) - 1]) + "\n")
+    log_file.close()
     
     eval_to_print = []
     for num in evaluation:
