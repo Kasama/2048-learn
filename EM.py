@@ -69,15 +69,15 @@ def find_best_move(game: pzl.Puzzle2048, acc_prob=1, lookahead: int=2):  # {
                     else:
                         max_tile = max([max(line) for line in game.game])
 
-                        table = np.asarray(game.game)
-                        line = [Inversions.ratio(l) for l in table]
-                        row = [Inversions.ratio(r) for r in table.T]
-                        inv = sum(line) + sum(row) / (len(line) + len(row))
+                        # table = np.asarray(game.game)
+                        # line = [Inversions.ratio(l) for l in table]
+                        # row = [Inversions.ratio(r) for r in table.T]
+                        # inv = sum(line) + sum(row) / (len(line) + len(row))
 
                         score = \
                             game_copy.score + \
-                            (max_tile * 1_000_000) + \
-                            (inv * 100_000_000)
+                            (max_tile * 1_000_000)
+                        # (inv * 100_000_000)
                     # end if
                     move_scores[move] += prob * score
                 # end for
@@ -100,11 +100,14 @@ game = pzl.Puzzle2048(4, 2)
 #         [2, 0, 0, 0],
 #         [0, 0, 0, 0],
 #         [16, 2, 4, 0]]
-# game.game.score = 48
+#
+game.game = \
+        [[16, 128, 8, 2], [4, 32, 512, 16], [2, 64, 1024, 32], [0, 32, 128, 4]]
 
 names = ['up', 'right', 'down', 'left']
 while (True):
-    best_score, move = find_best_move(game, 1, 1)
+    best_score, move = find_best_move(game, 1, 4)
+    print('got best score:', best_score, 'move:', move)
 
     if(not pzl.doMove(game, move)):
         print('game over. Score:', game.score)
