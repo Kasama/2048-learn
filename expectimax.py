@@ -72,38 +72,46 @@ def predict(game, lookahead=1):
     return prediction
 
 
-start = Node(pzl.Puzzle2048(4, 2), 1, -1)
-# start.game.game = [
-#         [2, 0, 0, 0],
-#         [2, 0, 0, 0],
-#         [0, 0, 0, 0],
-#         [16, 2, 4, 0]]
-# start.game.score = 48
+num_tests = 10
+max_val = 0
+my_max_score = 0
 
-while (True):
-    second = predict(start, 3)
+for i in range(num_tests):
+    start = Node(pzl.Puzzle2048(4, 2), 1, -1)
 
-    max_node = None
-    max_score = 0
-    max_prob = 0
-    for node in second:
-        # max_tile = max([max(line) for line in node.game.game])
-        # max_tile *= 10000000
-        max_tile = 0
-        score = node.accumulated_prob * (node.game.score + max_tile)
-        # print('game score:', node.game.score, ' - score:', score)
-        if score >= max_score:
-            max_score = score
-            max_node = node
-            max_prob = node.accumulated_prob
-        # end if
-    # end for
+    while (True):
+        second = predict(start, 2)
 
-    pzl.doMove(start.game, max_node.move)
-    start.game.addNewNumber()
+        max_node = None
+        max_score = 0
+        max_prob = 0
+        for node in second:
+            # max_tile = max([max(line) for line in node.game.game])
+            # max_tile *= 10000000
+            max_tile = 0
+            score = node.accumulated_prob * (node.game.score + max_tile)
+            # print('game score:', node.game.score, ' - score:', score)
+            if score >= max_score:
+                max_score = score
+                max_node = node
+                max_prob = node.accumulated_prob
+            # end if
+        # end for
+        
+        if not max_node:
+            max_val += max(start.game.toArray())
+            print(start.game.score)
+            my_max_score += start.game.score
+            break
+        
+        pzl.doMove(start.game, max_node.move)
+        start.game.addNewNumber()
 
-    print('max possible score:', max_score/max_prob)
-    names = ['up', 'right', 'down', 'left']
-    print('moving', names[max_node.move])
-    print('score:', start.game.score)
-    print('game:\n' + str(np.array(start.game.game)))
+        #print('max possible score:', max_score/max_prob)
+        #names = ['up', 'right', 'down', 'left']
+        #print('moving', names[max_node.move])
+        #print('score:', start.game.score)
+        #print('game:\n' + str(np.array(start.game.game)))
+    print(i)
+
+print(max_val/num_tests, my_max_score/num_tests)

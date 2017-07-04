@@ -94,23 +94,30 @@ def find_best_move(game: pzl.Puzzle2048, acc_prob=1, lookahead: int=2):  # {
 # end find_best_move }
 
 
-game = pzl.Puzzle2048(4, 2)
-# game.game.game = [
-#         [2, 0, 0, 0],
-#         [2, 0, 0, 0],
-#         [0, 0, 0, 0],
-#         [16, 2, 4, 0]]
-# game.game.score = 48
 
-names = ['up', 'right', 'down', 'left']
-while (True):
-    best_score, move = find_best_move(game, 1, 1)
+num_tests = 20
+max_val = 0
+my_max_score = 0
 
-    if(not pzl.doMove(game, move)):
-        print('game over. Score:', game.score)
-        break
-    game.addNewNumber()
+for i in range(num_tests):
+    game = pzl.Puzzle2048(4, 2)
 
-    print('moving', names[move])
-    print('score:', game.score)
-    print('game:\n' + str(np.array(game.game)))
+    names = ['up', 'right', 'down', 'left']
+    while (True):
+        best_score, move = find_best_move(game, 1, 2)
+
+        if(not pzl.doMove(game, move)):
+            print('game over. Score:', game.score)
+            break
+        game.addNewNumber()
+
+        #print('moving', names[move])
+        #print('score:', game.score)
+        #print('game:\n' + str(np.array(game.game)))
+        
+    max_val += max(game.toArray())
+    my_max_score += game.score
+    print(i)
+
+
+print(max_val/num_tests, my_max_score/num_tests)

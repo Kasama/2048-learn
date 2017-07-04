@@ -129,3 +129,22 @@ def forceMove(game, init_move):
         if(doMove(game, (init_move + i) % 4)):
             return True
     return False
+
+def main():
+    num_tests = 100
+    max_val = 0
+    score = 0
+    for i in range(num_tests):
+        game = Puzzle2048()
+        move = randint(0, 3)
+
+        while(forceMove(game, 0)):
+            game.addNewNumber()
+            move = randint(0, 3)
+        
+        max_val += max(game.toArray())
+        score += game.score
+        
+        print(i)
+        
+    print(max_val/num_tests, score/num_tests)
