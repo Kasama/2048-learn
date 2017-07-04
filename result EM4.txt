@@ -1,0 +1,10326 @@
+moving up
+score: 0
+game:
+[[0 0 2 2]
+ [0 2 0 0]
+ [0 0 0 0]
+ [0 0 0 0]]
+moving up
+score: 0
+game:
+[[0 2 2 2]
+ [0 0 0 0]
+ [0 2 0 0]
+ [0 0 0 0]]
+moving down
+score: 4
+game:
+[[0 0 0 0]
+ [0 0 2 0]
+ [0 0 0 0]
+ [0 4 2 2]]
+moving right
+score: 8
+game:
+[[0 0 0 0]
+ [0 0 0 2]
+ [0 0 0 4]
+ [0 0 4 4]]
+moving down
+score: 16
+game:
+[[0 0 0 0]
+ [0 0 0 2]
+ [0 0 0 2]
+ [0 0 4 8]]
+moving up
+score: 20
+game:
+[[0 0 4 4]
+ [0 0 0 8]
+ [0 0 2 0]
+ [0 0 0 0]]
+moving right
+score: 28
+game:
+[[0 0 0 8]
+ [0 0 0 8]
+ [0 0 0 2]
+ [0 0 2 0]]
+moving down
+score: 44
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  0]
+ [ 0  0  0 16]
+ [ 0  0  2  2]]
+moving right
+score: 48
+game:
+[[ 0  0  0  2]
+ [ 0  2  0  0]
+ [ 0  0  0 16]
+ [ 0  0  0  4]]
+moving right
+score: 48
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  2]
+ [ 0  0  0 16]
+ [ 0  0  2  4]]
+moving up
+score: 52
+game:
+[[ 0  0  2  4]
+ [ 0  0  0 16]
+ [ 0  0  0  4]
+ [ 2  0  0  0]]
+moving down
+score: 52
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  4]
+ [ 0  0  0 16]
+ [ 2  0  2  4]]
+moving right
+score: 56
+game:
+[[ 0  0  4  2]
+ [ 0  0  0  4]
+ [ 0  0  0 16]
+ [ 0  0  4  4]]
+moving down
+score: 64
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  4]
+ [ 0  0  0 16]
+ [ 0  2  8  4]]
+moving up
+score: 64
+game:
+[[ 0  2  8  2]
+ [ 0  0  0  4]
+ [ 2  0  0 16]
+ [ 0  0  0  4]]
+moving down
+score: 64
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  4]
+ [ 0  2  0 16]
+ [ 2  2  8  4]]
+moving right
+score: 68
+game:
+[[ 0  0  4  2]
+ [ 0  0  0  4]
+ [ 0  0  2 16]
+ [ 0  4  8  4]]
+moving down
+score: 68
+game:
+[[ 0  0  0  2]
+ [ 0  0  4  4]
+ [ 0  0  2 16]
+ [ 2  4  8  4]]
+moving right
+score: 76
+game:
+[[ 0  0  0  2]
+ [ 2  0  0  8]
+ [ 0  0  2 16]
+ [ 2  4  8  4]]
+moving up
+score: 80
+game:
+[[ 4  4  2  2]
+ [ 0  0  8  8]
+ [ 0  0  2 16]
+ [ 0  0  0  4]]
+moving right
+score: 108
+game:
+[[ 0  0  8  4]
+ [ 4  0  0 16]
+ [ 0  0  2 16]
+ [ 0  0  0  4]]
+moving down
+score: 140
+game:
+[[ 0  0  0  0]
+ [ 2  0  0  4]
+ [ 0  0  8 32]
+ [ 4  0  2  4]]
+moving up
+score: 140
+game:
+[[ 2  0  8  4]
+ [ 4  0  2 32]
+ [ 0  0  2  4]
+ [ 0  0  0  0]]
+moving down
+score: 144
+game:
+[[ 0  0  0  0]
+ [ 0  0  0  4]
+ [ 2  2  8 32]
+ [ 4  0  4  4]]
+moving right
+score: 156
+game:
+[[ 0  0  0  0]
+ [ 2  0  0  4]
+ [ 0  4  8 32]
+ [ 0  0  4  8]]
+moving down
+score: 156
+game:
+[[ 0  2  0  0]
+ [ 0  0  0  4]
+ [ 0  0  8 32]
+ [ 2  4  4  8]]
+moving right
+score: 164
+game:
+[[ 0  0  0  2]
+ [ 0  2  0  4]
+ [ 0  0  8 32]
+ [ 0  2  8  8]]
+moving right
+score: 180
+game:
+[[ 0  0  0  2]
+ [ 0  2  2  4]
+ [ 0  0  8 32]
+ [ 0  0  2 16]]
+moving right
+score: 184
+game:
+[[ 0  0  0  2]
+ [ 0  0  4  4]
+ [ 0  0  8 32]
+ [ 0  4  2 16]]
+moving up
+score: 0
+game:
+[[2 0 0 2]
+ [0 0 2 0]
+ [0 0 0 0]
+ [0 0 0 0]]
+moving up
+score: 0
+game:
+[[2 0 2 2]
+ [0 0 0 0]
+ [0 0 2 0]
+ [0 0 0 0]]
+moving right
+score: 4
+game:
+[[0 0 2 4]
+ [0 0 0 0]
+ [0 0 0 2]
+ [0 2 0 0]]
+moving up
+score: 4
+game:
+[[0 2 2 4]
+ [0 0 0 2]
+ [0 0 0 0]
+ [0 2 0 0]]
+moving right
+score: 8
+game:
+[[0 0 4 4]
+ [0 0 2 2]
+ [0 0 0 0]
+ [0 0 0 2]]
+moving up
+score: 12
+game:
+[[0 0 4 4]
+ [0 0 2 4]
+ [0 0 0 0]
+ [0 0 0 2]]
+moving up
+score: 20
+game:
+[[2 0 4 8]
+ [0 0 2 2]
+ [0 0 0 0]
+ [0 0 0 0]]
+moving right
+score: 24
+game:
+[[0 2 4 8]
+ [0 0 0 4]
+ [2 0 0 0]
+ [0 0 0 0]]
+moving down
+score: 24
+game:
+[[0 0 4 0]
+ [0 0 0 0]
+ [0 0 0 8]
+ [2 2 4 4]]
+moving up
+score: 32
+game:
+[[2 2 8 8]
+ [0 0 0 4]
+ [0 0 0 0]
+ [2 0 0 0]]
+moving left
+score: 52
+game:
+[[ 4 16  0  0]
+ [ 4  0  0  0]
+ [ 0  2  0  0]
+ [ 2  0  0  0]]
+moving up
+score: 60
+game:
+[[ 8 16  0  0]
+ [ 2  2  0  0]
+ [ 0  0  0  0]
+ [ 0  2  0  0]]
+moving up
+score: 64
+game:
+[[ 8 16  0  0]
+ [ 2  4  2  0]
+ [ 0  0  0  0]
+ [ 0  0  0  0]]
+moving up
+score: 64
+game:
+[[ 8 16  2  0]
+ [ 2  4  2  0]
+ [ 0  0  0  0]
+ [ 0  0  0  0]]
+moving down
+score: 68
+game:
+[[ 0  0  2  0]
+ [ 0  0  0  0]
+ [ 8 16  0  0]
+ [ 2  4  4  0]]
+moving right
+score: 76
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  0]
+ [ 0  2  8 16]
+ [ 0  0  2  8]]
+moving left
+score: 76
+game:
+[[ 2  0  0  0]
+ [ 0  0  0  0]
+ [ 2  8 16  0]
+ [ 2  8  4  0]]
+moving up
+score: 96
+game:
+[[ 4 16 16  0]
+ [ 2  0  4  0]
+ [ 2  0  0  0]
+ [ 0  0  0  0]]
+moving right
+score: 128
+game:
+[[ 0  0  4 32]
+ [ 0  0  2  4]
+ [ 2  0  0  2]
+ [ 0  0  0  0]]
+moving right
+score: 132
+game:
+[[ 0  0  4 32]
+ [ 0  0  2  4]
+ [ 0  0  0  4]
+ [ 0  0  2  0]]
+moving up
+score: 144
+game:
+[[ 0  0  4 32]
+ [ 0  0  4  8]
+ [ 0  0  4  0]
+ [ 0  0  0  0]]
+moving down
+score: 152
+game:
+[[ 0  0  0  0]
+ [ 0  2  0  0]
+ [ 0  0  4 32]
+ [ 0  0  8  8]]
+moving right
+score: 168
+game:
+[[ 0  0  0  0]
+ [ 0  0  2  2]
+ [ 0  0  4 32]
+ [ 0  0  0 16]]
+moving right
+score: 172
+game:
+[[ 0  0  0  0]
+ [ 0  0  0  4]
+ [ 0  0  4 32]
+ [ 0  2  0 16]]
+moving up
+score: 172
+game:
+[[ 0  2  4  4]
+ [ 2  0  0 32]
+ [ 0  0  0 16]
+ [ 0  0  0  0]]
+moving right
+score: 180
+game:
+[[ 0  0  2  8]
+ [ 0  0  2 32]
+ [ 0  2  0 16]
+ [ 0  0  0  0]]
+moving up
+score: 184
+game:
+[[ 0  2  4  8]
+ [ 0  0  0 32]
+ [ 0  0  0 16]
+ [ 0  2  0  0]]
+moving up
+score: 188
+game:
+[[ 0  4  4  8]
+ [ 0  0  0 32]
+ [ 0  0  0 16]
+ [ 0  2  0  0]]
+moving left
+score: 196
+game:
+[[ 8  8  0  0]
+ [32  0  0  2]
+ [16  0  0  0]
+ [ 2  0  0  0]]
+moving left
+score: 212
+game:
+[[16  0  0  0]
+ [32  2  0  0]
+ [16  0  4  0]
+ [ 2  0  0  0]]
+moving down
+score: 212
+game:
+[[16  0  0  0]
+ [32  0  0  0]
+ [16  0  0  2]
+ [ 2  2  4  0]]
+moving left
+score: 216
+game:
+[[16  0  0  0]
+ [32  0  2  0]
+ [16  2  0  0]
+ [ 4  4  0  0]]
+moving left
+score: 224
+game:
+[[16  0  0  2]
+ [32  2  0  0]
+ [16  2  0  0]
+ [ 8  0  0  0]]
+moving up
+score: 228
+game:
+[[16  4  0  2]
+ [32  0  4  0]
+ [16  0  0  0]
+ [ 8  0  0  0]]
+moving left
+score: 228
+game:
+[[16  4  2  0]
+ [32  4  2  0]
+ [16  0  0  0]
+ [ 8  0  0  0]]
+moving down
+score: 240
+game:
+[[16  0  0  0]
+ [32  0  0  0]
+ [16  0  2  0]
+ [ 8  8  4  0]]
+moving left
+score: 256
+game:
+[[16  0  0  0]
+ [32  0  0  0]
+ [16  2  0  2]
+ [16  4  0  0]]
+moving down
+score: 288
+game:
+[[ 0  0  0  0]
+ [16  0  0  2]
+ [32  2  0  0]
+ [32  4  0  2]]
+moving up
+score: 356
+game:
+[[16  2  0  4]
+ [64  4  0  2]
+ [ 0  0  0  0]
+ [ 0  0  0  0]]
+moving down
+score: 356
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  0]
+ [16  2  0  4]
+ [64  4  0  2]]
+moving down
+score: 356
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  2]
+ [16  2  0  4]
+ [64  4  0  2]]
+moving down
+score: 360
+game:
+[[ 0  0  0  0]
+ [ 0  2  0  4]
+ [16  2  0  4]
+ [64  4  0  2]]
+moving up
+score: 372
+game:
+[[16  4  0  8]
+ [64  4  0  2]
+ [ 0  0  0  2]
+ [ 0  0  0  0]]
+moving down
+score: 384
+game:
+[[ 0  0  0  0]
+ [ 0  0  0  0]
+ [16  0  2  8]
+ [64  8  0  4]]
+moving up
+score: 384
+game:
+[[16  8  2  8]
+ [64  0  2  4]
+ [ 0  0  0  0]
+ [ 0  0  0  0]]
+moving down
+score: 388
+game:
+[[ 0  0  0  0]
+ [ 0  0  0  2]
+ [16  0  0  8]
+ [64  8  4  4]]
+moving left
+score: 396
+game:
+[[ 0  0  0  0]
+ [ 2  0  0  0]
+ [16  8  0  2]
+ [64  8  8  0]]
+moving left
+score: 412
+game:
+[[ 0  2  0  0]
+ [ 2  0  0  0]
+ [16  8  2  0]
+ [64 16  0  0]]
+moving down
+score: 412
+game:
+[[ 0  0  0  0]
+ [ 2  2  0  0]
+ [16  8  0  0]
+ [64 16  2  2]]
+moving right
+score: 420
+game:
+[[ 0  0  0  0]
+ [ 0  0  0  4]
+ [ 2  0 16  8]
+ [ 0 64 16  4]]
+moving up
+score: 452
+game:
+[[ 2 64 32  4]
+ [ 0  0  0  8]
+ [ 0  0  0  4]
+ [ 2  0  0  0]]
+moving down
+score: 456
+game:
+[[ 0  0  2  0]
+ [ 0  0  0  4]
+ [ 0  0  0  8]
+ [ 4 64 32  4]]
+moving left
+score: 456
+game:
+[[ 2  0  0  0]
+ [ 4  0  0  0]
+ [ 8  0  0  2]
+ [ 4 64 32  4]]
+moving left
+score: 456
+game:
+[[ 2  0  0  0]
+ [ 4  0  2  0]
+ [ 8  2  0  0]
+ [ 4 64 32  4]]
+moving down
+score: 456
+game:
+[[ 2  0  2  0]
+ [ 4  0  0  0]
+ [ 8  2  2  0]
+ [ 4 64 32  4]]
+moving right
+score: 464
+game:
+[[ 0  2  0  4]
+ [ 0  0  0  4]
+ [ 0  0  8  4]
+ [ 4 64 32  4]]
+moving down
+score: 480
+game:
+[[ 0  0  0  0]
+ [ 2  0  0  0]
+ [ 0  2  8  8]
+ [ 4 64 32  8]]
+moving down
+score: 496
+game:
+[[ 0  0  0  0]
+ [ 2  0  0  0]
+ [ 2  2  8  0]
+ [ 4 64 32 16]]
+moving left
+score: 500
+game:
+[[ 0  0  0  0]
+ [ 2  0  0  0]
+ [ 4  8  2  0]
+ [ 4 64 32 16]]
+moving down
+score: 508
+game:
+[[ 0  0  0  0]
+ [ 0  0  0  2]
+ [ 2  8  2  0]
+ [ 8 64 32 16]]
+moving down
+score: 508
+game:
+[[ 0  0  0  0]
+ [ 0  0  2  0]
+ [ 2  8  2  2]
+ [ 8 64 32 16]]
+moving right
+score: 512
+game:
+[[ 0  0  0  0]
+ [ 0  2  0  2]
+ [ 0  2  8  4]
+ [ 8 64 32 16]]
+moving right
+score: 516
+game:
+[[ 2  0  0  0]
+ [ 0  0  0  4]
+ [ 0  2  8  4]
+ [ 8 64 32 16]]
+moving down
+score: 524
+game:
+[[ 0  0  2  0]
+ [ 0  0  0  0]
+ [ 2  2  8  8]
+ [ 8 64 32 16]]
+moving right
+score: 544
+game:
+[[ 0  0  0  2]
+ [ 0  0  0  0]
+ [ 2  0  4 16]
+ [ 8 64 32 16]]
+moving down
+score: 576
+game:
+[[ 0  0  0  0]
+ [ 2  0  0  0]
+ [ 2  0  4  2]
+ [ 8 64 32 32]]
+moving down
+score: 580
+game:
+[[ 2  0  0  0]
+ [ 0  0  0  0]
+ [ 4  0  4  2]
+ [ 8 64 32 32]]
+moving left
+score: 652
+game:
+[[ 2  0  2  0]
+ [ 0  0  0  0]
+ [ 8  2  0  0]
+ [ 8 64 64  0]]
+moving left
+score: 784
+game:
+[[  4   0   0   2]
+ [  0   0   0   0]
+ [  8   2   0   0]
+ [  8 128   0   0]]
+moving right
+score: 784
+game:
+[[  0   0   4   2]
+ [  0   2   0   0]
+ [  0   0   8   2]
+ [  0   0   8 128]]
+moving down
+score: 804
+game:
+[[  2   0   0   0]
+ [  0   0   0   0]
+ [  0   0   4   4]
+ [  0   2  16 128]]
+moving down
+score: 804
+game:
+[[  0   4   0   0]
+ [  0   0   0   0]
+ [  0   0   4   4]
+ [  2   2  16 128]]
+moving right
+score: 816
+game:
+[[  0   0   0   4]
+ [  0   0   0   0]
+ [  0   4   0   8]
+ [  0   4  16 128]]
+moving down
+score: 824
+game:
+[[  0   2   0   0]
+ [  0   0   0   4]
+ [  0   0   0   8]
+ [  0   8  16 128]]
+moving left
+score: 824
+game:
+[[  2   0   0   0]
+ [  4   0   0   0]
+ [  8   0   0   0]
+ [  8  16 128   4]]
+moving down
+score: 840
+game:
+[[  0   0   0   2]
+ [  2   0   0   0]
+ [  4   0   0   0]
+ [ 16  16 128   4]]
+moving right
+score: 872
+game:
+[[  0   0   0   2]
+ [  0   0   0   2]
+ [  0   0   2   4]
+ [  0  32 128   4]]
+moving down
+score: 884
+game:
+[[  0   0   0   0]
+ [  0   0   0   0]
+ [  0   0   2   4]
+ [  2  32 128   8]]
+moving left
+score: 884
+game:
+[[  2   0   0   0]
+ [  0   0   0   0]
+ [  2   4   0   0]
+ [  2  32 128   8]]
+moving up
+score: 888
+game:
+[[  4   4 128   8]
+ [  2  32   0   0]
+ [  0   0   0   0]
+ [  2   0   0   0]]
+moving down
+score: 892
+game:
+[[  0   0   0   0]
+ [  2   0   0   0]
+ [  4   4   0   0]
+ [  4  32 128   8]]
+moving right
+score: 900
+game:
+[[  0   0   0   0]
+ [  0   0   0   2]
+ [  0   0   2   8]
+ [  4  32 128   8]]
+moving down
+score: 916
+game:
+[[  0   0   0   0]
+ [  0   0   0   0]
+ [  0   2   2   2]
+ [  4  32 128  16]]
+moving left
+score: 920
+game:
+[[  0   0   0   0]
+ [  0   0   0   2]
+ [  4   2   0   0]
+ [  4  32 128  16]]
+moving down
+score: 928
+game:
+[[  0   0   0   0]
+ [  0   0   0   2]
+ [  0   2   0   2]
+ [  8  32 128  16]]
+moving left
+score: 932
+game:
+[[  0   0   0   0]
+ [  2   0   0   0]
+ [  4   2   0   0]
+ [  8  32 128  16]]
+moving right
+score: 932
+game:
+[[  0   0   0   0]
+ [  0   0   0   2]
+ [  2   0   4   2]
+ [  8  32 128  16]]
+moving down
+score: 936
+game:
+[[  2   0   0   0]
+ [  0   0   0   0]
+ [  2   0   4   4]
+ [  8  32 128  16]]
+moving down
+score: 940
+game:
+[[  0   0   0   0]
+ [  0   2   0   0]
+ [  4   0   4   4]
+ [  8  32 128  16]]
+moving left
+score: 948
+game:
+[[  0   0   0   4]
+ [  2   0   0   0]
+ [  8   4   0   0]
+ [  8  32 128  16]]
+moving down
+score: 964
+game:
+[[  0   0   0   0]
+ [  0   0   2   0]
+ [  2   4   0   4]
+ [ 16  32 128  16]]
+moving right
+score: 972
+game:
+[[  0   0   0   2]
+ [  0   0   0   2]
+ [  0   0   2   8]
+ [ 16  32 128  16]]
+moving down
+score: 976
+game:
+[[  0   2   0   0]
+ [  0   0   0   4]
+ [  0   0   2   8]
+ [ 16  32 128  16]]
+moving down
+score: 976
+game:
+[[  0   0   0   0]
+ [  0   0   0   4]
+ [  2   2   2   8]
+ [ 16  32 128  16]]
+moving right
+score: 980
+game:
+[[  0   2   0   0]
+ [  0   0   0   4]
+ [  0   2   4   8]
+ [ 16  32 128  16]]
+moving down
+score: 984
+game:
+[[  0   0   0   2]
+ [  0   0   0   4]
+ [  0   4   4   8]
+ [ 16  32 128  16]]
+moving left
+score: 992
+game:
+[[  2   0   0   0]
+ [  4   2   0   0]
+ [  8   8   0   0]
+ [ 16  32 128  16]]
+moving left
+score: 1008
+game:
+[[  2   0   0   2]
+ [  4   2   0   0]
+ [ 16   0   0   0]
+ [ 16  32 128  16]]
+moving down
+score: 1040
+game:
+[[  0   0   0   0]
+ [  2   4   0   0]
+ [  4   2   0   2]
+ [ 32  32 128  16]]
+moving right
+score: 1108
+game:
+[[  0   0   0   4]
+ [  0   0   2   4]
+ [  0   0   4   4]
+ [  0  64 128  16]]
+moving right
+score: 1116
+game:
+[[  0   0   0   4]
+ [  0   2   2   4]
+ [  0   0   0   8]
+ [  0  64 128  16]]
+moving down
+score: 1124
+game:
+[[  2   0   0   0]
+ [  0   0   0   8]
+ [  0   2   2   8]
+ [  0  64 128  16]]
+moving down
+score: 1140
+game:
+[[  0   0   0   0]
+ [  0   2   0   0]
+ [  0   2   2  16]
+ [  2  64 128  16]]
+moving down
+score: 1176
+game:
+[[  0   0   0   0]
+ [  0   2   0   0]
+ [  0   4   2   0]
+ [  2  64 128  32]]
+moving right
+score: 1176
+game:
+[[  0   0   0   0]
+ [  0   0   0   2]
+ [  2   0   4   2]
+ [  2  64 128  32]]
+moving down
+score: 1184
+game:
+[[  0   0   2   0]
+ [  0   0   0   0]
+ [  0   0   4   4]
+ [  4  64 128  32]]
+moving right
+score: 1192
+game:
+[[  0   0   0   2]
+ [  0   0   0   2]
+ [  0   0   0   8]
+ [  4  64 128  32]]
+moving down
+score: 1196
+game:
+[[  0   0   0   0]
+ [  0   0   4   4]
+ [  0   0   0   8]
+ [  4  64 128  32]]
+moving right
+score: 1204
+game:
+[[  2   0   0   0]
+ [  0   0   0   8]
+ [  0   0   0   8]
+ [  4  64 128  32]]
+moving down
+score: 1220
+game:
+[[  0   0   0   0]
+ [  0   2   0   0]
+ [  2   0   0  16]
+ [  4  64 128  32]]
+moving down
+score: 1220
+game:
+[[  0   2   0   0]
+ [  0   0   0   0]
+ [  2   2   0  16]
+ [  4  64 128  32]]
+moving left
+score: 1224
+game:
+[[  2   0   0   0]
+ [  0   0   0   0]
+ [  4  16   0   2]
+ [  4  64 128  32]]
+moving down
+score: 1232
+game:
+[[  0   4   0   0]
+ [  0   0   0   0]
+ [  2  16   0   2]
+ [  8  64 128  32]]
+moving right
+score: 1232
+game:
+[[  0   0   0   4]
+ [  0   0   0   2]
+ [  0   2  16   2]
+ [  8  64 128  32]]
+moving down
+score: 1236
+game:
+[[  0   0   0   0]
+ [  0   2   0   4]
+ [  0   2  16   4]
+ [  8  64 128  32]]
+moving down
+score: 1248
+game:
+[[  0   2   0   0]
+ [  0   0   0   0]
+ [  0   4  16   8]
+ [  8  64 128  32]]
+moving right
+score: 1248
+game:
+[[  0   0   0   2]
+ [  0   2   0   0]
+ [  0   4  16   8]
+ [  8  64 128  32]]
+moving down
+score: 1248
+game:
+[[  0   0   0   2]
+ [  0   2   0   2]
+ [  0   4  16   8]
+ [  8  64 128  32]]
+moving left
+score: 1252
+game:
+[[  2   0   0   2]
+ [  4   0   0   0]
+ [  4  16   8   0]
+ [  8  64 128  32]]
+moving down
+score: 1260
+game:
+[[  2   0   0   0]
+ [  2   0   0   0]
+ [  8  16   8   2]
+ [  8  64 128  32]]
+moving down
+score: 1280
+game:
+[[  0   0   0   0]
+ [  0   0   2   0]
+ [  4  16   8   2]
+ [ 16  64 128  32]]
+moving left
+score: 1280
+game:
+[[  0   0   0   0]
+ [  2   2   0   0]
+ [  4  16   8   2]
+ [ 16  64 128  32]]
+moving left
+score: 1284
+game:
+[[  0   0   0   0]
+ [  4   2   0   0]
+ [  4  16   8   2]
+ [ 16  64 128  32]]
+moving down
+score: 1292
+game:
+[[  4   0   0   0]
+ [  0   2   0   0]
+ [  8  16   8   2]
+ [ 16  64 128  32]]
+moving right
+score: 1292
+game:
+[[  0   0   0   4]
+ [  2   0   0   2]
+ [  8  16   8   2]
+ [ 16  64 128  32]]
+moving down
+score: 1296
+game:
+[[  0   0   0   2]
+ [  2   0   0   4]
+ [  8  16   8   4]
+ [ 16  64 128  32]]
+moving down
+score: 1304
+game:
+[[  0   2   0   0]
+ [  2   0   0   2]
+ [  8  16   8   8]
+ [ 16  64 128  32]]
+moving right
+score: 1324
+game:
+[[  0   0   0   2]
+ [  2   0   0   4]
+ [  0   8  16  16]
+ [ 16  64 128  32]]
+moving right
+score: 1356
+game:
+[[  0   0   2   2]
+ [  0   0   2   4]
+ [  0   0   8  32]
+ [ 16  64 128  32]]
+moving right
+score: 1360
+game:
+[[  2   0   0   4]
+ [  0   0   2   4]
+ [  0   0   8  32]
+ [ 16  64 128  32]]
+moving down
+score: 1432
+game:
+[[  0   0   0   0]
+ [  2   0   2   0]
+ [  2   0   8   8]
+ [ 16  64 128  64]]
+moving right
+score: 1452
+game:
+[[  0   0   0   0]
+ [  0   0   0   4]
+ [  2   0   2  16]
+ [ 16  64 128  64]]
+moving left
+score: 1456
+game:
+[[  2   0   0   0]
+ [  4   0   0   0]
+ [  4  16   0   0]
+ [ 16  64 128  64]]
+moving down
+score: 1464
+game:
+[[  2   0   0   0]
+ [  2   0   0   0]
+ [  8  16   0   0]
+ [ 16  64 128  64]]
+moving down
+score: 1468
+game:
+[[  0   0   0   0]
+ [  4   0   0   2]
+ [  8  16   0   0]
+ [ 16  64 128  64]]
+moving left
+score: 1468
+game:
+[[  0   0   0   0]
+ [  4   2   2   0]
+ [  8  16   0   0]
+ [ 16  64 128  64]]
+moving left
+score: 1472
+game:
+[[  0   0   0   0]
+ [  4   4   0   2]
+ [  8  16   0   0]
+ [ 16  64 128  64]]
+moving left
+score: 1480
+game:
+[[  0   0   0   0]
+ [  8   2   0   4]
+ [  8  16   0   0]
+ [ 16  64 128  64]]
+moving down
+score: 1496
+game:
+[[  0   0   2   0]
+ [  0   2   0   0]
+ [ 16  16   0   4]
+ [ 16  64 128  64]]
+moving left
+score: 1528
+game:
+[[  2   0   0   0]
+ [  2   2   0   0]
+ [ 32   4   0   0]
+ [ 16  64 128  64]]
+moving left
+score: 1532
+game:
+[[  2   0   0   0]
+ [  4   0   2   0]
+ [ 32   4   0   0]
+ [ 16  64 128  64]]
+moving left
+score: 1532
+game:
+[[  2   0   0   0]
+ [  4   2   0   0]
+ [ 32   4   0   2]
+ [ 16  64 128  64]]
+moving left
+score: 1532
+game:
+[[  2   0   2   0]
+ [  4   2   0   0]
+ [ 32   4   2   0]
+ [ 16  64 128  64]]
+moving down
+score: 1536
+game:
+[[  2   0   0   0]
+ [  4   2   2   0]
+ [ 32   4   4   0]
+ [ 16  64 128  64]]
+moving right
+score: 1548
+game:
+[[  2   0   0   2]
+ [  0   0   4   4]
+ [  0   0  32   8]
+ [ 16  64 128  64]]
+moving right
+score: 1560
+game:
+[[  0   0   0   4]
+ [  0   0   0   8]
+ [  2   0  32   8]
+ [ 16  64 128  64]]
+moving down
+score: 1576
+game:
+[[  4   0   0   0]
+ [  0   0   0   4]
+ [  2   0  32  16]
+ [ 16  64 128  64]]
+moving right
+score: 1576
+game:
+[[  2   0   0   4]
+ [  0   0   0   4]
+ [  0   2  32  16]
+ [ 16  64 128  64]]
+moving down
+score: 1584
+game:
+[[  2   0   0   0]
+ [  0   0   0   8]
+ [  2   2  32  16]
+ [ 16  64 128  64]]
+moving right
+score: 1588
+game:
+[[  0   2   0   2]
+ [  0   0   0   8]
+ [  0   4  32  16]
+ [ 16  64 128  64]]
+moving right
+score: 1592
+game:
+[[  0   0   0   4]
+ [  0   0   0   8]
+ [  2   4  32  16]
+ [ 16  64 128  64]]
+moving left
+score: 1592
+game:
+[[  4   0   0   0]
+ [  8   2   0   0]
+ [  2   4  32  16]
+ [ 16  64 128  64]]
+moving right
+score: 1592
+game:
+[[  0   2   0   4]
+ [  0   0   8   2]
+ [  2   4  32  16]
+ [ 16  64 128  64]]
+moving right
+score: 1592
+game:
+[[  0   0   2   4]
+ [  2   0   8   2]
+ [  2   4  32  16]
+ [ 16  64 128  64]]
+moving down
+score: 1596
+game:
+[[  0   0   2   4]
+ [  2   0   8   2]
+ [  4   4  32  16]
+ [ 16  64 128  64]]
+moving left
+score: 1604
+game:
+[[  2   4   0   0]
+ [  2   8   2   2]
+ [  8  32  16   0]
+ [ 16  64 128  64]]
+moving up
+score: 1608
+game:
+[[  4   4   2   2]
+ [  8   8  16  64]
+ [ 16  32 128   0]
+ [  2  64   0   0]]
+moving right
+score: 1636
+game:
+[[  2   0   8   4]
+ [  0  16  16  64]
+ [  0  16  32 128]
+ [  0   0   2  64]]
+moving right
+score: 1668
+game:
+[[  0   2   8   4]
+ [  0   0  32  64]
+ [  2  16  32 128]
+ [  0   0   2  64]]
+moving up
+score: 1732
+game:
+[[  2   2   8   4]
+ [  0  16  64  64]
+ [  0   0   2 128]
+ [  4   0   0  64]]
+moving right
+score: 1864
+game:
+[[  0   4   8   4]
+ [  2   0  16 128]
+ [  0   0   2 128]
+ [  0   0   4  64]]
+moving up
+score: 2120
+game:
+[[  2   4   8   4]
+ [  2   0  16 256]
+ [  0   0   2  64]
+ [  0   0   4   0]]
+moving up
+score: 2124
+game:
+[[  4   4   8   4]
+ [  0   0  16 256]
+ [  0   0   2  64]
+ [  0   0   4   2]]
+moving right
+score: 2132
+game:
+[[  2   8   8   4]
+ [  0   0  16 256]
+ [  0   0   2  64]
+ [  0   0   4   2]]
+moving right
+score: 2148
+game:
+[[  2   2  16   4]
+ [  0   0  16 256]
+ [  0   0   2  64]
+ [  0   0   4   2]]
+moving up
+score: 2180
+game:
+[[  2   2  32   4]
+ [  2   0   2 256]
+ [  0   0   4  64]
+ [  0   0   0   2]]
+moving right
+score: 2188
+game:
+[[  0   4  32   4]
+ [  0   0   4 256]
+ [  0   0   4  64]
+ [  0   0   2   2]]
+moving left
+score: 2192
+game:
+[[  4  32   4   0]
+ [  4 256   0   2]
+ [  4  64   0   0]
+ [  4   0   0   0]]
+moving up
+score: 2208
+game:
+[[  8  32   4   2]
+ [  8 256   0   0]
+ [  0  64   0   0]
+ [  0   2   0   0]]
+moving left
+score: 2208
+game:
+[[  8  32   4   2]
+ [  8 256   0   0]
+ [ 64   0   0   2]
+ [  2   0   0   0]]
+moving up
+score: 2228
+game:
+[[ 16  32   4   4]
+ [ 64 256   0   0]
+ [  2   2   0   0]
+ [  0   0   0   0]]
+moving right
+score: 2240
+game:
+[[  0  16  32   8]
+ [  0   0  64 256]
+ [  0   2   0   4]
+ [  0   0   0   0]]
+moving up
+score: 2240
+game:
+[[  0  16  32   8]
+ [  2   2  64 256]
+ [  0   0   0   4]
+ [  0   0   0   0]]
+moving left
+score: 2244
+game:
+[[ 16  32   8   0]
+ [  4  64 256   0]
+ [  4   0   0   0]
+ [  4   0   0   0]]
+moving right
+score: 2244
+game:
+[[  0  16  32   8]
+ [  2   4  64 256]
+ [  0   0   0   4]
+ [  0   0   0   4]]
+moving down
+score: 2252
+game:
+[[  0   0   0   2]
+ [  0   0   0   8]
+ [  0  16  32 256]
+ [  2   4  64   8]]
+moving up
+score: 2252
+game:
+[[  2  16  32   2]
+ [  0   4  64   8]
+ [  0   0   0 256]
+ [  0   2   0   8]]
+moving down
+score: 2252
+game:
+[[  0   0   2   2]
+ [  0  16   0   8]
+ [  0   4  32 256]
+ [  2   2  64   8]]
+moving right
+score: 2260
+game:
+[[  0   0   0   4]
+ [  0   0  16   8]
+ [  0   4  32 256]
+ [  2   4  64   8]]
+moving down
+score: 2268
+game:
+[[  0   0   0   4]
+ [  2   0  16   8]
+ [  0   0  32 256]
+ [  2   8  64   8]]
+moving up
+score: 2272
+game:
+[[  4   8  16   4]
+ [  2   0  32   8]
+ [  0   0  64 256]
+ [  0   0   0   8]]
+moving right
+score: 2272
+game:
+[[  4   8  16   4]
+ [  2   2  32   8]
+ [  0   0  64 256]
+ [  0   0   0   8]]
+moving left
+score: 2276
+game:
+[[  4   8  16   4]
+ [  4  32   8   0]
+ [ 64 256   0   0]
+ [  8   0   2   0]]
+moving down
+score: 2284
+game:
+[[  0   2   0   0]
+ [  8   8  16   0]
+ [ 64  32   8   0]
+ [  8 256   2   4]]
+moving right
+score: 2300
+game:
+[[  0   0   0   2]
+ [  2   0  16  16]
+ [  0  64  32   8]
+ [  8 256   2   4]]
+moving left
+score: 2332
+game:
+[[  2   0   0   2]
+ [  2  32   0   0]
+ [ 64  32   8   0]
+ [  8 256   2   4]]
+moving down
+score: 2400
+game:
+[[  0   0   0   2]
+ [  4   0   0   0]
+ [ 64  64   8   2]
+ [  8 256   2   4]]
+moving left
+score: 2528
+game:
+[[  2   0   0   0]
+ [  4   0   0   0]
+ [128   8   2   2]
+ [  8 256   2   4]]
+moving down
+score: 2532
+game:
+[[  2   0   0   0]
+ [  4   2   0   0]
+ [128   8   0   2]
+ [  8 256   4   4]]
+moving left
+score: 2540
+game:
+[[  2   0   0   0]
+ [  4   2   0   0]
+ [128   8   2   0]
+ [  8 256   8   2]]
+moving up
+score: 2540
+game:
+[[  2   2   2   2]
+ [  4   8   8   2]
+ [128 256   0   0]
+ [  8   0   0   0]]
+moving left
+score: 2564
+game:
+[[  4   4   0   0]
+ [  4  16   2   0]
+ [128 256   0   0]
+ [  8   2   0   0]]
+moving up
+score: 2572
+game:
+[[  8   4   2   0]
+ [128  16   0   0]
+ [  8 256   0   2]
+ [  0   2   0   0]]
+moving up
+score: 2572
+game:
+[[  8   4   2   2]
+ [128  16   2   0]
+ [  8 256   0   0]
+ [  0   2   0   0]]
+moving up
+score: 2576
+game:
+[[  8   4   4   2]
+ [128  16   0   2]
+ [  8 256   0   0]
+ [  0   2   0   0]]
+moving left
+score: 2584
+game:
+[[  8   8   2   0]
+ [128  16   2   0]
+ [  8 256   2   0]
+ [  2   0   0   0]]
+moving right
+score: 2600
+game:
+[[  0   0  16   2]
+ [  0 128  16   2]
+ [  2   8 256   2]
+ [  0   0   0   2]]
+moving up
+score: 2640
+game:
+[[  2 128  32   4]
+ [  0   8 256   4]
+ [  0   2   0   0]
+ [  0   0   0   0]]
+moving down
+score: 2648
+game:
+[[  0   0   0   0]
+ [  0 128   0   0]
+ [  2   8  32   0]
+ [  2   2 256   8]]
+moving right
+score: 2652
+game:
+[[  0   0   0   0]
+ [  0   2   0 128]
+ [  0   2   8  32]
+ [  0   4 256   8]]
+moving up
+score: 2656
+game:
+[[  0   4   8 128]
+ [  0   4 256  32]
+ [  0   0   0   8]
+ [  0   0   0   2]]
+moving down
+score: 2664
+game:
+[[  0   0   0 128]
+ [  2   0   0  32]
+ [  0   0   8   8]
+ [  0   8 256   2]]
+moving right
+score: 2680
+game:
+[[  0   0   2 128]
+ [  0   0   2  32]
+ [  0   0   0  16]
+ [  0   8 256   2]]
+moving left
+score: 2680
+game:
+[[  2 128   0   2]
+ [  2  32   0   0]
+ [ 16   0   0   0]
+ [  8 256   2   0]]
+moving up
+score: 2684
+game:
+[[  4 128   2   2]
+ [ 16  32   0   0]
+ [  8 256   0   2]
+ [  0   0   0   0]]
+moving up
+score: 2688
+game:
+[[  4 128   2   4]
+ [ 16  32   0   0]
+ [  8 256   0   0]
+ [  2   0   0   0]]
+moving right
+score: 2688
+game:
+[[  4 128   2   4]
+ [  0   0  16  32]
+ [  2   0   8 256]
+ [  0   0   0   2]]
+moving up
+score: 2688
+game:
+[[  4 128   2   4]
+ [  2   0  16  32]
+ [  0   0   8 256]
+ [  0   2   0   2]]
+moving right
+score: 2692
+game:
+[[  4 128   2   4]
+ [  0   2  16  32]
+ [  0   0   8 256]
+ [  0   0   2   4]]
+moving down
+score: 2692
+game:
+[[  0   2   2   4]
+ [  0   0  16  32]
+ [  0 128   8 256]
+ [  4   2   2   4]]
+moving left
+score: 2700
+game:
+[[  4   4   2   0]
+ [ 16  32   0   0]
+ [128   8 256   0]
+ [  4   4   4   0]]
+moving left
+score: 2716
+game:
+[[  8   2   0   0]
+ [ 16  32   0   0]
+ [128   8 256   2]
+ [  8   4   0   0]]
+moving up
+score: 2716
+game:
+[[  8   2 256   2]
+ [ 16  32   0   0]
+ [128   8   4   0]
+ [  8   4   0   0]]
+moving right
+score: 2716
+game:
+[[  8   2 256   2]
+ [  0   0  16  32]
+ [  2 128   8   4]
+ [  0   0   8   4]]
+moving down
+score: 2740
+game:
+[[  2   0   0   0]
+ [  0   0 256   2]
+ [  8   2  16  32]
+ [  2 128  16   8]]
+moving up
+score: 2772
+game:
+[[  2   2 256   2]
+ [  8 128  32  32]
+ [  2   0   0   8]
+ [  0   0   0   2]]
+moving right
+score: 2840
+game:
+[[  0   4 256   2]
+ [  0   8 128  64]
+ [  0   0   2   8]
+ [  0   0   2   2]]
+moving right
+score: 2844
+game:
+[[  0   4 256   2]
+ [  0   8 128  64]
+ [  0   2   2   8]
+ [  0   0   0   4]]
+moving left
+score: 2848
+game:
+[[  4 256   2   0]
+ [  8 128  64   0]
+ [  4   8   0   2]
+ [  4   0   0   0]]
+moving down
+score: 2856
+game:
+[[  0   2   0   0]
+ [  4 256   0   0]
+ [  8 128   2   0]
+ [  8   8  64   2]]
+moving left
+score: 2872
+game:
+[[  2   0   0   2]
+ [  4 256   0   0]
+ [  8 128   2   0]
+ [ 16  64   2   0]]
+moving left
+score: 2876
+game:
+[[  4   0   0   0]
+ [  4 256   0   0]
+ [  8 128   2   2]
+ [ 16  64   2   0]]
+moving up
+score: 2888
+game:
+[[  8 256   4   2]
+ [  8 128   0   0]
+ [ 16  64   0   0]
+ [  0   0   0   2]]
+moving up
+score: 2908
+game:
+[[ 16 256   4   4]
+ [ 16 128   0   2]
+ [  0  64   0   0]
+ [  0   0   0   0]]
+moving left
+score: 2916
+game:
+[[ 16 256   8   0]
+ [ 16 128   2   0]
+ [ 64   2   0   0]
+ [  0   0   0   0]]
+moving up
+score: 2948
+game:
+[[ 32 256   8   0]
+ [ 64 128   2   0]
+ [  0   2   0   0]
+ [  0   0   0   2]]
+moving up
+score: 2948
+game:
+[[ 32 256   8   2]
+ [ 64 128   2   0]
+ [  2   2   0   0]
+ [  0   0   0   0]]
+moving down
+score: 2948
+game:
+[[  0   0   0   0]
+ [ 32 256   2   0]
+ [ 64 128   8   0]
+ [  2   2   2   2]]
+moving left
+score: 2956
+game:
+[[  0   2   0   0]
+ [ 32 256   2   0]
+ [ 64 128   8   0]
+ [  4   4   0   0]]
+moving right
+score: 2964
+game:
+[[  0   0   2   2]
+ [  0  32 256   2]
+ [  0  64 128   8]
+ [  0   0   0   8]]
+moving down
+score: 2984
+game:
+[[  0   0   0   0]
+ [  0   0   2   0]
+ [  2  32 256   4]
+ [  0  64 128  16]]
+moving down
+score: 2984
+game:
+[[  0   0   2   0]
+ [  0   0   2   0]
+ [  0  32 256   4]
+ [  2  64 128  16]]
+moving down
+score: 2988
+game:
+[[  0   0   0   0]
+ [  0   0   4   0]
+ [  2  32 256   4]
+ [  2  64 128  16]]
+moving down
+score: 2992
+game:
+[[  0   2   0   0]
+ [  0   0   4   0]
+ [  0  32 256   4]
+ [  4  64 128  16]]
+moving right
+score: 2992
+game:
+[[  0   0   2   2]
+ [  0   0   0   4]
+ [  0  32 256   4]
+ [  4  64 128  16]]
+moving down
+score: 3000
+game:
+[[  0   0   0   2]
+ [  0   0   2   2]
+ [  0  32 256   8]
+ [  4  64 128  16]]
+moving right
+score: 3004
+game:
+[[  0   0   0   2]
+ [  0   0   0   4]
+ [  2  32 256   8]
+ [  4  64 128  16]]
+moving left
+score: 3004
+game:
+[[  2   0   2   0]
+ [  4   0   0   0]
+ [  2  32 256   8]
+ [  4  64 128  16]]
+moving right
+score: 3008
+game:
+[[  0   0   2   4]
+ [  0   0   0   4]
+ [  2  32 256   8]
+ [  4  64 128  16]]
+moving down
+score: 3016
+game:
+[[  0   2   0   0]
+ [  0   0   2   8]
+ [  2  32 256   8]
+ [  4  64 128  16]]
+moving down
+score: 3032
+game:
+[[  0   0   0   0]
+ [  2   2   2   0]
+ [  2  32 256  16]
+ [  4  64 128  16]]
+moving down
+score: 3068
+game:
+[[  0   0   0   2]
+ [  0   2   2   0]
+ [  4  32 256   0]
+ [  4  64 128  32]]
+moving down
+score: 3076
+game:
+[[  0   0   0   2]
+ [  0   2   2   0]
+ [  0  32 256   2]
+ [  8  64 128  32]]
+moving left
+score: 3080
+game:
+[[  2   0   0   0]
+ [  4   0   0   0]
+ [ 32 256   2   2]
+ [  8  64 128  32]]
+moving right
+score: 3084
+game:
+[[  0   0   2   2]
+ [  0   0   0   4]
+ [  0  32 256   4]
+ [  8  64 128  32]]
+moving down
+score: 3092
+game:
+[[  0   0   0   0]
+ [  2   0   2   2]
+ [  0  32 256   8]
+ [  8  64 128  32]]
+moving left
+score: 3096
+game:
+[[  0   2   0   0]
+ [  4   2   0   0]
+ [ 32 256   8   0]
+ [  8  64 128  32]]
+moving down
+score: 3100
+game:
+[[  0   0   0   2]
+ [  4   4   0   0]
+ [ 32 256   8   0]
+ [  8  64 128  32]]
+moving right
+score: 3108
+game:
+[[  2   0   0   2]
+ [  0   0   0   8]
+ [  0  32 256   8]
+ [  8  64 128  32]]
+moving right
+score: 3112
+game:
+[[  0   2   0   4]
+ [  0   0   0   8]
+ [  0  32 256   8]
+ [  8  64 128  32]]
+moving down
+score: 3128
+game:
+[[  0   0   0   0]
+ [  0   2   4   4]
+ [  0  32 256  16]
+ [  8  64 128  32]]
+moving right
+score: 3136
+game:
+[[  0   0   2   0]
+ [  0   0   2   8]
+ [  0  32 256  16]
+ [  8  64 128  32]]
+moving down
+score: 3140
+game:
+[[  0   0   0   0]
+ [  0   2   4   8]
+ [  0  32 256  16]
+ [  8  64 128  32]]
+moving left
+score: 3140
+game:
+[[  0   0   2   0]
+ [  2   4   8   0]
+ [ 32 256  16   0]
+ [  8  64 128  32]]
+moving left
+score: 3140
+game:
+[[  2   2   0   0]
+ [  2   4   8   0]
+ [ 32 256  16   0]
+ [  8  64 128  32]]
+moving down
+score: 3144
+game:
+[[  0   2   0   0]
+ [  4   4   8   2]
+ [ 32 256  16   0]
+ [  8  64 128  32]]
+moving left
+score: 3152
+game:
+[[  2   0   0   0]
+ [  8   8   2   0]
+ [ 32 256  16   2]
+ [  8  64 128  32]]
+moving right
+score: 3168
+game:
+[[  2   0   0   2]
+ [  0   0  16   2]
+ [ 32 256  16   2]
+ [  8  64 128  32]]
+moving down
+score: 3204
+game:
+[[  0   0   2   0]
+ [  2   0   0   2]
+ [ 32 256  32   4]
+ [  8  64 128  32]]
+moving right
+score: 3208
+game:
+[[  0   0   0   2]
+ [  0   0   2   4]
+ [ 32 256  32   4]
+ [  8  64 128  32]]
+moving down
+score: 3216
+game:
+[[  0   0   0   0]
+ [  2   0   2   2]
+ [ 32 256  32   8]
+ [  8  64 128  32]]
+moving right
+score: 3220
+game:
+[[  0   0   0   0]
+ [  0   2   2   4]
+ [ 32 256  32   8]
+ [  8  64 128  32]]
+moving right
+score: 3224
+game:
+[[  0   0   0   0]
+ [  2   0   4   4]
+ [ 32 256  32   8]
+ [  8  64 128  32]]
+moving right
+score: 3232
+game:
+[[  0   0   0   0]
+ [  2   0   2   8]
+ [ 32 256  32   8]
+ [  8  64 128  32]]
+moving down
+score: 3248
+game:
+[[  0   0   0   0]
+ [  2   0   2   2]
+ [ 32 256  32  16]
+ [  8  64 128  32]]
+moving left
+score: 3252
+game:
+[[  2   0   0   0]
+ [  4   2   0   0]
+ [ 32 256  32  16]
+ [  8  64 128  32]]
+moving right
+score: 3252
+game:
+[[  2   0   0   2]
+ [  0   0   4   2]
+ [ 32 256  32  16]
+ [  8  64 128  32]]
+moving left
+score: 3256
+game:
+[[  4   0   0   0]
+ [  4   2   0   2]
+ [ 32 256  32  16]
+ [  8  64 128  32]]
+moving left
+score: 3260
+game:
+[[  4   0   0   2]
+ [  4   4   0   0]
+ [ 32 256  32  16]
+ [  8  64 128  32]]
+moving left
+score: 3268
+game:
+[[  4   2   0   0]
+ [  8   0   0   2]
+ [ 32 256  32  16]
+ [  8  64 128  32]]
+moving right
+score: 3268
+game:
+[[  0   0   4   2]
+ [  0   2   8   2]
+ [ 32 256  32  16]
+ [  8  64 128  32]]
+moving up
+score: 3272
+game:
+[[ 32   2   4   4]
+ [  8 256   8  16]
+ [  0  64  32  32]
+ [  0   2 128   0]]
+moving left
+score: 3344
+game:
+[[ 32   2   8   0]
+ [  8 256   8  16]
+ [ 64  64   0   0]
+ [  2 128   2   0]]
+moving up
+score: 3360
+game:
+[[ 32   2  16  16]
+ [  8 256   2   0]
+ [ 64  64   0   2]
+ [  2 128   0   0]]
+moving down
+score: 3360
+game:
+[[ 32   2   0   0]
+ [  8 256   0   4]
+ [ 64  64  16  16]
+ [  2 128   2   2]]
+moving right
+score: 3524
+game:
+[[  0   0  32   2]
+ [  0   8 256   4]
+ [  0   2 128  32]
+ [  0   2 128   4]]
+moving up
+score: 3784
+game:
+[[  0   8  32   2]
+ [  0   4 256   4]
+ [  0   0 256  32]
+ [  0   2   0   4]]
+moving down
+score: 4296
+game:
+[[  0   0   0   2]
+ [  2   8   0   4]
+ [  0   4  32  32]
+ [  0   2 512   4]]
+moving right
+score: 4360
+game:
+[[  0   2   0   2]
+ [  0   2   8   4]
+ [  0   0   4  64]
+ [  0   2 512   4]]
+moving right
+score: 4364
+game:
+[[  0   0   0   4]
+ [  0   2   8   4]
+ [  0   0   4  64]
+ [  2   2 512   4]]
+moving up
+score: 4376
+game:
+[[  2   4   8   8]
+ [  0   0   4  64]
+ [  0   4 512   4]
+ [  0   0   0   0]]
+moving right
+score: 4392
+game:
+[[  0   2   4  16]
+ [  0   0   4  64]
+ [  0   4 512   4]
+ [  0   0   0   4]]
+moving up
+score: 4408
+game:
+[[  0   2   8  16]
+ [  0   4 512  64]
+ [  2   0   0   8]
+ [  0   0   0   0]]
+moving up
+score: 4408
+game:
+[[  2   2   8  16]
+ [  2   4 512  64]
+ [  0   0   0   8]
+ [  0   0   0   0]]
+moving right
+score: 4412
+game:
+[[  0   4   8  16]
+ [  2   4 512  64]
+ [  0   0   0   8]
+ [  0   2   0   0]]
+moving down
+score: 4420
+game:
+[[  0   0   0   0]
+ [  0   0   2  16]
+ [  0   8   8  64]
+ [  2   2 512   8]]
+moving right
+score: 4440
+game:
+[[  0   0   2   0]
+ [  0   0   2  16]
+ [  0   0  16  64]
+ [  0   4 512   8]]
+moving up
+score: 4444
+game:
+[[  0   4   4  16]
+ [  0   0  16  64]
+ [  2   0 512   8]
+ [  0   0   0   0]]
+moving right
+score: 4452
+game:
+[[  4   0   8  16]
+ [  0   0  16  64]
+ [  0   2 512   8]
+ [  0   0   0   0]]
+moving right
+score: 4452
+game:
+[[  0   4   8  16]
+ [  0   0  16  64]
+ [  2   2 512   8]
+ [  0   0   0   0]]
+moving right
+score: 4456
+game:
+[[  0   4   8  16]
+ [  0   0  16  64]
+ [  2   4 512   8]
+ [  0   0   0   0]]
+moving up
+score: 4464
+game:
+[[  2   8   8  16]
+ [  0   0  16  64]
+ [  0   0 512   8]
+ [  0   0   0   2]]
+moving right
+score: 4480
+game:
+[[  0   2  16  16]
+ [  0   4  16  64]
+ [  0   0 512   8]
+ [  0   0   0   2]]
+moving up
+score: 4512
+game:
+[[  0   2  32  16]
+ [  0   4 512  64]
+ [  2   0   0   8]
+ [  0   0   0   2]]
+moving right
+score: 4512
+game:
+[[  2   2  32  16]
+ [  0   4 512  64]
+ [  0   0   2   8]
+ [  0   0   0   2]]
+moving right
+score: 4516
+game:
+[[  0   4  32  16]
+ [  0   4 512  64]
+ [  2   0   2   8]
+ [  0   0   0   2]]
+moving right
+score: 4520
+game:
+[[  0   4  32  16]
+ [  0   4 512  64]
+ [  0   2   4   8]
+ [  0   0   0   2]]
+moving up
+score: 4528
+game:
+[[  0   8  32  16]
+ [  0   2 512  64]
+ [  0   0   4   8]
+ [  2   0   0   2]]
+moving right
+score: 4532
+game:
+[[  0   8  32  16]
+ [  2   2 512  64]
+ [  0   0   4   8]
+ [  0   0   0   4]]
+moving right
+score: 4536
+game:
+[[  2   8  32  16]
+ [  0   4 512  64]
+ [  0   0   4   8]
+ [  0   0   0   4]]
+moving down
+score: 4536
+game:
+[[  2   0   0  16]
+ [  0   0  32  64]
+ [  0   8 512   8]
+ [  2   4   4   4]]
+moving down
+score: 4540
+game:
+[[  0   0   2  16]
+ [  0   0  32  64]
+ [  0   8 512   8]
+ [  4   4   4   4]]
+moving right
+score: 4556
+game:
+[[  0   0   2  16]
+ [  0   0  32  64]
+ [  0   8 512   8]
+ [  2   0   8   8]]
+moving down
+score: 4572
+game:
+[[  0   2   2   0]
+ [  0   0  32  16]
+ [  0   0 512  64]
+ [  2   8   8  16]]
+moving right
+score: 4592
+game:
+[[  0   0   0   4]
+ [  0   0  32  16]
+ [  2   0 512  64]
+ [  0   2  16  16]]
+moving down
+score: 4592
+game:
+[[  2   0   0   4]
+ [  0   0  32  16]
+ [  0   0 512  64]
+ [  2   2  16  16]]
+moving right
+score: 4628
+game:
+[[  2   0   2   4]
+ [  0   0  32  16]
+ [  0   0 512  64]
+ [  0   0   4  32]]
+moving right
+score: 4632
+game:
+[[  0   0   4   4]
+ [  0   0  32  16]
+ [  0   0 512  64]
+ [  0   2   4  32]]
+moving up
+score: 4632
+game:
+[[  0   2   4   4]
+ [  0   0  32  16]
+ [  2   0 512  64]
+ [  0   0   4  32]]
+moving down
+score: 4632
+game:
+[[  0   0   4   4]
+ [  0   0  32  16]
+ [  2   0 512  64]
+ [  2   2   4  32]]
+moving right
+score: 4644
+game:
+[[  2   0   0   8]
+ [  0   0  32  16]
+ [  0   2 512  64]
+ [  0   4   4  32]]
+moving right
+score: 4652
+game:
+[[  0   0   2   8]
+ [  0   2  32  16]
+ [  0   2 512  64]
+ [  0   0   8  32]]
+moving down
+score: 4656
+game:
+[[  0   2   2   8]
+ [  0   0  32  16]
+ [  0   0 512  64]
+ [  0   4   8  32]]
+moving right
+score: 4660
+game:
+[[  4   0   4   8]
+ [  0   0  32  16]
+ [  0   0 512  64]
+ [  0   4   8  32]]
+moving right
+score: 4668
+game:
+[[  0   0   8   8]
+ [  0   0  32  16]
+ [  0   2 512  64]
+ [  0   4   8  32]]
+moving right
+score: 4684
+game:
+[[  0   0   0  16]
+ [  0   0  32  16]
+ [  2   2 512  64]
+ [  0   4   8  32]]
+moving right
+score: 4688
+game:
+[[  0   2   0  16]
+ [  0   0  32  16]
+ [  0   4 512  64]
+ [  0   4   8  32]]
+moving down
+score: 4728
+game:
+[[  0   0   2   0]
+ [  0   0  32  32]
+ [  0   2 512  64]
+ [  0   8   8  32]]
+moving right
+score: 4808
+game:
+[[  0   0   0   2]
+ [  0   0   0  64]
+ [  0   2 512  64]
+ [  2   0  16  32]]
+moving down
+score: 4936
+game:
+[[  0   0   0   0]
+ [  0   0   2   2]
+ [  0   0 512 128]
+ [  2   2  16  32]]
+moving right
+score: 4944
+game:
+[[  0   0   0   0]
+ [  0   0   0   4]
+ [  0   2 512 128]
+ [  0   4  16  32]]
+moving up
+score: 4944
+game:
+[[  0   2 512   4]
+ [  0   4  16 128]
+ [  0   0   0  32]
+ [  0   0   2   0]]
+moving up
+score: 4944
+game:
+[[  0   2 512   4]
+ [  0   4  16 128]
+ [  2   0   2  32]
+ [  0   0   0   0]]
+moving right
+score: 4948
+game:
+[[  0   2 512   4]
+ [  0   4  16 128]
+ [  0   0   4  32]
+ [  0   0   0   2]]
+moving down
+score: 4948
+game:
+[[  0   0   0   4]
+ [  0   2 512 128]
+ [  0   2  16  32]
+ [  0   4   4   2]]
+moving right
+score: 4956
+game:
+[[  0   0   0   4]
+ [  0   2 512 128]
+ [  0   2  16  32]
+ [  2   0   8   2]]
+moving up
+score: 4960
+game:
+[[  2   4 512   4]
+ [  0   4  16 128]
+ [  0   0   8  32]
+ [  0   0   0   2]]
+moving down
+score: 4968
+game:
+[[  0   0   0   4]
+ [  2   0 512 128]
+ [  0   0  16  32]
+ [  2   8   8   2]]
+moving right
+score: 4984
+game:
+[[  0   0   0   4]
+ [  2   2 512 128]
+ [  0   0  16  32]
+ [  0   2  16   2]]
+moving down
+score: 5020
+game:
+[[  0   0   2   4]
+ [  0   0   0 128]
+ [  0   0 512  32]
+ [  2   4  32   2]]
+moving down
+score: 5020
+game:
+[[  0   0   4   4]
+ [  0   0   2 128]
+ [  0   0 512  32]
+ [  2   4  32   2]]
+moving up
+score: 5020
+game:
+[[  2   4   4   4]
+ [  0   2   2 128]
+ [  0   0 512  32]
+ [  0   0  32   2]]
+moving right
+score: 5032
+game:
+[[  0   2   4   8]
+ [  2   0   4 128]
+ [  0   0 512  32]
+ [  0   0  32   2]]
+moving up
+score: 5040
+game:
+[[  2   2   8   8]
+ [  0   0 512 128]
+ [  0   2  32  32]
+ [  0   0   0   2]]
+moving left
+score: 5124
+game:
+[[  4  16   0   0]
+ [512 128   0   0]
+ [  2  64   2   0]
+ [  2   0   0   0]]
+moving right
+score: 5124
+game:
+[[  4   0   4  16]
+ [  0   0 512 128]
+ [  0   2  64   2]
+ [  0   0   0   2]]
+moving right
+score: 5132
+game:
+[[  2   0   8  16]
+ [  0   0 512 128]
+ [  0   2  64   2]
+ [  0   0   0   2]]
+moving up
+score: 5136
+game:
+[[  2   2   8  16]
+ [  0   0 512 128]
+ [  0   0  64   4]
+ [  0   2   0   0]]
+moving up
+score: 5140
+game:
+[[  2   4   8  16]
+ [  0   0 512 128]
+ [  0   0  64   4]
+ [  0   0   2   0]]
+moving right
+score: 5140
+game:
+[[  2   4   8  16]
+ [  0   0 512 128]
+ [  0   0  64   4]
+ [  2   0   0   2]]
+moving right
+score: 5144
+game:
+[[  2   4   8  16]
+ [  2   0 512 128]
+ [  0   0  64   4]
+ [  0   0   0   4]]
+moving up
+score: 5156
+game:
+[[  4   4   8  16]
+ [  0   0 512 128]
+ [  0   2  64   8]
+ [  0   0   0   0]]
+moving right
+score: 5164
+game:
+[[  0   8   8  16]
+ [  0   0 512 128]
+ [  0   2  64   8]
+ [  0   2   0   0]]
+moving right
+score: 5180
+game:
+[[  0   0  16  16]
+ [  0   0 512 128]
+ [  2   2  64   8]
+ [  0   0   0   2]]
+moving up
+score: 5180
+game:
+[[  2   2  16  16]
+ [  0   2 512 128]
+ [  0   0  64   8]
+ [  0   0   0   2]]
+moving right
+score: 5216
+game:
+[[  0   0   4  32]
+ [  2   2 512 128]
+ [  0   0  64   8]
+ [  0   0   0   2]]
+moving up
+score: 5216
+game:
+[[  2   2   4  32]
+ [  0   2 512 128]
+ [  0   0  64   8]
+ [  0   0   0   2]]
+moving up
+score: 5220
+game:
+[[  2   4   4  32]
+ [  0   2 512 128]
+ [  0   0  64   8]
+ [  0   0   0   2]]
+moving right
+score: 5228
+game:
+[[  2   2   8  32]
+ [  0   2 512 128]
+ [  0   0  64   8]
+ [  0   0   0   2]]
+moving up
+score: 5232
+game:
+[[  2   4   8  32]
+ [  0   0 512 128]
+ [  2   0  64   8]
+ [  0   0   0   2]]
+moving up
+score: 5236
+game:
+[[  4   4   8  32]
+ [  0   0 512 128]
+ [  0   4  64   8]
+ [  0   0   0   2]]
+moving up
+score: 5244
+game:
+[[  4   8   8  32]
+ [  0   4 512 128]
+ [  0   0  64   8]
+ [  0   0   0   2]]
+moving right
+score: 5260
+game:
+[[  0   4  16  32]
+ [  0   4 512 128]
+ [  0   0  64   8]
+ [  0   2   0   2]]
+moving right
+score: 5264
+game:
+[[  0   4  16  32]
+ [  2   4 512 128]
+ [  0   0  64   8]
+ [  0   0   0   4]]
+moving up
+score: 5272
+game:
+[[  2   8  16  32]
+ [  2   0 512 128]
+ [  0   0  64   8]
+ [  0   0   0   4]]
+moving up
+score: 5276
+game:
+[[  4   8  16  32]
+ [  0   0 512 128]
+ [  0   0  64   8]
+ [  0   4   0   4]]
+moving right
+score: 5284
+game:
+[[  4   8  16  32]
+ [  0   0 512 128]
+ [  0   0  64   8]
+ [  2   0   0   8]]
+moving up
+score: 5300
+game:
+[[  4   8  16  32]
+ [  2   0 512 128]
+ [  2   0  64  16]
+ [  0   0   0   0]]
+moving up
+score: 5304
+game:
+[[  4   8  16  32]
+ [  4   0 512 128]
+ [  0   2  64  16]
+ [  0   0   0   0]]
+moving up
+score: 5312
+game:
+[[  8   8  16  32]
+ [  0   2 512 128]
+ [  0   0  64  16]
+ [  0   0   0   2]]
+moving right
+score: 5328
+game:
+[[  0  16  16  32]
+ [  0   2 512 128]
+ [  0   2  64  16]
+ [  0   0   0   2]]
+moving right
+score: 5360
+game:
+[[  0   0  32  32]
+ [  0   2 512 128]
+ [  0   2  64  16]
+ [  2   0   0   2]]
+moving right
+score: 5428
+game:
+[[  0   0   0  64]
+ [  0   2 512 128]
+ [  0   2  64  16]
+ [  0   2   0   4]]
+moving up
+score: 5432
+game:
+[[  0   4 512  64]
+ [  0   2  64 128]
+ [  0   0   2  16]
+ [  0   0   0   4]]
+moving down
+score: 5432
+game:
+[[  0   0   0  64]
+ [  0   0 512 128]
+ [  2   4  64  16]
+ [  0   2   2   4]]
+moving right
+score: 5436
+game:
+[[  0   0   0  64]
+ [  0   0 512 128]
+ [  2   4  64  16]
+ [  0   2   4   4]]
+moving left
+score: 5444
+game:
+[[ 64   0   0   2]
+ [512 128   0   0]
+ [  2   4  64  16]
+ [  2   8   0   0]]
+moving up
+score: 5448
+game:
+[[ 64 128  64   2]
+ [512   4   2  16]
+ [  4   8   0   0]
+ [  0   0   0   0]]
+moving right
+score: 5448
+game:
+[[ 64 128  64   2]
+ [512   4   2  16]
+ [  0   0   4   8]
+ [  2   0   0   0]]
+moving down
+score: 5448
+game:
+[[  0   0   0   2]
+ [ 64   0  64   2]
+ [512 128   2  16]
+ [  2   4   4   8]]
+moving left
+score: 5584
+game:
+[[  2   0   0   0]
+ [128   2   2   0]
+ [512 128   2  16]
+ [  2   8   8   0]]
+moving right
+score: 5604
+game:
+[[  0   0   2   2]
+ [  0   0 128   4]
+ [512 128   2  16]
+ [  0   0   2  16]]
+moving up
+score: 5640
+game:
+[[512 128   2   2]
+ [  0   0 128   4]
+ [  0   0   4  32]
+ [  4   0   0   0]]
+moving right
+score: 5644
+game:
+[[  0 512 128   4]
+ [  0   0 128   4]
+ [  2   0   4  32]
+ [  0   0   0   4]]
+moving down
+score: 5908
+game:
+[[  0   0   0   0]
+ [  2   0   0   8]
+ [  0   0 256  32]
+ [  2 512   4   4]]
+moving down
+score: 5912
+game:
+[[  0   0   0   0]
+ [  0   0   2   8]
+ [  0   0 256  32]
+ [  4 512   4   4]]
+moving right
+score: 5920
+game:
+[[  0   0   0   0]
+ [  0   2   2   8]
+ [  0   0 256  32]
+ [  0   4 512   8]]
+moving right
+score: 5924
+game:
+[[  0   0   0   2]
+ [  0   0   4   8]
+ [  0   0 256  32]
+ [  0   4 512   8]]
+moving up
+score: 5924
+game:
+[[  0   4   4   2]
+ [  0   0 256   8]
+ [  0   2 512  32]
+ [  0   0   0   8]]
+moving right
+score: 5932
+game:
+[[  0   0   8   2]
+ [  0   2 256   8]
+ [  0   2 512  32]
+ [  0   0   0   8]]
+moving down
+score: 5936
+game:
+[[  0   0   0   2]
+ [  0   2   8   8]
+ [  0   0 256  32]
+ [  0   4 512   8]]
+moving right
+score: 5952
+game:
+[[  0   0   0   2]
+ [  0   0   2  16]
+ [  2   0 256  32]
+ [  0   4 512   8]]
+moving down
+score: 5952
+game:
+[[  0   0   0   2]
+ [  0   2   2  16]
+ [  0   0 256  32]
+ [  2   4 512   8]]
+moving right
+score: 5956
+game:
+[[  0   0   0   2]
+ [  0   0   4  16]
+ [  2   0 256  32]
+ [  2   4 512   8]]
+moving down
+score: 5960
+game:
+[[  0   0   2   2]
+ [  0   0   4  16]
+ [  0   0 256  32]
+ [  4   4 512   8]]
+moving right
+score: 5972
+game:
+[[  0   2   0   4]
+ [  0   0   4  16]
+ [  0   0 256  32]
+ [  0   8 512   8]]
+moving right
+score: 5972
+game:
+[[  0   0   2   4]
+ [  0   0   4  16]
+ [  0   0 256  32]
+ [  2   8 512   8]]
+moving up
+score: 5972
+game:
+[[  2   8   2   4]
+ [  0   2   4  16]
+ [  0   0 256  32]
+ [  0   0 512   8]]
+moving down
+score: 5972
+game:
+[[  0   0   2   4]
+ [  0   2   4  16]
+ [  0   8 256  32]
+ [  2   2 512   8]]
+moving right
+score: 5976
+game:
+[[  0   0   2   4]
+ [  0   2   4  16]
+ [  2   8 256  32]
+ [  0   4 512   8]]
+moving left
+score: 5976
+game:
+[[  2   4   0   2]
+ [  2   4  16   0]
+ [  2   8 256  32]
+ [  4 512   8   0]]
+moving down
+score: 5988
+game:
+[[  0   0   0   0]
+ [  2   8  16   2]
+ [  4   8 256   2]
+ [  4 512   8  32]]
+moving up
+score: 6016
+game:
+[[  2  16  16   4]
+ [  8 512 256  32]
+ [  0   2   8   0]
+ [  0   0   0   0]]
+moving right
+score: 6048
+game:
+[[  0   2  32   4]
+ [  8 512 256  32]
+ [  2   0   2   8]
+ [  0   0   0   0]]
+moving right
+score: 6052
+game:
+[[  0   2  32   4]
+ [  8 512 256  32]
+ [  0   0   4   8]
+ [  0   0   0   2]]
+moving down
+score: 6052
+game:
+[[  2   0   0   4]
+ [  0   0  32  32]
+ [  0   2 256   8]
+ [  8 512   4   2]]
+moving right
+score: 6116
+game:
+[[  0   0   2   4]
+ [  0   0   0  64]
+ [  2   2 256   8]
+ [  8 512   4   2]]
+moving up
+score: 6116
+game:
+[[  2   2   2   4]
+ [  8 512 256  64]
+ [  2   0   4   8]
+ [  0   0   0   2]]
+moving right
+score: 6120
+game:
+[[  0   2   4   4]
+ [  8 512 256  64]
+ [  0   2   4   8]
+ [  0   2   0   2]]
+moving right
+score: 6132
+game:
+[[  2   0   2   8]
+ [  8 512 256  64]
+ [  0   2   4   8]
+ [  0   0   0   4]]
+moving right
+score: 6136
+game:
+[[  0   0   4   8]
+ [  8 512 256  64]
+ [  2   2   4   8]
+ [  0   0   0   4]]
+moving right
+score: 6140
+game:
+[[  2   0   4   8]
+ [  8 512 256  64]
+ [  0   4   4   8]
+ [  0   0   0   4]]
+moving right
+score: 6148
+game:
+[[  0   2   4   8]
+ [  8 512 256  64]
+ [  2   0   8   8]
+ [  0   0   0   4]]
+moving right
+score: 6164
+game:
+[[  0   2   4   8]
+ [  8 512 256  64]
+ [  0   0   2  16]
+ [  0   0   2   4]]
+moving down
+score: 6168
+game:
+[[  0   0   2   8]
+ [  0   0   4  64]
+ [  0   2 256  16]
+ [  8 512   4   4]]
+moving right
+score: 6176
+game:
+[[  0   0   2   8]
+ [  0   2   4  64]
+ [  0   2 256  16]
+ [  0   8 512   8]]
+moving down
+score: 6180
+game:
+[[  0   0   2   8]
+ [  0   2   4  64]
+ [  0   4 256  16]
+ [  0   8 512   8]]
+moving up
+score: 6180
+game:
+[[  0   2   2   8]
+ [  0   4   4  64]
+ [  0   8 256  16]
+ [  2   0 512   8]]
+moving right
+score: 6192
+game:
+[[  0   0   4   8]
+ [  0   2   8  64]
+ [  0   8 256  16]
+ [  0   2 512   8]]
+moving up
+score: 6192
+game:
+[[  0   2   4   8]
+ [  0   8   8  64]
+ [  2   2 256  16]
+ [  0   0 512   8]]
+moving right
+score: 6212
+game:
+[[  2   2   4   8]
+ [  0   0  16  64]
+ [  0   4 256  16]
+ [  0   0 512   8]]
+moving right
+score: 6216
+game:
+[[  0   4   4   8]
+ [  2   0  16  64]
+ [  0   4 256  16]
+ [  0   0 512   8]]
+moving right
+score: 6224
+game:
+[[  0   0   8   8]
+ [  2   2  16  64]
+ [  0   4 256  16]
+ [  0   0 512   8]]
+moving left
+score: 6244
+game:
+[[ 16   0   2   0]
+ [  4  16  64   0]
+ [  4 256  16   0]
+ [512   8   0   0]]
+moving down
+score: 6252
+game:
+[[  0   0   2   0]
+ [ 16  16   2   0]
+ [  8 256  64   0]
+ [512   8  16   0]]
+moving left
+score: 6284
+game:
+[[  2   0   0   0]
+ [ 32   2   2   0]
+ [  8 256  64   0]
+ [512   8  16   0]]
+moving up
+score: 6284
+game:
+[[  2   2   2   0]
+ [ 32 256  64   0]
+ [  8   8  16   2]
+ [512   0   0   0]]
+moving left
+score: 6304
+game:
+[[  4   2   0   0]
+ [ 32 256  64   0]
+ [ 16  16   2   0]
+ [512   2   0   0]]
+moving left
+score: 6336
+game:
+[[  4   2   0   0]
+ [ 32 256  64   2]
+ [ 32   2   0   0]
+ [512   2   0   0]]
+moving down
+score: 6404
+game:
+[[  0   0   0   0]
+ [  4   2   0   2]
+ [ 64 256   0   0]
+ [512   4  64   2]]
+moving right
+score: 6408
+game:
+[[  0   0   2   0]
+ [  0   0   4   4]
+ [  0   0  64 256]
+ [512   4  64   2]]
+moving right
+score: 6416
+game:
+[[  0   0   0   2]
+ [  0   0   2   8]
+ [  0   0  64 256]
+ [512   4  64   2]]
+moving up
+score: 6544
+game:
+[[512   4   2   2]
+ [  0   0 128   8]
+ [  0   0   2 256]
+ [  0   0   0   2]]
+moving left
+score: 6548
+game:
+[[512   4   4   0]
+ [128   8   0   0]
+ [  2 256   2   0]
+ [  2   0   0   0]]
+moving right
+score: 6556
+game:
+[[  0   0 512   8]
+ [  0   0 128   8]
+ [  0   2 256   2]
+ [  0   0   4   2]]
+moving up
+score: 6576
+game:
+[[  0   2 512  16]
+ [  0   0 128   4]
+ [  0   0 256   0]
+ [  0   4   4   0]]
+moving right
+score: 6584
+game:
+[[  0   2 512  16]
+ [  0   2 128   4]
+ [  0   0   0 256]
+ [  0   0   0   8]]
+moving up
+score: 6588
+game:
+[[  2   4 512  16]
+ [  0   0 128   4]
+ [  0   0   0 256]
+ [  0   0   0   8]]
+moving left
+score: 6588
+game:
+[[  2   4 512  16]
+ [128   4   0   0]
+ [256   0   0   2]
+ [  8   0   0   0]]
+moving down
+score: 6596
+game:
+[[  2   2   0   0]
+ [128   0   0   0]
+ [256   0   0  16]
+ [  8   8 512   2]]
+moving left
+score: 6616
+game:
+[[  4   0   0   0]
+ [128   0   2   0]
+ [256  16   0   0]
+ [ 16 512   2   0]]
+moving left
+score: 6616
+game:
+[[  4   0   0   0]
+ [128   2   0   0]
+ [256  16   2   0]
+ [ 16 512   2   0]]
+moving down
+score: 6620
+game:
+[[  4   0   0   0]
+ [128   2   0   0]
+ [256  16   0   0]
+ [ 16 512   4   2]]
+moving up
+score: 6620
+game:
+[[  4   2   4   2]
+ [128  16   0   0]
+ [256 512   0   2]
+ [ 16   0   0   0]]
+moving down
+score: 6624
+game:
+[[  4   0   0   0]
+ [128   2   2   0]
+ [256  16   0   0]
+ [ 16 512   4   4]]
+moving right
+score: 6636
+game:
+[[  0   0   0   4]
+ [  0   0 128   4]
+ [  0   0 256  16]
+ [  2  16 512   8]]
+moving up
+score: 6644
+game:
+[[  2  16 128   8]
+ [  0   0 256  16]
+ [  2   0 512   8]
+ [  0   0   0   0]]
+moving up
+score: 6648
+game:
+[[  4  16 128   8]
+ [  0   0 256  16]
+ [  0   0 512   8]
+ [  0   2   0   0]]
+moving left
+score: 6648
+game:
+[[  4  16 128   8]
+ [256  16   2   0]
+ [512   8   0   0]
+ [  2   0   0   0]]
+moving up
+score: 6680
+game:
+[[  4  32 128   8]
+ [256   8   2   0]
+ [512   0   0   0]
+ [  2   0   2   0]]
+moving left
+score: 6684
+game:
+[[  4  32 128   8]
+ [256   8   2   0]
+ [512   0   0   0]
+ [  4   0   0   4]]
+moving left
+score: 6692
+game:
+[[  4  32 128   8]
+ [256   8   2   0]
+ [512   0   0   0]
+ [  8   4   0   0]]
+moving up
+score: 6692
+game:
+[[  4  32 128   8]
+ [256   8   2   2]
+ [512   4   0   0]
+ [  8   0   0   0]]
+moving right
+score: 6696
+game:
+[[  4  32 128   8]
+ [  0 256   8   4]
+ [  0   0 512   4]
+ [  0   0   2   8]]
+moving up
+score: 6704
+game:
+[[  4  32 128   8]
+ [  2 256   8   8]
+ [  0   0 512   8]
+ [  0   0   2   0]]
+moving up
+score: 6720
+game:
+[[  4  32 128  16]
+ [  2 256   8   8]
+ [  0   0 512   0]
+ [  4   0   2   0]]
+moving right
+score: 6736
+game:
+[[  4  32 128  16]
+ [  0   2 256  16]
+ [  0   0   0 512]
+ [  0   4   4   2]]
+moving right
+score: 6744
+game:
+[[  4  32 128  16]
+ [  0   2 256  16]
+ [  0   0   0 512]
+ [  2   0   8   2]]
+moving down
+score: 6776
+game:
+[[  0   0   0   2]
+ [  0   0 128  32]
+ [  4  32 256 512]
+ [  2   2   8   2]]
+moving left
+score: 6780
+game:
+[[  2   0   0   0]
+ [128  32   0   0]
+ [  4  32 256 512]
+ [  4   8   2   2]]
+moving down
+score: 6852
+game:
+[[  0   0   0   0]
+ [  2   0   0   2]
+ [128  64 256 512]
+ [  8   8   2   2]]
+moving left
+score: 6876
+game:
+[[  0   0   0   0]
+ [  4   0   0   2]
+ [128  64 256 512]
+ [ 16   4   0   0]]
+moving left
+score: 6876
+game:
+[[  0   0   0   0]
+ [  4   2   0   0]
+ [128  64 256 512]
+ [ 16   4   0   2]]
+moving left
+score: 6876
+game:
+[[  0   0   0   0]
+ [  4   2   0   0]
+ [128  64 256 512]
+ [ 16   4   2   2]]
+moving left
+score: 6880
+game:
+[[  0   0   2   0]
+ [  4   2   0   0]
+ [128  64 256 512]
+ [ 16   4   4   0]]
+moving left
+score: 6888
+game:
+[[  2   0   0   0]
+ [  4   2   2   0]
+ [128  64 256 512]
+ [ 16   8   0   0]]
+moving left
+score: 6892
+game:
+[[  2   0   0   4]
+ [  4   4   0   0]
+ [128  64 256 512]
+ [ 16   8   0   0]]
+moving right
+score: 6900
+game:
+[[  0   0   2   4]
+ [  0   0   0   8]
+ [128  64 256 512]
+ [  2   0  16   8]]
+moving right
+score: 6900
+game:
+[[  0   0   2   4]
+ [  0   0   2   8]
+ [128  64 256 512]
+ [  0   2  16   8]]
+moving up
+score: 6904
+game:
+[[128  64   4   4]
+ [  0   2 256   8]
+ [  0   0  16 512]
+ [  0   2   0   8]]
+moving up
+score: 6908
+game:
+[[128  64   4   4]
+ [  0   4 256   8]
+ [  0   0  16 512]
+ [  2   0   0   8]]
+moving right
+score: 6916
+game:
+[[  0 128  64   8]
+ [  0   4 256   8]
+ [  2   0  16 512]
+ [  0   0   2   8]]
+moving left
+score: 6916
+game:
+[[128  64   8   0]
+ [  4 256   8   2]
+ [  2  16 512   0]
+ [  2   8   0   0]]
+moving down
+score: 6936
+game:
+[[  0  64   0   0]
+ [128 256   0   0]
+ [  4  16  16   2]
+ [  4   8 512   2]]
+moving down
+score: 6948
+game:
+[[  0  64   0   0]
+ [  0 256   0   0]
+ [128  16  16   2]
+ [  8   8 512   4]]
+moving left
+score: 6996
+game:
+[[ 64   0   0   0]
+ [256   0   0   0]
+ [128  32   2   0]
+ [ 16 512   4   2]]
+moving right
+score: 6996
+game:
+[[  0   0   0  64]
+ [  0   0   2 256]
+ [  0 128  32   2]
+ [ 16 512   4   2]]
+moving down
+score: 7000
+game:
+[[  2   0   0   0]
+ [  0   0   2  64]
+ [  0 128  32 256]
+ [ 16 512   4   4]]
+moving right
+score: 7008
+game:
+[[  0   0   2   2]
+ [  0   0   2  64]
+ [  0 128  32 256]
+ [  0  16 512   8]]
+moving down
+score: 7012
+game:
+[[  0   0   0   2]
+ [  0   0   4  64]
+ [  0 128  32 256]
+ [  2  16 512   8]]
+moving left
+score: 7012
+game:
+[[  2   0   0   0]
+ [  4  64   2   0]
+ [128  32 256   0]
+ [  2  16 512   8]]
+moving right
+score: 7012
+game:
+[[  0   0   2   2]
+ [  0   4  64   2]
+ [  0 128  32 256]
+ [  2  16 512   8]]
+moving left
+score: 7016
+game:
+[[  4   4   0   0]
+ [  4  64   2   0]
+ [128  32 256   0]
+ [  2  16 512   8]]
+moving right
+score: 7024
+game:
+[[  0   0   0   8]
+ [  0   4  64   2]
+ [  2 128  32 256]
+ [  2  16 512   8]]
+moving left
+score: 7024
+game:
+[[  8   0   0   0]
+ [  4  64   2   4]
+ [  2 128  32 256]
+ [  2  16 512   8]]
+moving down
+score: 7028
+game:
+[[  0   2   0   0]
+ [  8  64   2   4]
+ [  4 128  32 256]
+ [  4  16 512   8]]
+moving down
+score: 7036
+game:
+[[  0   2   0   0]
+ [  2  64   2   4]
+ [  8 128  32 256]
+ [  8  16 512   8]]
+moving down
+score: 7052
+game:
+[[  0   2   2   0]
+ [  0  64   2   4]
+ [  2 128  32 256]
+ [ 16  16 512   8]]
+moving down
+score: 7056
+game:
+[[  0   2   0   2]
+ [  0  64   4   4]
+ [  2 128  32 256]
+ [ 16  16 512   8]]
+moving right
+score: 7100
+game:
+[[  2   0   0   4]
+ [  0   0  64   8]
+ [  2 128  32 256]
+ [  0  32 512   8]]
+moving up
+score: 7104
+game:
+[[  4 128  64   4]
+ [  0  32  32   8]
+ [  0   0 512 256]
+ [  0   0   2   8]]
+moving right
+score: 7168
+game:
+[[  4 128  64   4]
+ [  0   0  64   8]
+ [  0   0 512 256]
+ [  2   0   2   8]]
+moving up
+score: 7296
+game:
+[[  4 128 128   4]
+ [  2   0 512   8]
+ [  0   0   2 256]
+ [  0   0   2   8]]
+moving right
+score: 7552
+game:
+[[  0   4 256   4]
+ [  0   2 512   8]
+ [  0   0   2 256]
+ [  0   2   2   8]]
+moving down
+score: 7560
+game:
+[[  0   0   0   4]
+ [  0   0 256   8]
+ [  0   4 512 256]
+ [  2   4   4   8]]
+moving right
+score: 7568
+game:
+[[  0   0   0   4]
+ [  0   0 256   8]
+ [  2   4 512 256]
+ [  0   2   8   8]]
+moving down
+score: 7568
+game:
+[[  0   0   0   4]
+ [  0   2 256   8]
+ [  0   4 512 256]
+ [  2   2   8   8]]
+moving right
+score: 7588
+game:
+[[  2   0   0   4]
+ [  0   2 256   8]
+ [  0   4 512 256]
+ [  0   0   4  16]]
+moving down
+score: 7588
+game:
+[[  2   0   0   4]
+ [  0   0 256   8]
+ [  0   2 512 256]
+ [  2   4   4  16]]
+moving right
+score: 7596
+game:
+[[  2   0   2   4]
+ [  0   0 256   8]
+ [  0   2 512 256]
+ [  0   2   8  16]]
+moving right
+score: 7600
+game:
+[[  0   0   4   4]
+ [  0   0 256   8]
+ [  0   2 512 256]
+ [  2   2   8  16]]
+moving right
+score: 7612
+game:
+[[  0   2   0   8]
+ [  0   0 256   8]
+ [  0   2 512 256]
+ [  0   4   8  16]]
+moving up
+score: 7632
+game:
+[[  0   4 256  16]
+ [  0   4 512 256]
+ [  4   0   8  16]
+ [  0   0   0   0]]
+moving down
+score: 7640
+game:
+[[  0   2   0   0]
+ [  0   0 256  16]
+ [  0   0 512 256]
+ [  4   8   8  16]]
+moving right
+score: 7656
+game:
+[[  0   0   0   2]
+ [  0   0 256  16]
+ [  0   0 512 256]
+ [  2   4  16  16]]
+moving right
+score: 7688
+game:
+[[  0   0   0   2]
+ [  0   0 256  16]
+ [  2   0 512 256]
+ [  0   2   4  32]]
+moving down
+score: 7688
+game:
+[[  0   0   0   2]
+ [  0   0 256  16]
+ [  2   0 512 256]
+ [  2   2   4  32]]
+moving right
+score: 7692
+game:
+[[  0   0   0   2]
+ [  2   0 256  16]
+ [  0   2 512 256]
+ [  0   4   4  32]]
+moving right
+score: 7700
+game:
+[[  2   0   0   2]
+ [  0   2 256  16]
+ [  0   2 512 256]
+ [  0   0   8  32]]
+moving down
+score: 7704
+game:
+[[  0   0   0   2]
+ [  0   0 256  16]
+ [  2   0 512 256]
+ [  2   4   8  32]]
+moving down
+score: 7708
+game:
+[[  0   0   2   2]
+ [  0   0 256  16]
+ [  0   0 512 256]
+ [  4   4   8  32]]
+moving right
+score: 7720
+game:
+[[  0   0   0   4]
+ [  0   0 256  16]
+ [  0   0 512 256]
+ [  2   8   8  32]]
+moving right
+score: 7736
+game:
+[[  0   0   0   4]
+ [  0   0 256  16]
+ [  0   0 512 256]
+ [  2   2  16  32]]
+moving right
+score: 7740
+game:
+[[  0   0   0   4]
+ [  0   2 256  16]
+ [  0   0 512 256]
+ [  0   4  16  32]]
+moving left
+score: 7740
+game:
+[[  4   0   0   0]
+ [  2 256  16   0]
+ [512 256   2   0]
+ [  4  16  32   0]]
+moving down
+score: 8252
+game:
+[[  4   0   0   0]
+ [  2   0  16   0]
+ [512 512   2   2]
+ [  4  16  32   0]]
+moving right
+score: 9280
+game:
+[[   0    0    0    4]
+ [   0    0    2   16]
+ [   0    2 1024    4]
+ [   0    4   16   32]]
+moving left
+score: 9280
+game:
+[[   4    0    2    0]
+ [   2   16    0    0]
+ [   2 1024    4    0]
+ [   4   16   32    0]]
+moving down
+score: 9284
+game:
+[[   2    0    0    0]
+ [   4   16    2    0]
+ [   4 1024    4    0]
+ [   4   16   32    0]]
+moving down
+score: 9292
+game:
+[[   0    0    0    0]
+ [   2   16    2    0]
+ [   4 1024    4    0]
+ [   8   16   32    2]]
+moving right
+score: 9292
+game:
+[[   0    0    0    2]
+ [   0    2   16    2]
+ [   0    4 1024    4]
+ [   8   16   32    2]]
+moving left
+score: 9292
+game:
+[[   2    0    2    0]
+ [   2   16    2    0]
+ [   4 1024    4    0]
+ [   8   16   32    2]]
+moving up
+score: 9300
+game:
+[[   4   16    4    2]
+ [   4 1024    4    0]
+ [   8   16   32    0]
+ [   0    0    0    2]]
+moving down
+score: 9320
+game:
+[[   0    0    0    0]
+ [   0   16    4    0]
+ [   8 1024    8    0]
+ [   8   16   32    4]]
+moving down
+score: 9336
+game:
+[[   0    0    0    0]
+ [   2   16    4    0]
+ [   0 1024    8    0]
+ [  16   16   32    4]]
+moving left
+score: 9368
+game:
+[[   0    0    0    0]
+ [   2   16    4    0]
+ [1024    8    2    0]
+ [  32   32    4    0]]
+moving left
+score: 9432
+game:
+[[   0    0    0    2]
+ [   2   16    4    0]
+ [1024    8    2    0]
+ [  64    4    0    0]]
+moving down
+score: 9432
+game:
+[[   0    2    0    0]
+ [   2   16    0    0]
+ [1024    8    4    0]
+ [  64    4    2    2]]
+moving right
+score: 9436
+game:
+[[   0    0    0    2]
+ [   0    0    2   16]
+ [   0 1024    8    4]
+ [   4   64    4    4]]
+moving down
+score: 9444
+game:
+[[   2    0    0    0]
+ [   0    0    2    2]
+ [   0 1024    8   16]
+ [   4   64    4    8]]
+moving left
+score: 9448
+game:
+[[   2    0    2    0]
+ [   4    0    0    0]
+ [1024    8   16    0]
+ [   4   64    4    8]]
+moving right
+score: 9452
+game:
+[[   0    0    0    4]
+ [   2    0    0    4]
+ [   0 1024    8   16]
+ [   4   64    4    8]]
+moving up
+score: 9460
+game:
+[[   2 1024    8    8]
+ [   4   64    4   16]
+ [   0    0    0    8]
+ [   0    0    2    0]]
+moving right
+score: 9476
+game:
+[[   0    2 1024   16]
+ [   4   64    4   16]
+ [   2    0    0    8]
+ [   0    0    0    2]]
+moving up
+score: 9508
+game:
+[[   4    2 1024   32]
+ [   2   64    4    8]
+ [   0    0    2    2]
+ [   0    0    0    0]]
+moving right
+score: 9512
+game:
+[[   4    2 1024   32]
+ [   2   64    4    8]
+ [   0    0    0    4]
+ [   0    2    0    0]]
+moving down
+score: 9512
+game:
+[[   2    0    0    0]
+ [   0    2    0   32]
+ [   4   64 1024    8]
+ [   2    2    4    4]]
+moving left
+score: 9524
+game:
+[[   2    0    0    0]
+ [   2   32    0    0]
+ [   4   64 1024    8]
+ [   4    8    2    0]]
+moving down
+score: 9536
+game:
+[[   2    0    0    0]
+ [   0   32    0    0]
+ [   4   64 1024    0]
+ [   8    8    2    8]]
+moving up
+score: 9536
+game:
+[[   2   32 1024    8]
+ [   4   64    2    0]
+ [   8    8    2    0]
+ [   0    0    0    0]]
+moving right
+score: 9552
+game:
+[[   2   32 1024    8]
+ [   0    4   64    2]
+ [   2    0   16    2]
+ [   0    0    0    0]]
+moving down
+score: 9560
+game:
+[[   0    2    0    0]
+ [   0    0 1024    0]
+ [   0   32   64    8]
+ [   4    4   16    4]]
+moving left
+score: 9568
+game:
+[[   2    0    0    2]
+ [1024    0    0    0]
+ [  32   64    8    0]
+ [   8   16    4    0]]
+moving left
+score: 9572
+game:
+[[   4    0    0    0]
+ [1024    2    0    0]
+ [  32   64    8    0]
+ [   8   16    4    0]]
+moving up
+score: 9572
+game:
+[[   4    2    8    0]
+ [1024   64    4    0]
+ [  32   16    0    0]
+ [   8    0    2    0]]
+moving down
+score: 9572
+game:
+[[   4    0    0    0]
+ [1024    2    8    2]
+ [  32   64    4    0]
+ [   8   16    2    0]]
+moving down
+score: 9572
+game:
+[[   4    2    0    0]
+ [1024    2    8    0]
+ [  32   64    4    0]
+ [   8   16    2    2]]
+moving left
+score: 9576
+game:
+[[   4    2    0    0]
+ [1024    2    8    0]
+ [  32   64    4    0]
+ [   8   16    4    2]]
+moving up
+score: 9588
+game:
+[[   4    4    8    2]
+ [1024   64    8    0]
+ [  32   16    0    0]
+ [   8    0    0    2]]
+moving down
+score: 9608
+game:
+[[   4    0    0    0]
+ [1024    4    0    2]
+ [  32   64    0    0]
+ [   8   16   16    4]]
+moving left
+score: 9640
+game:
+[[   4    0    0    2]
+ [1024    4    2    0]
+ [  32   64    0    0]
+ [   8   32    4    0]]
+moving right
+score: 9640
+game:
+[[   0    0    4    2]
+ [   0 1024    4    2]
+ [   0    0   32   64]
+ [   2    8   32    4]]
+moving up
+score: 9716
+game:
+[[   2 1024    8    4]
+ [   2    8   64   64]
+ [   0    0    0    4]
+ [   0    0    0    0]]
+moving right
+score: 9844
+game:
+[[   2 1024    8    4]
+ [   0    2    8  128]
+ [   0    0    0    4]
+ [   0    0    2    0]]
+moving down
+score: 9860
+game:
+[[   0    0    2    0]
+ [   0    0    0    4]
+ [   0 1024   16  128]
+ [   2    2    2    4]]
+moving right
+score: 9864
+game:
+[[   0    0    0    2]
+ [   0    2    0    4]
+ [   0 1024   16  128]
+ [   0    2    4    4]]
+moving right
+score: 9872
+game:
+[[   0    0    0    2]
+ [   4    0    2    4]
+ [   0 1024   16  128]
+ [   0    0    2    8]]
+moving up
+score: 9872
+game:
+[[   4 1024    2    2]
+ [   0    0   16    4]
+ [   0    2    2  128]
+ [   0    0    0    8]]
+moving right
+score: 9880
+game:
+[[   0    4 1024    4]
+ [   0    0   16    4]
+ [   0    0    4  128]
+ [   0    0    2    8]]
+moving up
+score: 9888
+game:
+[[   0    4 1024    8]
+ [   0    0   16  128]
+ [   0    0    4    8]
+ [   2    0    2    0]]
+moving left
+score: 9892
+game:
+[[   4 1024    8    2]
+ [  16  128    0    0]
+ [   4    8    0    0]
+ [   4    0    0    0]]
+moving down
+score: 9900
+game:
+[[   0    0    0    0]
+ [   4 1024    0    0]
+ [  16  128    2    0]
+ [   8    8    8    2]]
+moving left
+score: 9916
+game:
+[[   0    0    0    2]
+ [   4 1024    0    0]
+ [  16  128    2    0]
+ [  16    8    2    0]]
+moving down
+score: 9952
+game:
+[[   0    0    0    0]
+ [   0 1024    2    0]
+ [   4  128    0    0]
+ [  32    8    4    2]]
+moving right
+score: 9952
+game:
+[[   0    0    2    0]
+ [   0    0 1024    2]
+ [   0    0    4  128]
+ [  32    8    4    2]]
+moving down
+score: 9960
+game:
+[[   0    0    0    0]
+ [   0    0    2    2]
+ [   2    0 1024  128]
+ [  32    8    8    2]]
+moving right
+score: 9980
+game:
+[[   0    2    0    0]
+ [   0    0    0    4]
+ [   0    2 1024  128]
+ [   0   32   16    2]]
+moving down
+score: 9984
+game:
+[[   0    0    0    0]
+ [   2    0    0    4]
+ [   0    4 1024  128]
+ [   0   32   16    2]]
+moving left
+score: 9984
+game:
+[[   2    0    0    0]
+ [   2    4    0    0]
+ [   4 1024  128    0]
+ [  32   16    2    0]]
+moving down
+score: 9988
+game:
+[[   2    0    0    0]
+ [   4    4    0    0]
+ [   4 1024  128    0]
+ [  32   16    2    0]]
+moving down
+score: 9996
+game:
+[[   0    0    0    2]
+ [   2    4    0    0]
+ [   8 1024  128    0]
+ [  32   16    2    0]]
+moving down
+score: 9996
+game:
+[[   0    2    0    0]
+ [   2    4    0    0]
+ [   8 1024  128    0]
+ [  32   16    2    2]]
+moving left
+score: 10000
+game:
+[[   2    0    0    2]
+ [   2    4    0    0]
+ [   8 1024  128    0]
+ [  32   16    4    0]]
+moving down
+score: 10004
+game:
+[[   0    0    2    0]
+ [   4    4    0    0]
+ [   8 1024  128    0]
+ [  32   16    4    2]]
+moving left
+score: 10012
+game:
+[[   2    2    0    0]
+ [   8    0    0    0]
+ [   8 1024  128    0]
+ [  32   16    4    2]]
+moving down
+score: 10028
+game:
+[[   0    0    0    0]
+ [   2    2    0    2]
+ [  16 1024  128    0]
+ [  32   16    4    2]]
+moving right
+score: 10032
+game:
+[[   0    0    0    4]
+ [   0    0    2    4]
+ [   0   16 1024  128]
+ [  32   16    4    2]]
+moving down
+score: 10072
+game:
+[[   0    0    0    0]
+ [   0    0    2    8]
+ [   4    0 1024  128]
+ [  32   32    4    2]]
+moving left
+score: 10136
+game:
+[[   0    0    0    4]
+ [   2    8    0    0]
+ [   4 1024  128    0]
+ [  64    4    2    0]]
+moving up
+score: 10136
+game:
+[[   2    8  128    4]
+ [   4 1024    2    0]
+ [  64    4    0    0]
+ [   2    0    0    0]]
+moving right
+score: 10136
+game:
+[[   2    8  128    4]
+ [   2    4 1024    2]
+ [   0    0   64    4]
+ [   0    0    0    2]]
+moving left
+score: 10136
+game:
+[[   2    8  128    4]
+ [   2    4 1024    2]
+ [  64    4    2    0]
+ [   2    0    0    0]]
+moving up
+score: 10148
+game:
+[[   4    8  128    4]
+ [  64    8 1024    2]
+ [   2    2    2    0]
+ [   0    0    0    0]]
+moving down
+score: 10164
+game:
+[[   0    0    0    0]
+ [   4    2  128    0]
+ [  64   16 1024    4]
+ [   2    2    2    2]]
+moving left
+score: 10172
+game:
+[[   0    0    0    0]
+ [   4    2  128    2]
+ [  64   16 1024    4]
+ [   4    4    0    0]]
+moving down
+score: 10172
+game:
+[[   0    0    0    4]
+ [   4    2    0    0]
+ [  64   16  128    2]
+ [   4    4 1024    4]]
+moving left
+score: 10180
+game:
+[[   4    2    0    0]
+ [   4    2    0    0]
+ [  64   16  128    2]
+ [   8 1024    4    0]]
+moving down
+score: 10192
+game:
+[[   0    0    0    0]
+ [   8    4    2    0]
+ [  64   16  128    0]
+ [   8 1024    4    2]]
+moving up
+score: 10192
+game:
+[[   8    4    2    2]
+ [  64   16  128    0]
+ [   8 1024    4    0]
+ [   0    0    2    0]]
+moving right
+score: 10196
+game:
+[[   2    8    4    4]
+ [   0   64   16  128]
+ [   0    8 1024    4]
+ [   0    0    0    2]]
+moving right
+score: 10204
+game:
+[[   0    2    8    8]
+ [   4   64   16  128]
+ [   0    8 1024    4]
+ [   0    0    0    2]]
+moving right
+score: 10220
+game:
+[[   2    0    2   16]
+ [   4   64   16  128]
+ [   0    8 1024    4]
+ [   0    0    0    2]]
+moving left
+score: 10224
+game:
+[[   4   16    2    0]
+ [   4   64   16  128]
+ [   8 1024    4    0]
+ [   2    0    0    0]]
+moving up
+score: 10232
+game:
+[[   8   16    2  128]
+ [   8   64   16    2]
+ [   2 1024    4    0]
+ [   0    0    0    0]]
+moving up
+score: 10248
+game:
+[[  16   16    2  128]
+ [   2   64   16    2]
+ [   0 1024    4    0]
+ [   0    0    0    2]]
+moving down
+score: 10252
+game:
+[[   0    0    2    0]
+ [   0   16    2    0]
+ [  16   64   16  128]
+ [   2 1024    4    4]]
+moving left
+score: 10260
+game:
+[[   2    0    0    0]
+ [  16    2    0    0]
+ [  16   64   16  128]
+ [   2 1024    8    2]]
+moving down
+score: 10292
+game:
+[[   0    2    0    0]
+ [   2    2    0    0]
+ [  32   64   16  128]
+ [   2 1024    8    2]]
+moving left
+score: 10296
+game:
+[[   2    0    0    0]
+ [   4    2    0    0]
+ [  32   64   16  128]
+ [   2 1024    8    2]]
+moving up
+score: 10296
+game:
+[[   2    2   16  128]
+ [   4   64    8    2]
+ [  32 1024    0    0]
+ [   2    0    2    0]]
+moving left
+score: 10304
+game:
+[[   4   16  128    0]
+ [   4   64    8    2]
+ [  32 1024    0    0]
+ [   4    0    0    2]]
+moving down
+score: 10316
+game:
+[[   0    0    0    0]
+ [   8   16    0    2]
+ [  32   64  128    0]
+ [   4 1024    8    4]]
+moving up
+score: 10316
+game:
+[[   8   16  128    2]
+ [  32   64    8    4]
+ [   4 1024    0    0]
+ [   2    0    0    0]]
+moving right
+score: 10316
+game:
+[[   8   16  128    2]
+ [  32   64    8    4]
+ [   0    0    4 1024]
+ [   0    0    2    2]]
+moving down
+score: 10316
+game:
+[[   0    0  128    2]
+ [   0    2    8    4]
+ [   8   16    4 1024]
+ [  32   64    2    2]]
+moving left
+score: 10320
+game:
+[[ 128    2    0    0]
+ [   2    8    4    0]
+ [   8   16    4 1024]
+ [  32   64    4    2]]
+moving up
+score: 10328
+game:
+[[ 128    2    8 1024]
+ [   2    8    4    2]
+ [   8   16    0    0]
+ [  32   64    2    0]]
+moving down
+score: 10328
+game:
+[[ 128    2    2    0]
+ [   2    8    8    0]
+ [   8   16    4 1024]
+ [  32   64    2    2]]
+moving left
+score: 10352
+game:
+[[ 128    4    0    2]
+ [   2   16    0    0]
+ [   8   16    4 1024]
+ [  32   64    4    0]]
+moving down
+score: 10392
+game:
+[[ 128    0    2    0]
+ [   2    4    0    0]
+ [   8   32    0    2]
+ [  32   64    8 1024]]
+moving down
+score: 10392
+game:
+[[ 128    0    0    4]
+ [   2    4    0    0]
+ [   8   32    2    2]
+ [  32   64    8 1024]]
+moving left
+score: 10396
+game:
+[[ 128    4    0    0]
+ [   2    4    0    0]
+ [   8   32    4    2]
+ [  32   64    8 1024]]
+moving down
+score: 10404
+game:
+[[ 128    0    0    0]
+ [   2    8    2    0]
+ [   8   32    4    2]
+ [  32   64    8 1024]]
+moving right
+score: 10404
+game:
+[[   0    2    0  128]
+ [   0    2    8    2]
+ [   8   32    4    2]
+ [  32   64    8 1024]]
+moving up
+score: 10412
+game:
+[[   8    4    8  128]
+ [  32   32    4    4]
+ [   0   64    8 1024]
+ [   0    0    0    2]]
+moving left
+score: 10484
+game:
+[[   8    4    8  128]
+ [  64    8    0    2]
+ [  64    8 1024    0]
+ [   2    0    0    0]]
+moving up
+score: 10628
+game:
+[[   8    4    8  128]
+ [ 128   16 1024    2]
+ [   2    2    0    0]
+ [   0    0    0    0]]
+moving down
+score: 10628
+game:
+[[   0    0    2    0]
+ [   8    4    0    0]
+ [ 128   16    8  128]
+ [   2    2 1024    2]]
+moving right
+score: 10632
+game:
+[[   0    0    0    2]
+ [   2    0    8    4]
+ [ 128   16    8  128]
+ [   0    4 1024    2]]
+moving down
+score: 10648
+game:
+[[   0    0    0    2]
+ [   0    0    4    4]
+ [   2   16   16  128]
+ [ 128    4 1024    2]]
+moving right
+score: 10688
+game:
+[[   0    0    0    2]
+ [   0    0    0    8]
+ [   2    2   32  128]
+ [ 128    4 1024    2]]
+moving right
+score: 10692
+game:
+[[   0    0    0    2]
+ [   0    2    0    8]
+ [   0    4   32  128]
+ [ 128    4 1024    2]]
+moving down
+score: 10700
+game:
+[[   0    0    0    2]
+ [   0    2    0    8]
+ [   0    2   32  128]
+ [ 128    8 1024    2]]
+moving down
+score: 10704
+game:
+[[   0    2    0    2]
+ [   0    0    0    8]
+ [   0    4   32  128]
+ [ 128    8 1024    2]]
+moving left
+score: 10708
+game:
+[[   4    4    0    0]
+ [   8    0    0    0]
+ [   4   32  128    0]
+ [ 128    8 1024    2]]
+moving right
+score: 10716
+game:
+[[   0    2    0    8]
+ [   0    0    0    8]
+ [   0    4   32  128]
+ [ 128    8 1024    2]]
+moving down
+score: 10732
+game:
+[[   0    0    0    2]
+ [   0    2    0   16]
+ [   0    4   32  128]
+ [ 128    8 1024    2]]
+moving right
+score: 10732
+game:
+[[   0    0    0    2]
+ [   0    2    2   16]
+ [   0    4   32  128]
+ [ 128    8 1024    2]]
+moving left
+score: 10736
+game:
+[[   2    0    0    0]
+ [   4   16    4    0]
+ [   4   32  128    0]
+ [ 128    8 1024    2]]
+moving down
+score: 10744
+game:
+[[   0    0    0    0]
+ [   2   16    4    0]
+ [   8   32  128    2]
+ [ 128    8 1024    2]]
+moving down
+score: 10748
+game:
+[[   0    0    0    0]
+ [   2   16    4    2]
+ [   8   32  128    0]
+ [ 128    8 1024    4]]
+moving right
+score: 10748
+game:
+[[   2    0    0    0]
+ [   2   16    4    2]
+ [   0    8   32  128]
+ [ 128    8 1024    4]]
+moving up
+score: 10768
+game:
+[[   4   16    4    2]
+ [ 128   16   32  128]
+ [   0    2 1024    4]
+ [   0    0    0    0]]
+moving down
+score: 10800
+game:
+[[   0    0    0    0]
+ [   2    0    4    2]
+ [   4   32   32  128]
+ [ 128    2 1024    4]]
+moving left
+score: 10864
+game:
+[[   2    0    0    0]
+ [   2    4    2    0]
+ [   4   64  128    0]
+ [ 128    2 1024    4]]
+moving down
+score: 10868
+game:
+[[   0    0    0    0]
+ [   4    4    2    4]
+ [   4   64  128    0]
+ [ 128    2 1024    4]]
+moving down
+score: 10884
+game:
+[[   0    0    0    2]
+ [   0    4    2    0]
+ [   8   64  128    0]
+ [ 128    2 1024    8]]
+moving up
+score: 10884
+game:
+[[   8    4    2    2]
+ [ 128   64  128    8]
+ [   0    2 1024    2]
+ [   0    0    0    0]]
+moving right
+score: 10888
+game:
+[[   0    8    4    4]
+ [ 128   64  128    8]
+ [   0    2 1024    2]
+ [   0    2    0    0]]
+moving right
+score: 10896
+game:
+[[   0    0    8    8]
+ [ 128   64  128    8]
+ [   2    2 1024    2]
+ [   0    0    0    2]]
+moving down
+score: 10916
+game:
+[[   0    0    0    0]
+ [   2    0    8    0]
+ [ 128   64  128   16]
+ [   2    2 1024    4]]
+moving right
+score: 10920
+game:
+[[   0    0    0    0]
+ [   0    0    2    8]
+ [ 128   64  128   16]
+ [   2    4 1024    4]]
+moving up
+score: 10920
+game:
+[[ 128   64    2    8]
+ [   2    4  128   16]
+ [   0    0 1024    4]
+ [   0    0    0    2]]
+moving left
+score: 10920
+game:
+[[ 128   64    2    8]
+ [   2    4  128   16]
+ [1024    4    0    0]
+ [   2    2    0    0]]
+moving right
+score: 10924
+game:
+[[ 128   64    2    8]
+ [   2    4  128   16]
+ [   0    0 1024    4]
+ [   0    2    0    4]]
+moving down
+score: 10932
+game:
+[[   0    0    0    0]
+ [   2   64    2    8]
+ [ 128    4  128   16]
+ [   2    2 1024    8]]
+moving right
+score: 10936
+game:
+[[   0    0    0    0]
+ [   2   64    2    8]
+ [ 128    4  128   16]
+ [   2    4 1024    8]]
+moving down
+score: 10944
+game:
+[[   2    0    0    0]
+ [   2    0    2    8]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving right
+score: 10948
+game:
+[[   0    2    0    2]
+ [   0    0    4    8]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving left
+score: 10952
+game:
+[[   4    0    0    0]
+ [   4    8    0    2]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving down
+score: 10960
+game:
+[[   2    0    0    0]
+ [   8    8    0    2]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving left
+score: 10976
+game:
+[[   2    0    0    2]
+ [  16    2    0    0]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving left
+score: 10980
+game:
+[[   4    0    0    0]
+ [  16    2    2    0]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving right
+score: 10984
+game:
+[[   0    0    0    4]
+ [   0    2   16    4]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving down
+score: 10992
+game:
+[[   0    0    0    0]
+ [   2    2   16    8]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving right
+score: 10996
+game:
+[[   0    0    2    0]
+ [   0    4   16    8]
+ [ 128   64  128   16]
+ [   2    8 1024    8]]
+moving up
+score: 10996
+game:
+[[ 128    4    2    8]
+ [   2   64   16   16]
+ [   0    8  128    8]
+ [   0    2 1024    0]]
+moving right
+score: 11028
+game:
+[[ 128    4    2    8]
+ [   0    2   64   32]
+ [   0    8  128    8]
+ [   0    2    2 1024]]
+moving right
+score: 11032
+game:
+[[ 128    4    2    8]
+ [   0    2   64   32]
+ [   2    8  128    8]
+ [   0    0    4 1024]]
+moving up
+score: 11032
+game:
+[[ 128    4    2    8]
+ [   2    2   64   32]
+ [   4    8  128    8]
+ [   0    0    4 1024]]
+moving down
+score: 11032
+game:
+[[   0    2    2    8]
+ [ 128    4   64   32]
+ [   2    2  128    8]
+ [   4    8    4 1024]]
+moving left
+score: 11040
+game:
+[[   4    8    0    2]
+ [ 128    4   64   32]
+ [   4  128    8    0]
+ [   4    8    4 1024]]
+moving down
+score: 11048
+game:
+[[   2    8    0    0]
+ [   4    4   64    2]
+ [ 128  128    8   32]
+ [   8    8    4 1024]]
+moving left
+score: 11328
+game:
+[[   2    8    0    2]
+ [   8   64    2    0]
+ [ 256    8   32    0]
+ [  16    4 1024    0]]
+moving left
+score: 11328
+game:
+[[   2    8    2    2]
+ [   8   64    2    0]
+ [ 256    8   32    0]
+ [  16    4 1024    0]]
+moving left
+score: 11332
+game:
+[[   2    8    4    2]
+ [   8   64    2    0]
+ [ 256    8   32    0]
+ [  16    4 1024    0]]
+moving right
+score: 11332
+game:
+[[   2    8    4    2]
+ [   2    8   64    2]
+ [   0  256    8   32]
+ [   0   16    4 1024]]
+moving up
+score: 11356
+game:
+[[   4   16    4    4]
+ [   0  256   64   32]
+ [   0   16    8 1024]
+ [   2    0    4    0]]
+moving right
+score: 11364
+game:
+[[   2    4   16    8]
+ [   0  256   64   32]
+ [   0   16    8 1024]
+ [   0    0    2    4]]
+moving down
+score: 11364
+game:
+[[   0    2   16    8]
+ [   0    4   64   32]
+ [   0  256    8 1024]
+ [   2   16    2    4]]
+moving up
+score: 11364
+game:
+[[   2    2   16    8]
+ [   0    4   64   32]
+ [   2  256    8 1024]
+ [   0   16    2    4]]
+moving right
+score: 11368
+game:
+[[   0    4   16    8]
+ [   4    4   64   32]
+ [   2  256    8 1024]
+ [   0   16    2    4]]
+moving up
+score: 11376
+game:
+[[   4    8   16    8]
+ [   2  256   64   32]
+ [   0   16    8 1024]
+ [   2    0    2    4]]
+moving up
+score: 11380
+game:
+[[   4    8   16    8]
+ [   4  256   64   32]
+ [   0   16    8 1024]
+ [   4    0    2    4]]
+moving up
+score: 11388
+game:
+[[   8    8   16    8]
+ [   4  256   64   32]
+ [   0   16    8 1024]
+ [   4    0    2    4]]
+moving up
+score: 11396
+game:
+[[   8    8   16    8]
+ [   8  256   64   32]
+ [   0   16    8 1024]
+ [   0    2    2    4]]
+moving right
+score: 11416
+game:
+[[   0   16   16    8]
+ [   8  256   64   32]
+ [   0   16    8 1024]
+ [   0    2    4    4]]
+moving left
+score: 11456
+game:
+[[  32    8    0    0]
+ [   8  256   64   32]
+ [  16    8 1024    4]
+ [   2    8    0    0]]
+moving up
+score: 11472
+game:
+[[  32    8   64   32]
+ [   8  256 1024    4]
+ [  16   16    0    0]
+ [   2    0    0    2]]
+moving left
+score: 11508
+game:
+[[  32    8   64   32]
+ [   8  256 1024    4]
+ [  32    0    0    2]
+ [   4    0    0    0]]
+moving left
+score: 11508
+game:
+[[  32    8   64   32]
+ [   8  256 1024    4]
+ [  32    2    0    0]
+ [   4    0    2    0]]
+moving down
+score: 11508
+game:
+[[  32    0    0    0]
+ [   8    8   64    2]
+ [  32  256 1024   32]
+ [   4    2    2    4]]
+moving left
+score: 11528
+game:
+[[  32    0    0    0]
+ [  16   64    2    2]
+ [  32  256 1024   32]
+ [   4    4    4    0]]
+moving left
+score: 11540
+game:
+[[  32    0    0    4]
+ [  16   64    4    0]
+ [  32  256 1024   32]
+ [   8    4    0    0]]
+moving up
+score: 11540
+game:
+[[  32   64    4    4]
+ [  16  256 1024   32]
+ [  32    4    0    2]
+ [   8    0    0    0]]
+moving left
+score: 11548
+game:
+[[  32   64    8    0]
+ [  16  256 1024   32]
+ [  32    4    2    0]
+ [   8    0    2    0]]
+moving down
+score: 11552
+game:
+[[  32    2    0    0]
+ [  16   64    8    0]
+ [  32  256 1024    0]
+ [   8    4    4   32]]
+moving left
+score: 11560
+game:
+[[  32    2    4    0]
+ [  16   64    8    0]
+ [  32  256 1024    0]
+ [   8    8   32    0]]
+moving left
+score: 11576
+game:
+[[  32    2    4    0]
+ [  16   64    8    0]
+ [  32  256 1024    0]
+ [  16   32    2    0]]
+moving right
+score: 11576
+game:
+[[   0   32    2    4]
+ [   0   16   64    8]
+ [   2   32  256 1024]
+ [   0   16   32    2]]
+moving left
+score: 11576
+game:
+[[  32    2    4    2]
+ [  16   64    8    0]
+ [   2   32  256 1024]
+ [  16   32    2    0]]
+moving down
+score: 11640
+game:
+[[  32    0    4    0]
+ [  16    2    8    2]
+ [   2   64  256    2]
+ [  16   64    2 1024]]
+moving up
+score: 11772
+game:
+[[  32    2    4    4]
+ [  16  128    8 1024]
+ [   2    2  256    0]
+ [  16    0    2    0]]
+moving left
+score: 11784
+game:
+[[  32    2    8    0]
+ [  16  128    8 1024]
+ [   4  256    0    0]
+ [  16    2    0    2]]
+moving left
+score: 11788
+game:
+[[  32    2    8    0]
+ [  16  128    8 1024]
+ [   4  256    0    0]
+ [  16    4    2    0]]
+moving up
+score: 11804
+game:
+[[  32    2   16 1024]
+ [  16  128    2    0]
+ [   4  256    0    0]
+ [  16    4    0    2]]
+moving down
+score: 11804
+game:
+[[  32    2    0    0]
+ [  16  128    4    0]
+ [   4  256   16 1024]
+ [  16    4    2    2]]
+moving left
+score: 11808
+game:
+[[  32    2    0    0]
+ [  16  128    4    2]
+ [   4  256   16 1024]
+ [  16    4    4    0]]
+moving right
+score: 11816
+game:
+[[   2    0   32    2]
+ [  16  128    4    2]
+ [   4  256   16 1024]
+ [   0    0   16    8]]
+moving down
+score: 11852
+game:
+[[   0    0    0    0]
+ [   2    2   32    4]
+ [  16  128    4 1024]
+ [   4  256   32    8]]
+moving left
+score: 11856
+game:
+[[   0    2    0    0]
+ [   4   32    4    0]
+ [  16  128    4 1024]
+ [   4  256   32    8]]
+moving up
+score: 11864
+game:
+[[   4    2    8 1024]
+ [  16   32   32    8]
+ [   4  128    0    4]
+ [   0  256    0    0]]
+moving left
+score: 11928
+game:
+[[   4    2    8 1024]
+ [  16   64    8    2]
+ [   4  128    4    0]
+ [ 256    0    0    0]]
+moving down
+score: 11944
+game:
+[[   4    0    0    0]
+ [  16    2    0    2]
+ [   4   64   16 1024]
+ [ 256  128    4    2]]
+moving right
+score: 11948
+game:
+[[   0    2    0    4]
+ [   0    0   16    4]
+ [   4   64   16 1024]
+ [ 256  128    4    2]]
+moving down
+score: 11988
+game:
+[[   0    0    0    0]
+ [   0    2    2    8]
+ [   4   64   32 1024]
+ [ 256  128    4    2]]
+moving left
+score: 11992
+game:
+[[   0    0    0    0]
+ [   4    8    0    2]
+ [   4   64   32 1024]
+ [ 256  128    4    2]]
+moving up
+score: 12000
+game:
+[[   8    8   32    2]
+ [ 256   64    4 1024]
+ [   0  128    2    2]
+ [   0    0    0    0]]
+moving left
+score: 12020
+game:
+[[  16   32    2    4]
+ [ 256   64    4 1024]
+ [ 128    4    0    0]
+ [   0    0    0    0]]
+moving down
+score: 12020
+game:
+[[   0    0    0    0]
+ [  16   32    2    0]
+ [ 256   64    2    4]
+ [ 128    4    4 1024]]
+moving down
+score: 12024
+game:
+[[   0    0    0    0]
+ [  16   32    2    0]
+ [ 256   64    4    4]
+ [ 128    4    4 1024]]
+moving left
+score: 12040
+game:
+[[   0    0    0    0]
+ [  16   32    2    0]
+ [ 256   64    8    0]
+ [ 128    8 1024    2]]
+moving up
+score: 12040
+game:
+[[  16   32    2    2]
+ [ 256   64    8    0]
+ [ 128    8 1024    2]
+ [   0    0    0    0]]
+moving left
+score: 12044
+game:
+[[  16   32    4    0]
+ [ 256   64    8    0]
+ [ 128    8 1024    2]
+ [   0    2    0    0]]
+moving up
+score: 12044
+game:
+[[  16   32    4    2]
+ [ 256   64    8    0]
+ [ 128    8 1024    0]
+ [   0    2    0    4]]
+moving left
+score: 12044
+game:
+[[  16   32    4    2]
+ [ 256   64    8    2]
+ [ 128    8 1024    0]
+ [   2    4    0    0]]
+moving down
+score: 12048
+game:
+[[  16   32    0    0]
+ [ 256   64    4    4]
+ [ 128    8    8    0]
+ [   2    4 1024    4]]
+moving right
+score: 12072
+game:
+[[   0    0   16   32]
+ [   0  256   64    8]
+ [   4    0  128   16]
+ [   2    4 1024    4]]
+moving right
+score: 12072
+game:
+[[   0    0   16   32]
+ [   0  256   64    8]
+ [   2    4  128   16]
+ [   2    4 1024    4]]
+moving up
+score: 12084
+game:
+[[   4  256   16   32]
+ [   0    8   64    8]
+ [   0    0  128   16]
+ [   0    2 1024    4]]
+moving up
+score: 12084
+game:
+[[   4  256   16   32]
+ [   0    8   64    8]
+ [   0    2  128   16]
+ [   0    2 1024    4]]
+moving down
+score: 12088
+game:
+[[   0    4   16   32]
+ [   0  256   64    8]
+ [   0    8  128   16]
+ [   4    4 1024    4]]
+moving right
+score: 12096
+game:
+[[   0    4   16   32]
+ [   2  256   64    8]
+ [   0    8  128   16]
+ [   0    8 1024    4]]
+moving down
+score: 12112
+game:
+[[   2    0   16   32]
+ [   0    4   64    8]
+ [   0  256  128   16]
+ [   2   16 1024    4]]
+moving up
+score: 12116
+game:
+[[   4    4   16   32]
+ [   0  256   64    8]
+ [   2   16  128   16]
+ [   0    0 1024    4]]
+moving right
+score: 12124
+game:
+[[   2    8   16   32]
+ [   0  256   64    8]
+ [   2   16  128   16]
+ [   0    0 1024    4]]
+moving up
+score: 12128
+game:
+[[   4    8   16   32]
+ [   0  256   64    8]
+ [   2   16  128   16]
+ [   0    0 1024    4]]
+moving up
+score: 12128
+game:
+[[   4    8   16   32]
+ [   2  256   64    8]
+ [   0   16  128   16]
+ [   0    4 1024    4]]
+moving down
+score: 12128
+game:
+[[   4    8   16   32]
+ [   0  256   64    8]
+ [   4   16  128   16]
+ [   2    4 1024    4]]
+moving up
+score: 12136
+game:
+[[   8    8   16   32]
+ [   2  256   64    8]
+ [   0   16  128   16]
+ [   2    4 1024    4]]
+moving right
+score: 12152
+game:
+[[   0   16   16   32]
+ [   2  256   64    8]
+ [   2   16  128   16]
+ [   2    4 1024    4]]
+moving left
+score: 12184
+game:
+[[  32   32    2    0]
+ [   2  256   64    8]
+ [   2   16  128   16]
+ [   2    4 1024    4]]
+moving right
+score: 12248
+game:
+[[   0    2   64    2]
+ [   2  256   64    8]
+ [   2   16  128   16]
+ [   2    4 1024    4]]
+moving down
+score: 12380
+game:
+[[   0    2    2    2]
+ [   0  256  128    8]
+ [   2   16  128   16]
+ [   4    4 1024    4]]
+moving up
+score: 12636
+game:
+[[   2    2    2    2]
+ [   4  256  256    8]
+ [   2   16 1024   16]
+ [   0    4    0    4]]
+moving right
+score: 13164
+game:
+[[   2    0    4    4]
+ [   0    4  512    8]
+ [   2   16 1024   16]
+ [   0    0    0    8]]
+moving right
+score: 13172
+game:
+[[   0    2    2    8]
+ [   0    4  512    8]
+ [   2   16 1024   16]
+ [   0    0    0    8]]
+moving down
+score: 13188
+game:
+[[   0    2    0    0]
+ [   0    2    2   16]
+ [   0    4  512   16]
+ [   2   16 1024    8]]
+moving down
+score: 13224
+game:
+[[   0    0    0    0]
+ [   0    4    2    2]
+ [   0    4  512   32]
+ [   2   16 1024    8]]
+moving down
+score: 13232
+game:
+[[   0    0    0    0]
+ [   0    0    2    2]
+ [   4    8  512   32]
+ [   2   16 1024    8]]
+moving left
+score: 13236
+game:
+[[   2    0    0    0]
+ [   4    0    0    0]
+ [   4    8  512   32]
+ [   2   16 1024    8]]
+moving down
+score: 13244
+game:
+[[   0    2    0    0]
+ [   2    0    0    0]
+ [   8    8  512   32]
+ [   2   16 1024    8]]
+moving right
+score: 13260
+game:
+[[   2    0    0    2]
+ [   0    0    0    2]
+ [   0   16  512   32]
+ [   2   16 1024    8]]
+moving down
+score: 13300
+game:
+[[   0    2    0    0]
+ [   0    0    0    4]
+ [   0    0  512   32]
+ [   4   32 1024    8]]
+moving left
+score: 13300
+game:
+[[   2    0    0    0]
+ [   4    0    0    0]
+ [ 512   32    0    2]
+ [   4   32 1024    8]]
+moving down
+score: 13364
+game:
+[[   2    0    0    0]
+ [   4    0    0    0]
+ [ 512    2    0    2]
+ [   4   64 1024    8]]
+moving right
+score: 13368
+game:
+[[   0    0    0    2]
+ [   0    0    2    4]
+ [   0    0  512    4]
+ [   4   64 1024    8]]
+moving down
+score: 13376
+game:
+[[   0    0    0    0]
+ [   0    0    2    2]
+ [   0    2  512    8]
+ [   4   64 1024    8]]
+moving right
+score: 13380
+game:
+[[   0    0    4    0]
+ [   0    0    0    4]
+ [   0    2  512    8]
+ [   4   64 1024    8]]
+moving right
+score: 13380
+game:
+[[   0    0    0    4]
+ [   0    0    2    4]
+ [   0    2  512    8]
+ [   4   64 1024    8]]
+moving down
+score: 13404
+game:
+[[   0    0    0    0]
+ [   0    0    2    0]
+ [   2    2  512    8]
+ [   4   64 1024   16]]
+moving left
+score: 13408
+game:
+[[   0    2    0    0]
+ [   2    0    0    0]
+ [   4  512    8    0]
+ [   4   64 1024   16]]
+moving down
+score: 13416
+game:
+[[   0    0    0    2]
+ [   0    2    0    0]
+ [   2  512    8    0]
+ [   8   64 1024   16]]
+moving right
+score: 13416
+game:
+[[   0    0    0    2]
+ [   2    0    0    2]
+ [   0    2  512    8]
+ [   8   64 1024   16]]
+moving down
+score: 13420
+game:
+[[   0    0    0    0]
+ [   0    2    0    4]
+ [   2    2  512    8]
+ [   8   64 1024   16]]
+moving down
+score: 13424
+game:
+[[   0    0    0    0]
+ [   0    0    2    4]
+ [   2    4  512    8]
+ [   8   64 1024   16]]
+moving left
+score: 13424
+game:
+[[   0    0    2    0]
+ [   2    4    0    0]
+ [   2    4  512    8]
+ [   8   64 1024   16]]
+moving down
+score: 13436
+game:
+[[   0    0    0    0]
+ [   0    2    2    0]
+ [   4    8  512    8]
+ [   8   64 1024   16]]
+moving left
+score: 13440
+game:
+[[   2    0    0    0]
+ [   4    0    0    0]
+ [   4    8  512    8]
+ [   8   64 1024   16]]
+moving down
+score: 13448
+game:
+[[   0    0    2    0]
+ [   2    0    0    0]
+ [   8    8  512    8]
+ [   8   64 1024   16]]
+moving left
+score: 13464
+game:
+[[   2    2    0    0]
+ [   2    0    0    0]
+ [  16  512    8    0]
+ [   8   64 1024   16]]
+moving down
+score: 13468
+game:
+[[   0    0    0    0]
+ [   4    2    0    0]
+ [  16  512    8    2]
+ [   8   64 1024   16]]
+moving right
+score: 13468
+game:
+[[   0    0    0    0]
+ [   0    2    4    2]
+ [  16  512    8    2]
+ [   8   64 1024   16]]
+moving down
+score: 13472
+game:
+[[   0    2    0    0]
+ [   0    2    4    0]
+ [  16  512    8    4]
+ [   8   64 1024   16]]
+moving right
+score: 13472
+game:
+[[   0    2    0    2]
+ [   0    0    2    4]
+ [  16  512    8    4]
+ [   8   64 1024   16]]
+moving down
+score: 13480
+game:
+[[   2    0    0    0]
+ [   0    2    2    2]
+ [  16  512    8    8]
+ [   8   64 1024   16]]
+moving right
+score: 13500
+game:
+[[   0    0    0    2]
+ [   0    2    2    4]
+ [   0   16  512   16]
+ [   8   64 1024   16]]
+moving right
+score: 13504
+game:
+[[   0    0    0    2]
+ [   0    0    4    4]
+ [   2   16  512   16]
+ [   8   64 1024   16]]
+moving right
+score: 13512
+game:
+[[   0    0    2    2]
+ [   0    0    0    8]
+ [   2   16  512   16]
+ [   8   64 1024   16]]
+moving down
+score: 13544
+game:
+[[   4    0    0    0]
+ [   0    0    2    2]
+ [   2   16  512    8]
+ [   8   64 1024   32]]
+moving right
+score: 13548
+game:
+[[   0    0    0    4]
+ [   0    2    0    4]
+ [   2   16  512    8]
+ [   8   64 1024   32]]
+moving down
+score: 13556
+game:
+[[   0    0    0    2]
+ [   0    2    0    8]
+ [   2   16  512    8]
+ [   8   64 1024   32]]
+moving down
+score: 13572
+game:
+[[   0    0    0    0]
+ [   0    2    2    2]
+ [   2   16  512   16]
+ [   8   64 1024   32]]
+moving right
+score: 13576
+game:
+[[   0    2    0    0]
+ [   0    0    2    4]
+ [   2   16  512   16]
+ [   8   64 1024   32]]
+moving down
+score: 13576
+game:
+[[   0    2    0    0]
+ [   0    2    2    4]
+ [   2   16  512   16]
+ [   8   64 1024   32]]
+moving right
+score: 13580
+game:
+[[   0    0    0    2]
+ [   2    0    4    4]
+ [   2   16  512   16]
+ [   8   64 1024   32]]
+moving down
+score: 13584
+game:
+[[   0    0    0    2]
+ [   0    2    4    4]
+ [   4   16  512   16]
+ [   8   64 1024   32]]
+moving left
+score: 13592
+game:
+[[   2    0    2    0]
+ [   2    8    0    0]
+ [   4   16  512   16]
+ [   8   64 1024   32]]
+moving down
+score: 13596
+game:
+[[   0    0    0    2]
+ [   4    8    2    0]
+ [   4   16  512   16]
+ [   8   64 1024   32]]
+moving down
+score: 13604
+game:
+[[   0    0    2    0]
+ [   0    8    2    2]
+ [   8   16  512   16]
+ [   8   64 1024   32]]
+moving down
+score: 13624
+game:
+[[   0    2    0    0]
+ [   0    8    4    2]
+ [   0   16  512   16]
+ [  16   64 1024   32]]
+moving left
+score: 13624
+game:
+[[   2    0    0    0]
+ [   8    4    2    0]
+ [  16  512   16    2]
+ [  16   64 1024   32]]
+moving down
+score: 13656
+game:
+[[   0    0    2    0]
+ [   2    4    2    0]
+ [   8  512   16    2]
+ [  32   64 1024   32]]
+moving down
+score: 13660
+game:
+[[   0    0    0    0]
+ [   2    4    4    2]
+ [   8  512   16    2]
+ [  32   64 1024   32]]
+moving down
+score: 13664
+game:
+[[   0    0    2    0]
+ [   2    4    4    0]
+ [   8  512   16    4]
+ [  32   64 1024   32]]
+moving right
+score: 13672
+game:
+[[   0    2    0    2]
+ [   0    0    2    8]
+ [   8  512   16    4]
+ [  32   64 1024   32]]
+moving right
+score: 13676
+game:
+[[   0    0    2    4]
+ [   0    0    2    8]
+ [   8  512   16    4]
+ [  32   64 1024   32]]
+moving up
+score: 13680
+game:
+[[   8  512    4    4]
+ [  32   64   16    8]
+ [   0    0 1024    4]
+ [   2    0    0   32]]
+moving right
+score: 13688
+game:
+[[   0    8  512    8]
+ [  32   64   16    8]
+ [   0    2 1024    4]
+ [   0    0    2   32]]
+moving down
+score: 13704
+game:
+[[   0    0  512    2]
+ [   0    8   16   16]
+ [   0   64 1024    4]
+ [  32    2    2   32]]
+moving left
+score: 13740
+game:
+[[ 512    2    0    0]
+ [   8   32    0    2]
+ [  64 1024    4    0]
+ [  32    4   32    0]]
+moving up
+score: 13740
+game:
+[[ 512    2    4    2]
+ [   8   32   32    2]
+ [  64 1024    0    0]
+ [  32    4    0    0]]
+moving right
+score: 13804
+game:
+[[ 512    2    4    2]
+ [   0    8   64    2]
+ [   0    4   64 1024]
+ [   0    0   32    4]]
+moving down
+score: 13936
+game:
+[[   0    0    0    0]
+ [   0    2    4    4]
+ [   4    8  128 1024]
+ [ 512    4   32    4]]
+moving left
+score: 13944
+game:
+[[   0    0    0    0]
+ [   2    8    2    0]
+ [   4    8  128 1024]
+ [ 512    4   32    4]]
+moving down
+score: 13960
+game:
+[[   0    0    0    0]
+ [   2    2    2    0]
+ [   4   16  128 1024]
+ [ 512    4   32    4]]
+moving left
+score: 13964
+game:
+[[   0    2    0    0]
+ [   4    2    0    0]
+ [   4   16  128 1024]
+ [ 512    4   32    4]]
+moving up
+score: 13976
+game:
+[[   8    4  128 1024]
+ [ 512   16   32    4]
+ [   0    4    2    0]
+ [   0    0    0    0]]
+moving left
+score: 13976
+game:
+[[   8    4  128 1024]
+ [ 512   16   32    4]
+ [   4    2    0    0]
+ [   0    0    0    2]]
+moving right
+score: 13976
+game:
+[[   8    4  128 1024]
+ [ 512   16   32    4]
+ [   0    0    4    2]
+ [   0    0    2    2]]
+moving up
+score: 13980
+game:
+[[   8    4  128 1024]
+ [ 512   16   32    4]
+ [   0    0    4    4]
+ [   2    0    2    0]]
+moving up
+score: 13988
+game:
+[[   8    4  128 1024]
+ [ 512   16   32    8]
+ [   2    0    4    0]
+ [   0    2    2    0]]
+moving right
+score: 13992
+game:
+[[   8    4  128 1024]
+ [ 512   16   32    8]
+ [   0    2    2    4]
+ [   0    0    0    4]]
+moving up
+score: 14000
+game:
+[[   8    4  128 1024]
+ [ 512   16   32    8]
+ [   0    2    2    8]
+ [   0    0    0    2]]
+moving up
+score: 14016
+game:
+[[   8    4  128 1024]
+ [ 512   16   32   16]
+ [   2    2    2    2]
+ [   0    0    0    0]]
+moving right
+score: 14024
+game:
+[[   8    4  128 1024]
+ [ 512   16   32   16]
+ [   0    0    4    4]
+ [   2    0    0    0]]
+moving up
+score: 14024
+game:
+[[   8    4  128 1024]
+ [ 512   16   32   16]
+ [   2    0    4    4]
+ [   2    0    0    0]]
+moving down
+score: 14028
+game:
+[[   0    0    0    0]
+ [   8    2  128 1024]
+ [ 512    4   32   16]
+ [   4   16    4    4]]
+moving right
+score: 14036
+game:
+[[   0    0    0    0]
+ [   8    2  128 1024]
+ [ 512    4   32   16]
+ [   4    4   16    8]]
+moving right
+score: 14044
+game:
+[[   2    0    0    0]
+ [   8    2  128 1024]
+ [ 512    4   32   16]
+ [   0    8   16    8]]
+moving down
+score: 14044
+game:
+[[   0    0    2    0]
+ [   2    2  128 1024]
+ [   8    4   32   16]
+ [ 512    8   16    8]]
+moving right
+score: 14048
+game:
+[[   0    2    0    2]
+ [   0    4  128 1024]
+ [   8    4   32   16]
+ [ 512    8   16    8]]
+moving down
+score: 14056
+game:
+[[   0    0    2    2]
+ [   0    2  128 1024]
+ [   8    8   32   16]
+ [ 512    8   16    8]]
+moving down
+score: 14072
+game:
+[[   0    2    2    2]
+ [   0    0  128 1024]
+ [   8    2   32   16]
+ [ 512   16   16    8]]
+moving right
+score: 14108
+game:
+[[   0    0    2    4]
+ [   2    0  128 1024]
+ [   8    2   32   16]
+ [   0  512   32    8]]
+moving down
+score: 14172
+game:
+[[   0    0    0    4]
+ [   0    2    2 1024]
+ [   2    2  128   16]
+ [   8  512   64    8]]
+moving left
+score: 14180
+game:
+[[   4    0    0    0]
+ [   4 1024    0    0]
+ [   4  128   16    2]
+ [   8  512   64    8]]
+moving down
+score: 14188
+game:
+[[   0    0    4    0]
+ [   4 1024    0    0]
+ [   8  128   16    2]
+ [   8  512   64    8]]
+moving left
+score: 14188
+game:
+[[   4    2    0    0]
+ [   4 1024    0    0]
+ [   8  128   16    2]
+ [   8  512   64    8]]
+moving down
+score: 14212
+game:
+[[   0    2    0    2]
+ [   0 1024    0    0]
+ [   8  128   16    2]
+ [  16  512   64    8]]
+moving left
+score: 14216
+game:
+[[   4    0    0    0]
+ [1024    0    0    2]
+ [   8  128   16    2]
+ [  16  512   64    8]]
+moving down
+score: 14220
+game:
+[[   4    0    0    0]
+ [1024    2    0    0]
+ [   8  128   16    4]
+ [  16  512   64    8]]
+moving right
+score: 14220
+game:
+[[   0    0    0    4]
+ [   2    0 1024    2]
+ [   8  128   16    4]
+ [  16  512   64    8]]
+moving right
+score: 14220
+game:
+[[   0    2    0    4]
+ [   0    2 1024    2]
+ [   8  128   16    4]
+ [  16  512   64    8]]
+moving left
+score: 14220
+game:
+[[   2    4    0    2]
+ [   2 1024    2    0]
+ [   8  128   16    4]
+ [  16  512   64    8]]
+moving up
+score: 14224
+game:
+[[   4    4    2    2]
+ [   8 1024   16    4]
+ [  16  128   64    8]
+ [   2  512    0    0]]
+moving right
+score: 14236
+game:
+[[   0    4    8    4]
+ [   8 1024   16    4]
+ [  16  128   64    8]
+ [   0    0    2  512]]
+moving down
+score: 14244
+game:
+[[   2    0    8    0]
+ [   0    4   16    8]
+ [   8 1024   64    8]
+ [  16  128    2  512]]
+moving down
+score: 14260
+game:
+[[   0    0    8    2]
+ [   2    4   16    0]
+ [   8 1024   64   16]
+ [  16  128    2  512]]
+moving right
+score: 14260
+game:
+[[   0    0    8    2]
+ [   2    2    4   16]
+ [   8 1024   64   16]
+ [  16  128    2  512]]
+moving down
+score: 14292
+game:
+[[   0    0    8    2]
+ [   2    2    4    2]
+ [   8 1024   64   32]
+ [  16  128    2  512]]
+moving down
+score: 14296
+game:
+[[   0    4    8    0]
+ [   2    2    4    4]
+ [   8 1024   64   32]
+ [  16  128    2  512]]
+moving left
+score: 14308
+game:
+[[   4    8    0    0]
+ [   4    8    0    2]
+ [   8 1024   64   32]
+ [  16  128    2  512]]
+moving up
+score: 14332
+game:
+[[   8   16   64    2]
+ [   8 1024    2   32]
+ [  16  128    4  512]
+ [   0    0    0    0]]
+moving down
+score: 14348
+game:
+[[   0    2    0    0]
+ [   0   16   64    2]
+ [  16 1024    2   32]
+ [  16  128    4  512]]
+moving left
+score: 14348
+game:
+[[   2    0    0    0]
+ [  16   64    2    2]
+ [  16 1024    2   32]
+ [  16  128    4  512]]
+moving down
+score: 14384
+game:
+[[   0    0    0    0]
+ [   2   64    4    2]
+ [  16 1024    4   32]
+ [  32  128    4  512]]
+moving down
+score: 14392
+game:
+[[   0    0    0    2]
+ [   2   64    0    2]
+ [  16 1024    4   32]
+ [  32  128    8  512]]
+moving up
+score: 14396
+game:
+[[   2   64    4    4]
+ [  16 1024    8   32]
+ [  32  128    0  512]
+ [   0    0    0    2]]
+moving left
+score: 14404
+game:
+[[   2   64    8    0]
+ [  16 1024    8   32]
+ [  32  128  512    0]
+ [   2    0    2    0]]
+moving up
+score: 14420
+game:
+[[   2   64   16   32]
+ [  16 1024  512    0]
+ [  32  128    2    2]
+ [   2    0    0    0]]
+moving right
+score: 14424
+game:
+[[   2   64   16   32]
+ [   0   16 1024  512]
+ [   0   32  128    4]
+ [   4    0    0    2]]
+moving up
+score: 14424
+game:
+[[   2   64   16   32]
+ [   4   16 1024  512]
+ [   0   32  128    4]
+ [   0    2    0    2]]
+moving right
+score: 14428
+game:
+[[   2   64   16   32]
+ [   4   16 1024  512]
+ [   0   32  128    4]
+ [   0    2    0    4]]
+moving down
+score: 14436
+game:
+[[   0   64    4    0]
+ [   0   16   16   32]
+ [   2   32 1024  512]
+ [   4    2  128    8]]
+moving left
+score: 14468
+game:
+[[  64    4    0    2]
+ [  32   32    0    0]
+ [   2   32 1024  512]
+ [   4    2  128    8]]
+moving left
+score: 14532
+game:
+[[  64    4    2    2]
+ [  64    0    0    0]
+ [   2   32 1024  512]
+ [   4    2  128    8]]
+moving down
+score: 14660
+game:
+[[   0    0    2    0]
+ [ 128    4    2    2]
+ [   2   32 1024  512]
+ [   4    2  128    8]]
+moving right
+score: 14664
+game:
+[[   4    0    0    2]
+ [   0  128    4    4]
+ [   2   32 1024  512]
+ [   4    2  128    8]]
+moving left
+score: 14672
+game:
+[[   4    2    0    0]
+ [ 128    8    0    2]
+ [   2   32 1024  512]
+ [   4    2  128    8]]
+moving right
+score: 14672
+game:
+[[   0    2    4    2]
+ [   0  128    8    2]
+ [   2   32 1024  512]
+ [   4    2  128    8]]
+moving up
+score: 14676
+game:
+[[   2    2    4    4]
+ [   4  128    8  512]
+ [   0   32 1024    8]
+ [   0    2  128    2]]
+moving left
+score: 14688
+game:
+[[   4    8    0    2]
+ [   4  128    8  512]
+ [  32 1024    8    0]
+ [   2  128    2    0]]
+moving up
+score: 14712
+game:
+[[   8    8   16    2]
+ [  32  128    2  512]
+ [   2 1024    0    0]
+ [   2  128    0    0]]
+moving left
+score: 14728
+game:
+[[  16   16    2    0]
+ [  32  128    2  512]
+ [   2 1024    2    0]
+ [   2  128    0    0]]
+moving up
+score: 14736
+game:
+[[  16   16    4  512]
+ [  32  128    2    0]
+ [   4 1024    0    4]
+ [   0  128    0    0]]
+moving right
+score: 14768
+game:
+[[   0   32    4  512]
+ [   0   32  128    2]
+ [   0    4 1024    4]
+ [   0    2    0  128]]
+moving up
+score: 14832
+game:
+[[   2   64    4  512]
+ [   0    4  128    2]
+ [   0    2 1024    4]
+ [   0    0    0  128]]
+moving down
+score: 14832
+game:
+[[   0    0    0  512]
+ [   2   64    4    2]
+ [   0    4  128    4]
+ [   2    2 1024  128]]
+moving left
+score: 14836
+game:
+[[ 512    2    0    0]
+ [   2   64    4    2]
+ [   4  128    4    0]
+ [   4 1024  128    0]]
+moving down
+score: 14852
+game:
+[[   0    2    0    0]
+ [ 512   64    0    2]
+ [   2  128    8    0]
+ [   8 1024  128    2]]
+moving down
+score: 14856
+game:
+[[   2    2    0    0]
+ [ 512   64    0    0]
+ [   2  128    8    0]
+ [   8 1024  128    4]]
+moving right
+score: 14860
+game:
+[[   0    0    2    4]
+ [   0    0  512   64]
+ [   0    2  128    8]
+ [   8 1024  128    4]]
+moving down
+score: 15116
+game:
+[[   0    0    0    4]
+ [   2    0    2   64]
+ [   0    2  512    8]
+ [   8 1024  256    4]]
+moving down
+score: 15116
+game:
+[[   0    0    0    4]
+ [   2    0    2   64]
+ [   2    2  512    8]
+ [   8 1024  256    4]]
+moving left
+score: 15124
+game:
+[[   4    2    0    0]
+ [   4   64    0    0]
+ [   4  512    8    0]
+ [   8 1024  256    4]]
+moving down
+score: 15132
+game:
+[[   0    2    0    0]
+ [   4   64    0    2]
+ [   8  512    8    0]
+ [   8 1024  256    4]]
+moving down
+score: 15148
+game:
+[[   0    2    0    0]
+ [   2   64    0    0]
+ [   4  512    8    2]
+ [  16 1024  256    4]]
+moving left
+score: 15148
+game:
+[[   2    0    0    2]
+ [   2   64    0    0]
+ [   4  512    8    2]
+ [  16 1024  256    4]]
+moving up
+score: 15156
+game:
+[[   4   64    8    4]
+ [   4  512  256    4]
+ [  16 1024    0    0]
+ [   0    0    0    4]]
+moving up
+score: 15172
+game:
+[[   8   64    8    8]
+ [  16  512  256    4]
+ [   0 1024    0    4]
+ [   0    0    0    0]]
+moving down
+score: 15180
+game:
+[[   0    0    0    0]
+ [   2   64    0    0]
+ [   8  512    8    8]
+ [  16 1024  256    8]]
+moving right
+score: 15196
+game:
+[[   0    0    0    0]
+ [   0    0    2   64]
+ [   2    8  512   16]
+ [  16 1024  256    8]]
+moving left
+score: 15196
+game:
+[[   0    0    0    2]
+ [   2   64    0    0]
+ [   2    8  512   16]
+ [  16 1024  256    8]]
+moving down
+score: 15200
+game:
+[[   0    0    0    0]
+ [   0   64    2    2]
+ [   4    8  512   16]
+ [  16 1024  256    8]]
+moving left
+score: 15204
+game:
+[[   0    0    0    0]
+ [  64    4    0    2]
+ [   4    8  512   16]
+ [  16 1024  256    8]]
+moving left
+score: 15204
+game:
+[[   0    2    0    0]
+ [  64    4    2    0]
+ [   4    8  512   16]
+ [  16 1024  256    8]]
+moving up
+score: 15204
+game:
+[[  64    2    2   16]
+ [   4    4  512    8]
+ [  16    8  256    0]
+ [   0 1024    0    2]]
+moving right
+score: 15216
+game:
+[[   2   64    4   16]
+ [   0    8  512    8]
+ [   0   16    8  256]
+ [   0    0 1024    2]]
+moving down
+score: 15216
+game:
+[[   2    0    4   16]
+ [   0   64  512    8]
+ [   0    8    8  256]
+ [   2   16 1024    2]]
+moving right
+score: 15232
+game:
+[[   0    2    4   16]
+ [   0   64  512    8]
+ [   2    0   16  256]
+ [   2   16 1024    2]]
+moving left
+score: 15232
+game:
+[[   2    4   16    2]
+ [  64  512    8    0]
+ [   2   16  256    0]
+ [   2   16 1024    2]]
+moving down
+score: 15272
+game:
+[[   2    0   16    0]
+ [   2    4    8    0]
+ [  64  512  256    0]
+ [   4   32 1024    4]]
+moving down
+score: 15276
+game:
+[[   0    0   16    2]
+ [   4    4    8    0]
+ [  64  512  256    0]
+ [   4   32 1024    4]]
+moving left
+score: 15284
+game:
+[[  16    2    0    2]
+ [   8    8    0    0]
+ [  64  512  256    0]
+ [   4   32 1024    4]]
+moving left
+score: 15304
+game:
+[[  16    4    0    0]
+ [  16    0    0    2]
+ [  64  512  256    0]
+ [   4   32 1024    4]]
+moving down
+score: 15336
+game:
+[[   0    0    0    0]
+ [  32    4    0    2]
+ [  64  512  256    2]
+ [   4   32 1024    4]]
+moving down
+score: 15340
+game:
+[[   2    0    0    0]
+ [  32    4    0    0]
+ [  64  512  256    4]
+ [   4   32 1024    4]]
+moving down
+score: 15348
+game:
+[[   2    0    0    0]
+ [  32    4    0    2]
+ [  64  512  256    0]
+ [   4   32 1024    8]]
+moving left
+score: 15348
+game:
+[[   2    2    0    0]
+ [  32    4    2    0]
+ [  64  512  256    0]
+ [   4   32 1024    8]]
+moving left
+score: 15352
+game:
+[[   4    2    0    0]
+ [  32    4    2    0]
+ [  64  512  256    0]
+ [   4   32 1024    8]]
+moving right
+score: 15352
+game:
+[[   0    0    4    2]
+ [   2   32    4    2]
+ [   0   64  512  256]
+ [   4   32 1024    8]]
+moving down
+score: 15364
+game:
+[[   0    0    0    0]
+ [   2   32    8    4]
+ [   2   64  512  256]
+ [   4   32 1024    8]]
+moving down
+score: 15368
+game:
+[[   0    0    2    0]
+ [   0   32    8    4]
+ [   4   64  512  256]
+ [   4   32 1024    8]]
+moving down
+score: 15376
+game:
+[[   0    2    2    0]
+ [   0   32    8    4]
+ [   0   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15380
+game:
+[[   0    0    2    4]
+ [   0   32    8    4]
+ [   0   64  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15388
+game:
+[[   0    2    2    0]
+ [   0   32    8    8]
+ [   0   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15408
+game:
+[[   0    0    0    4]
+ [   0    0   32   16]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving left
+score: 15408
+game:
+[[   4    0    0    0]
+ [  32   16    4    0]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15408
+game:
+[[   0    2    0    4]
+ [   0   32   16    4]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15416
+game:
+[[   0    2    2    0]
+ [   0   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15420
+game:
+[[   0    0    0    4]
+ [   4   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving left
+score: 15420
+game:
+[[   4    0    2    0]
+ [   4   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15428
+game:
+[[   0    2    2    0]
+ [   8   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15432
+game:
+[[   2    0    0    4]
+ [   8   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15432
+game:
+[[   2    0    2    4]
+ [   8   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15436
+game:
+[[   0    2    4    4]
+ [   8   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15444
+game:
+[[   0    2    2    8]
+ [   8   32   16    8]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15460
+game:
+[[   2    2    2    0]
+ [   8   32   16   16]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving left
+score: 15496
+game:
+[[   4    2    2    0]
+ [   8   32   32    0]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving left
+score: 15564
+game:
+[[   4    4    0    0]
+ [   8   64    0    2]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving left
+score: 15572
+game:
+[[   8    0    0    0]
+ [   8   64    2    4]
+ [   2   64  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15716
+game:
+[[   0    0    0    0]
+ [  16    2    2    4]
+ [   2  128  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15720
+game:
+[[   0    0    0    0]
+ [   2   16    4    4]
+ [   2  128  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15724
+game:
+[[   0    2    0    0]
+ [   0   16    4    4]
+ [   4  128  512  256]
+ [   8   32 1024    8]]
+moving left
+score: 15732
+game:
+[[   2    0    0    2]
+ [  16    8    0    0]
+ [   4  128  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15736
+game:
+[[   0    0    0    4]
+ [   2    0   16    8]
+ [   4  128  512  256]
+ [   8   32 1024    8]]
+moving right
+score: 15736
+game:
+[[   0    0    0    4]
+ [   2    2   16    8]
+ [   4  128  512  256]
+ [   8   32 1024    8]]
+moving left
+score: 15740
+game:
+[[   4    0    0    2]
+ [   4   16    8    0]
+ [   4  128  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15748
+game:
+[[   0    0    0    2]
+ [   4   16    8    2]
+ [   8  128  512  256]
+ [   8   32 1024    8]]
+moving down
+score: 15768
+game:
+[[   0    0    0    0]
+ [   2   16    8    4]
+ [   4  128  512  256]
+ [  16   32 1024    8]]
+moving up
+score: 15768
+game:
+[[   2   16    8    4]
+ [   4  128  512  256]
+ [  16   32 1024    8]
+ [   0    2    0    0]]
+moving down
+score: 15768
+game:
+[[   0   16    2    0]
+ [   2  128    8    4]
+ [   4   32  512  256]
+ [  16    2 1024    8]]
+moving left
+score: 15768
+game:
+[[  16    2    0    2]
+ [   2  128    8    4]
+ [   4   32  512  256]
+ [  16    2 1024    8]]
+moving right
+score: 15772
+game:
+[[   2    0   16    4]
+ [   2  128    8    4]
+ [   4   32  512  256]
+ [  16    2 1024    8]]
+moving up
+score: 15784
+game:
+[[   4  128   16    8]
+ [   4   32    8  256]
+ [  16    2  512    8]
+ [   0    0 1024    2]]
+moving up
+score: 15792
+game:
+[[   8  128   16    8]
+ [  16   32    8  256]
+ [   0    2  512    8]
+ [   2    0 1024    2]]
+moving left
+score: 15792
+game:
+[[   8  128   16    8]
+ [  16   32    8  256]
+ [   2  512    8    2]
+ [   2 1024    2    0]]
+moving up
+score: 15812
+game:
+[[   8  128   16    8]
+ [  16   32   16  256]
+ [   4  512    2    2]
+ [   0 1024    2    0]]
+moving up
+score: 15848
+game:
+[[   8  128   32    8]
+ [  16   32    4  256]
+ [   4  512    0    2]
+ [   0 1024    0    2]]
+moving down
+score: 15852
+game:
+[[   0  128    0    0]
+ [   8   32    2    8]
+ [  16  512   32  256]
+ [   4 1024    4    4]]
+moving left
+score: 15860
+game:
+[[ 128    2    0    0]
+ [   8   32    2    8]
+ [  16  512   32  256]
+ [   4 1024    8    0]]
+moving down
+score: 15860
+game:
+[[ 128    2    0    2]
+ [   8   32    2    0]
+ [  16  512   32    8]
+ [   4 1024    8  256]]
+moving left
+score: 15864
+game:
+[[ 128    4    2    0]
+ [   8   32    2    0]
+ [  16  512   32    8]
+ [   4 1024    8  256]]
+moving up
+score: 15868
+game:
+[[ 128    4    4    8]
+ [   8   32   32  256]
+ [  16  512    8    0]
+ [   4 1024    2    0]]
+moving right
+score: 15940
+game:
+[[   0  128    8    8]
+ [   4    8   64  256]
+ [   0   16  512    8]
+ [   0    4 1024    2]]
+moving down
+score: 15940
+game:
+[[   2  128    8    8]
+ [   0    8   64  256]
+ [   0   16  512    8]
+ [   4    4 1024    2]]
+moving right
+score: 15964
+game:
+[[   0    2  128   16]
+ [   2    8   64  256]
+ [   0   16  512    8]
+ [   0    8 1024    2]]
+moving up
+score: 15964
+game:
+[[   2    2  128   16]
+ [   2    8   64  256]
+ [   0   16  512    8]
+ [   0    8 1024    2]]
+moving right
+score: 15968
+game:
+[[   0    4  128   16]
+ [   2    8   64  256]
+ [   2   16  512    8]
+ [   0    8 1024    2]]
+moving up
+score: 15972
+game:
+[[   4    4  128   16]
+ [   0    8   64  256]
+ [   2   16  512    8]
+ [   0    8 1024    2]]
+moving right
+score: 15980
+game:
+[[   2    8  128   16]
+ [   0    8   64  256]
+ [   2   16  512    8]
+ [   0    8 1024    2]]
+moving up
+score: 16000
+game:
+[[   4   16  128   16]
+ [   2   16   64  256]
+ [   0    8  512    8]
+ [   0    0 1024    2]]
+moving up
+score: 16032
+game:
+[[   4   32  128   16]
+ [   2    8   64  256]
+ [   0    0  512    8]
+ [   2    0 1024    2]]
+moving down
+score: 16036
+game:
+[[   0    0  128   16]
+ [   0    2   64  256]
+ [   4   32  512    8]
+ [   4    8 1024    2]]
+moving down
+score: 16044
+game:
+[[   0    0  128   16]
+ [   0    2   64  256]
+ [   2   32  512    8]
+ [   8    8 1024    2]]
+moving right
+score: 16060
+game:
+[[   0    0  128   16]
+ [   2    2   64  256]
+ [   2   32  512    8]
+ [   0   16 1024    2]]
+moving right
+score: 16064
+game:
+[[   0    2  128   16]
+ [   0    4   64  256]
+ [   2   32  512    8]
+ [   0   16 1024    2]]
+moving down
+score: 16064
+game:
+[[   2    2  128   16]
+ [   0    4   64  256]
+ [   0   32  512    8]
+ [   2   16 1024    2]]
+moving left
+score: 16068
+game:
+[[   4  128   16    0]
+ [   4   64  256    0]
+ [  32  512    8    2]
+ [   2   16 1024    2]]
+moving up
+score: 16080
+game:
+[[   8  128   16    4]
+ [  32   64  256    0]
+ [   2  512    8    0]
+ [   0   16 1024    2]]
+moving up
+score: 16080
+game:
+[[   8  128   16    4]
+ [  32   64  256    2]
+ [   2  512    8    0]
+ [   0   16 1024    2]]
+moving up
+score: 16084
+game:
+[[   8  128   16    4]
+ [  32   64  256    4]
+ [   2  512    8    0]
+ [   0   16 1024    2]]
+moving down
+score: 16092
+game:
+[[   2  128   16    0]
+ [   8   64  256    0]
+ [  32  512    8    8]
+ [   2   16 1024    2]]
+moving right
+score: 16108
+game:
+[[   0    2  128   16]
+ [   2    8   64  256]
+ [   0   32  512   16]
+ [   2   16 1024    2]]
+moving down
+score: 16112
+game:
+[[   0    2  128   16]
+ [   0    8   64  256]
+ [   4   32  512   16]
+ [   4   16 1024    2]]
+moving left
+score: 16112
+game:
+[[   2  128   16    2]
+ [   8   64  256    0]
+ [   4   32  512   16]
+ [   4   16 1024    2]]
+moving down
+score: 16120
+game:
+[[   2  128   16    0]
+ [   2   64  256    2]
+ [   8   32  512   16]
+ [   8   16 1024    2]]
+moving down
+score: 16140
+game:
+[[   0  128   16    0]
+ [   4   64  256    2]
+ [   4   32  512   16]
+ [  16   16 1024    2]]
+moving right
+score: 16172
+game:
+[[   0    0  128   16]
+ [   4   64  256    2]
+ [   4   32  512   16]
+ [   2   32 1024    2]]
+moving up
+score: 16244
+game:
+[[   8   64  128   16]
+ [   2   64  256    2]
+ [   4    0  512   16]
+ [   0    0 1024    2]]
+moving up
+score: 16372
+game:
+[[   8  128  128   16]
+ [   2    0  256    2]
+ [   4    0  512   16]
+ [   2    0 1024    2]]
+moving right
+score: 16628
+game:
+[[   0    8  256   16]
+ [   2    2  256    2]
+ [   0    4  512   16]
+ [   0    2 1024    2]]
+moving up
+score: 17140
+game:
+[[   2    8  512   16]
+ [   0    2  512    2]
+ [   0    4 1024   16]
+ [   0    2    2    2]]
+moving up
+score: 18164
+game:
+[[   2    8 1024   16]
+ [   2    2 1024    2]
+ [   0    4    2   16]
+ [   0    2    0    2]]
+moving right
+score: 18172
+game:
+[[   2    8 1024   16]
+ [   0    4 1024    2]
+ [   2    4    2   16]
+ [   0    0    0    4]]
+moving up
+score: 20232
+game:
+[[   4    8 2048   16]
+ [   0    8    2    2]
+ [   0    0    0   16]
+ [   2    0    0    4]]
+moving up
+score: 20248
+game:
+[[   4   16 2048   16]
+ [   2    0    2    2]
+ [   0    2    0   16]
+ [   0    0    0    4]]
+moving right
+score: 20252
+game:
+[[   4   16 2048   16]
+ [   0    0    2    4]
+ [   2    0    2   16]
+ [   0    0    0    4]]
+moving up
+score: 20256
+game:
+[[   4   16 2048   16]
+ [   2    0    4    4]
+ [   0    0    0   16]
+ [   0    2    0    4]]
+moving down
+score: 20256
+game:
+[[   0    4    0   16]
+ [   0    0    0    4]
+ [   4   16 2048   16]
+ [   2    2    4    4]]
+moving left
+score: 20268
+game:
+[[   4   16    0    0]
+ [   4    0    0    0]
+ [   4   16 2048   16]
+ [   4    8    2    0]]
+moving up
+score: 20316
+game:
+[[   8   32 2048   16]
+ [   8    8    2    0]
+ [   0    0    0    0]
+ [   0    0    4    0]]
+moving left
+score: 20332
+game:
+[[   8   32 2048   16]
+ [  16    2    0    0]
+ [   0    0    0    0]
+ [   4    2    0    0]]
+moving right
+score: 20332
+game:
+[[   8   32 2048   16]
+ [   0    0   16    2]
+ [   0    0    0    0]
+ [   2    0    4    2]]
+moving down
+score: 20336
+game:
+[[   0    0    2    0]
+ [   0    0 2048    0]
+ [   8    0   16   16]
+ [   2   32    4    4]]
+moving right
+score: 20376
+game:
+[[   0    0    0    2]
+ [   0    0    0 2048]
+ [   2    0    8   32]
+ [   0    2   32    8]]
+moving down
+score: 20376
+game:
+[[   0    0    2    2]
+ [   0    0    0 2048]
+ [   0    0    8   32]
+ [   2    2   32    8]]
+moving left
+score: 20384
+game:
+[[   4    0    0    0]
+ [2048    0    2    0]
+ [   8   32    0    0]
+ [   4   32    8    0]]
+moving left
+score: 20384
+game:
+[[   4    0    0    0]
+ [2048    2    0    0]
+ [   8   32    0    2]
+ [   4   32    8    0]]
+moving right
+score: 20384
+game:
+[[   2    0    0    4]
+ [   0    0 2048    2]
+ [   0    8   32    2]
+ [   0    4   32    8]]
+moving up
+score: 20452
+game:
+[[   2    8 2048    4]
+ [   0    4   64    4]
+ [   2    0    0    8]
+ [   0    0    0    0]]
+moving down
+score: 20464
+game:
+[[   0    0    2    0]
+ [   0    0    0    0]
+ [   0    8 2048    8]
+ [   4    4   64    8]]
+moving left
+score: 20472
+game:
+[[   2    0    0    2]
+ [   0    0    0    0]
+ [   8 2048    8    0]
+ [   8   64    8    0]]
+moving down
+score: 20504
+game:
+[[   0    0    0    0]
+ [   0    0    0    0]
+ [   2 2048    2    0]
+ [  16   64   16    2]]
+moving right
+score: 20504
+game:
+[[   0    0    0    2]
+ [   0    0    0    0]
+ [   0    2 2048    2]
+ [  16   64   16    2]]
+moving down
+score: 20508
+game:
+[[   0    0    0    0]
+ [   2    0    0    0]
+ [   0    2 2048    2]
+ [  16   64   16    4]]
+moving right
+score: 20508
+game:
+[[   0    0    0    0]
+ [   0    2    0    2]
+ [   0    2 2048    2]
+ [  16   64   16    4]]
+moving down
+score: 20516
+game:
+[[   0    0    0    0]
+ [   2    0    0    0]
+ [   0    4 2048    4]
+ [  16   64   16    4]]
+moving down
+score: 20524
+game:
+[[   0    0    2    0]
+ [   0    0    0    0]
+ [   2    4 2048    0]
+ [  16   64   16    8]]
+moving down
+score: 20524
+game:
+[[   0    0    0    0]
+ [   0    0    2    2]
+ [   2    4 2048    0]
+ [  16   64   16    8]]
+moving right
+score: 20528
+game:
+[[   0    0    0    2]
+ [   0    0    0    4]
+ [   0    2    4 2048]
+ [  16   64   16    8]]
+moving left
+score: 20528
+game:
+[[   2    0    2    0]
+ [   4    0    0    0]
+ [   2    4 2048    0]
+ [  16   64   16    8]]
+moving right
+score: 20532
+game:
+[[   2    0    0    4]
+ [   0    0    0    4]
+ [   0    2    4 2048]
+ [  16   64   16    8]]
+moving down
+score: 20540
+game:
+[[   0    0    0    2]
+ [   0    0    0    8]
+ [   2    2    4 2048]
+ [  16   64   16    8]]
+moving left
+score: 20544
+game:
+[[   2    0    0    0]
+ [   8    0    0    0]
+ [   4    4 2048    2]
+ [  16   64   16    8]]
+moving left
+score: 20552
+game:
+[[   2    0    0    0]
+ [   8    0    0    0]
+ [   8 2048    2    2]
+ [  16   64   16    8]]
+moving down
+score: 20568
+game:
+[[   0    0    2    0]
+ [   2    0    0    0]
+ [  16 2048    2    2]
+ [  16   64   16    8]]
+moving down
+score: 20604
+game:
+[[   0    2    0    0]
+ [   0    0    0    0]
+ [   2 2048    4    2]
+ [  32   64   16    8]]
+moving right
+score: 20604
+game:
+[[   0    0    0    2]
+ [   2    0    0    0]
+ [   2 2048    4    2]
+ [  32   64   16    8]]
+moving down
+score: 20612
+game:
+[[   0    0    0    0]
+ [   2    0    0    0]
+ [   4 2048    4    4]
+ [  32   64   16    8]]
+moving right
+score: 20620
+game:
+[[   2    0    0    0]
+ [   0    0    0    2]
+ [   0    4 2048    8]
+ [  32   64   16    8]]
+moving down
+score: 20636
+game:
+[[   0    0    0    0]
+ [   0    4    0    0]
+ [   2    4 2048    2]
+ [  32   64   16   16]]
+moving down
+score: 20644
+game:
+[[   0    0    0    0]
+ [   0    2    0    0]
+ [   2    8 2048    2]
+ [  32   64   16   16]]
+moving right
+score: 20676
+game:
+[[   0    0    0    2]
+ [   0    0    0    2]
+ [   2    8 2048    2]
+ [   0   32   64   32]]
+moving down
+score: 20680
+game:
+[[   0    0    0    0]
+ [   0    0    2    2]
+ [   0    8 2048    4]
+ [   2   32   64   32]]
+moving right
+score: 20684
+game:
+[[   0    0    0    0]
+ [   0    0    0    4]
+ [   2    8 2048    4]
+ [   2   32   64   32]]
+moving down
+score: 20696
+game:
+[[   0    0    0    0]
+ [   0    0    0    0]
+ [   2    8 2048    8]
+ [   4   32   64   32]]
+moving up
+score: 20696
+game:
+[[   2    8 2048    8]
+ [   4   32   64   32]
+ [   0    2    0    0]
+ [   0    0    0    0]]
+moving down
+score: 20696
+game:
+[[   0    0    2    0]
+ [   0    8    0    0]
+ [   2   32 2048    8]
+ [   4    2   64   32]]
+moving right
+score: 20696
+game:
+[[   0    0    0    2]
+ [   2    0    0    8]
+ [   2   32 2048    8]
+ [   4    2   64   32]]
+moving up
+score: 20716
+game:
+[[   4   32 2048    2]
+ [   4    2   64   16]
+ [   0    0    0   32]
+ [   0    2    0    0]]
+moving down
+score: 20728
+game:
+[[   0    2    0    0]
+ [   0    0    0    2]
+ [   0   32 2048   16]
+ [   8    4   64   32]]
+moving down
+score: 20728
+game:
+[[   0    0    0    0]
+ [   0    2    2    2]
+ [   0   32 2048   16]
+ [   8    4   64   32]]
+moving left
+score: 20732
+game:
+[[   0    0    0    0]
+ [   4    2    0    0]
+ [  32 2048   16    2]
+ [   8    4   64   32]]
+moving right
+score: 20732
+game:
+[[   0    0    0    0]
+ [   0    2    4    2]
+ [  32 2048   16    2]
+ [   8    4   64   32]]
+moving down
+score: 20736
+game:
+[[   0    0    0    0]
+ [   2    2    4    0]
+ [  32 2048   16    4]
+ [   8    4   64   32]]
+moving right
+score: 20740
+game:
+[[   0    0    2    0]
+ [   0    0    4    4]
+ [  32 2048   16    4]
+ [   8    4   64   32]]
+moving up
+score: 20748
+game:
+[[  32 2048    2    8]
+ [   8    4    4   32]
+ [   0    2   16    0]
+ [   0    0   64    0]]
+moving right
+score: 20756
+game:
+[[  32 2048    2    8]
+ [   2    8    8   32]
+ [   0    0    2   16]
+ [   0    0    0   64]]
+moving left
+score: 20772
+game:
+[[  32 2048    2    8]
+ [   2   16   32    0]
+ [   2   16    0    0]
+ [  64    0    0    2]]
+moving down
+score: 20808
+game:
+[[   0    2    0    0]
+ [  32    0    0    0]
+ [   4 2048    2    8]
+ [  64   32   32    2]]
+moving left
+score: 20872
+game:
+[[   2    0    4    0]
+ [  32    0    0    0]
+ [   4 2048    2    8]
+ [  64   64    2    0]]
+moving down
+score: 20876
+game:
+[[   2    0    0    0]
+ [  32    0    0    0]
+ [   4 2048    4    2]
+ [  64   64    4    8]]
+moving down
+score: 20884
+game:
+[[   2    0    0    0]
+ [  32    0    0    0]
+ [   4 2048    2    2]
+ [  64   64    8    8]]
+moving right
+score: 21032
+game:
+[[   0    0    0    2]
+ [   0    0    2   32]
+ [   0    4 2048    4]
+ [   0    0  128   16]]
+moving up
+score: 21032
+game:
+[[   2    4    2    2]
+ [   0    0 2048   32]
+ [   0    0  128    4]
+ [   0    0    0   16]]
+moving right
+score: 21036
+game:
+[[   0    2    4    4]
+ [   0    0 2048   32]
+ [   0    2  128    4]
+ [   0    0    0   16]]
+moving up
+score: 21040
+game:
+[[   0    4    4    4]
+ [   0    0 2048   32]
+ [   0    0  128    4]
+ [   0    0    2   16]]
+moving right
+score: 21048
+game:
+[[   0    0    4    8]
+ [   0    0 2048   32]
+ [   2    0  128    4]
+ [   0    0    2   16]]
+moving down
+score: 21048
+game:
+[[   2    0    4    8]
+ [   0    0 2048   32]
+ [   0    0  128    4]
+ [   2    0    2   16]]
+moving right
+score: 21052
+game:
+[[   0    2    4    8]
+ [   0    0 2048   32]
+ [   2    0  128    4]
+ [   0    0    4   16]]
+moving down
+score: 21052
+game:
+[[   0    0    4    8]
+ [   0    2 2048   32]
+ [   0    0  128    4]
+ [   2    2    4   16]]
+moving up
+score: 21056
+game:
+[[   2    4    4    8]
+ [   2    0 2048   32]
+ [   0    0  128    4]
+ [   0    0    4   16]]
+moving right
+score: 21064
+game:
+[[   0    2    8    8]
+ [   2    2 2048   32]
+ [   0    0  128    4]
+ [   0    0    4   16]]
+moving down
+score: 21068
+game:
+[[   0    0    8    8]
+ [   2    0 2048   32]
+ [   0    0  128    4]
+ [   2    4    4   16]]
+moving down
+score: 21072
+game:
+[[   0    4    8    8]
+ [   0    0 2048   32]
+ [   0    0  128    4]
+ [   4    4    4   16]]
+moving left
+score: 21096
+game:
+[[   4   16    0    0]
+ [2048   32    0    2]
+ [ 128    4    0    0]
+ [   8    4   16    0]]
+moving up
+score: 21104
+game:
+[[   4   16   16    2]
+ [2048   32    0    0]
+ [ 128    8    0    2]
+ [   8    0    0    0]]
+moving left
+score: 21136
+game:
+[[   4   32    2    0]
+ [2048   32    0    0]
+ [ 128    8    2    0]
+ [   8    0    0    2]]
+moving down
+score: 21204
+game:
+[[   4    2    0    0]
+ [2048    0    0    0]
+ [ 128   64    0    0]
+ [   8    8    4    2]]
+moving left
+score: 21220
+game:
+[[   4    2    2    0]
+ [2048    0    0    0]
+ [ 128   64    0    0]
+ [  16    4    2    0]]
+moving down
+score: 21224
+game:
+[[   4    0    0    0]
+ [2048    2    0    0]
+ [ 128   64    2    0]
+ [  16    4    4    0]]
+moving left
+score: 21232
+game:
+[[   4    0    0    4]
+ [2048    2    0    0]
+ [ 128   64    2    0]
+ [  16    8    0    0]]
+moving left
+score: 21240
+game:
+[[   8    2    0    0]
+ [2048    2    0    0]
+ [ 128   64    2    0]
+ [  16    8    0    0]]
+moving up
+score: 21244
+game:
+[[   8    4    2    0]
+ [2048   64    0    0]
+ [ 128    8    0    0]
+ [  16    0    4    0]]
+moving left
+score: 21244
+game:
+[[   8    4    2    2]
+ [2048   64    0    0]
+ [ 128    8    0    0]
+ [  16    4    0    0]]
+moving left
+score: 21248
+game:
+[[   8    4    4    2]
+ [2048   64    0    0]
+ [ 128    8    0    0]
+ [  16    4    0    0]]
+moving left
+score: 21256
+game:
+[[   8    8    2    2]
+ [2048   64    0    0]
+ [ 128    8    0    0]
+ [  16    4    0    0]]
+moving left
+score: 21276
+game:
+[[  16    4    0    0]
+ [2048   64    0    2]
+ [ 128    8    0    0]
+ [  16    4    0    0]]
+moving left
+score: 21276
+game:
+[[  16    4    0    2]
+ [2048   64    2    0]
+ [ 128    8    0    0]
+ [  16    4    0    0]]
+moving down
+score: 21276
+game:
+[[  16    4    0    0]
+ [2048   64    0    4]
+ [ 128    8    0    0]
+ [  16    4    2    2]]
+moving right
+score: 21280
+game:
+[[   0    0   16    4]
+ [   0 2048   64    4]
+ [   0    2  128    8]
+ [   0   16    4    4]]
+moving right
+score: 21288
+game:
+[[   0    2   16    4]
+ [   0 2048   64    4]
+ [   0    2  128    8]
+ [   0    0   16    8]]
+moving down
+score: 21312
+game:
+[[   0    0   16    2]
+ [   0    2   64    0]
+ [   0 2048  128    8]
+ [   0    2   16   16]]
+moving down
+score: 21312
+game:
+[[   0    0   16    0]
+ [   0    2   64    2]
+ [   0 2048  128    8]
+ [   2    2   16   16]]
+moving left
+score: 21348
+game:
+[[  16    0    0    0]
+ [   2   64    2    2]
+ [2048  128    8    0]
+ [   4   32    0    0]]
+moving right
+score: 21352
+game:
+[[   0    0    0   16]
+ [   0    2   64    4]
+ [   0 2048  128    8]
+ [   4    0    4   32]]
+moving right
+score: 21360
+game:
+[[   0    0    0   16]
+ [   0    2   64    4]
+ [   2 2048  128    8]
+ [   0    0    8   32]]
+moving up
+score: 21360
+game:
+[[   2    2   64   16]
+ [   2 2048  128    4]
+ [   0    0    8    8]
+ [   0    0    0   32]]
+moving right
+score: 21380
+game:
+[[   0    4   64   16]
+ [   2 2048  128    4]
+ [   0    0    0   16]
+ [   0    0    2   32]]
+moving up
+score: 21380
+game:
+[[   2    4   64   16]
+ [   2 2048  128    4]
+ [   0    0    2   16]
+ [   0    0    0   32]]
+moving up
+score: 21384
+game:
+[[   4    4   64   16]
+ [   0 2048  128    4]
+ [   0    0    2   16]
+ [   0    4    0   32]]
+moving left
+score: 21392
+game:
+[[   8   64   16    0]
+ [2048  128    4    0]
+ [   2   16    0    2]
+ [   4   32    0    0]]
+moving down
+score: 21392
+game:
+[[   8   64    2    0]
+ [2048  128    0    0]
+ [   2   16   16    0]
+ [   4   32    4    2]]
+moving left
+score: 21424
+game:
+[[   8   64    2    0]
+ [2048  128    0    0]
+ [   2   32    0    2]
+ [   4   32    4    2]]
+moving down
+score: 21492
+game:
+[[   8    0    4    0]
+ [2048   64    0    0]
+ [   2  128    2    0]
+ [   4   64    4    4]]
+moving right
+score: 21500
+game:
+[[   2    0    8    4]
+ [   0    0 2048   64]
+ [   0    2  128    2]
+ [   0    4   64    8]]
+moving right
+score: 21500
+game:
+[[   0    2    8    4]
+ [   0    2 2048   64]
+ [   0    2  128    2]
+ [   0    4   64    8]]
+moving down
+score: 21504
+game:
+[[   0    0    8    4]
+ [   0    2 2048   64]
+ [   0    4  128    2]
+ [   4    4   64    8]]
+moving right
+score: 21512
+game:
+[[   0    0    8    4]
+ [   0    2 2048   64]
+ [   0    4  128    2]
+ [   2    8   64    8]]
+moving up
+score: 21512
+game:
+[[   2    2    8    4]
+ [   2    4 2048   64]
+ [   0    8  128    2]
+ [   0    0   64    8]]
+moving right
+score: 21516
+game:
+[[   0    4    8    4]
+ [   2    4 2048   64]
+ [   4    8  128    2]
+ [   0    0   64    8]]
+moving down
+score: 21524
+game:
+[[   0    0    8    4]
+ [   0    2 2048   64]
+ [   2    8  128    2]
+ [   4    8   64    8]]
+moving down
+score: 21540
+game:
+[[   0    2    8    4]
+ [   0    0 2048   64]
+ [   2    2  128    2]
+ [   4   16   64    8]]
+moving left
+score: 21544
+game:
+[[   2    8    4    0]
+ [2048   64    0    2]
+ [   4  128    2    0]
+ [   4   16   64    8]]
+moving down
+score: 21552
+game:
+[[   0    8    4    0]
+ [   2   64    4    0]
+ [2048  128    2    2]
+ [   8   16   64    8]]
+moving right
+score: 21556
+game:
+[[   0    2    8    4]
+ [   0    2   64    4]
+ [   0 2048  128    4]
+ [   8   16   64    8]]
+moving down
+score: 21568
+game:
+[[   0    2    8    0]
+ [   0    4   64    4]
+ [   0 2048  128    8]
+ [   8   16   64    8]]
+moving down
+score: 21584
+game:
+[[   0    2    8    0]
+ [   2    4   64    0]
+ [   0 2048  128    4]
+ [   8   16   64   16]]
+moving right
+score: 21584
+game:
+[[   0    4    2    8]
+ [   0    2    4   64]
+ [   0 2048  128    4]
+ [   8   16   64   16]]
+moving up
+score: 21584
+game:
+[[   8    4    2    8]
+ [   0    2    4   64]
+ [   2 2048  128    4]
+ [   0   16   64   16]]
+moving left
+score: 21584
+game:
+[[   8    4    2    8]
+ [   2    4   64    2]
+ [   2 2048  128    4]
+ [  16   64   16    0]]
+moving down
+score: 21596
+game:
+[[   0    2    2    0]
+ [   8    8   64    8]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving right
+score: 21616
+game:
+[[   0    0    2    4]
+ [   0   16   64    8]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving left
+score: 21616
+game:
+[[   2    4    2    0]
+ [  16   64    8    0]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving right
+score: 21616
+game:
+[[   0    2    4    2]
+ [   2   16   64    8]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving left
+score: 21616
+game:
+[[   2    4    2    2]
+ [   2   16   64    8]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving right
+score: 21620
+game:
+[[   2    2    4    4]
+ [   2   16   64    8]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving right
+score: 21632
+game:
+[[   2    0    4    8]
+ [   2   16   64    8]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving down
+score: 21652
+game:
+[[   2    0    4    0]
+ [   4   16   64   16]
+ [   4 2048  128    2]
+ [  16   64   16    4]]
+moving down
+score: 21660
+game:
+[[   0    0    4    2]
+ [   2   16   64   16]
+ [   8 2048  128    2]
+ [  16   64   16    4]]
+moving left
+score: 21660
+game:
+[[   4    2    0    4]
+ [   2   16   64   16]
+ [   8 2048  128    2]
+ [  16   64   16    4]]
+moving right
+score: 21660
+game:
+[[   2    4    2    4]
+ [   2   16   64   16]
+ [   8 2048  128    2]
+ [  16   64   16    4]]
+moving up
+score: 21664
+game:
+[[   4    4    2    4]
+ [   8   16   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving left
+score: 21672
+game:
+[[   8    2    4    4]
+ [   8   16   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving down
+score: 21688
+game:
+[[   2    2    4    4]
+ [  16   16   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving right
+score: 21732
+game:
+[[   2    0    4    8]
+ [   0   32   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving right
+score: 21732
+game:
+[[   2    2    4    8]
+ [   0   32   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving right
+score: 21736
+game:
+[[   2    4    4    8]
+ [   0   32   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving right
+score: 21744
+game:
+[[   2    2    8    8]
+ [   0   32   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving right
+score: 21764
+game:
+[[   0    0    4   16]
+ [   4   32   64   16]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving down
+score: 21796
+game:
+[[   0    0    4    2]
+ [   4   32   64   32]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving left
+score: 21796
+game:
+[[   4    2    2    0]
+ [   4   32   64   32]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving down
+score: 21804
+game:
+[[   2    2    2    0]
+ [   8   32   64   32]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving left
+score: 21808
+game:
+[[   4    2    2    0]
+ [   8   32   64   32]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving left
+score: 21812
+game:
+[[   4    4    0    2]
+ [   8   32   64   32]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving left
+score: 21820
+game:
+[[   8    2    4    0]
+ [   8   32   64   32]
+ [  16 2048  128    2]
+ [   4   64   16    4]]
+moving up
+score: 21836
+game:
+[[  16    2    4   32]
+ [  16   32   64    2]
+ [   4 2048  128    4]
+ [   0   64   16    2]]
+moving down
+score: 21868
+game:
+[[   0    2    4   32]
+ [   2   32   64    2]
+ [  32 2048  128    4]
+ [   4   64   16    2]]
+moving up
+score: 21868
+game:
+[[   2    2    4   32]
+ [  32   32   64    2]
+ [   4 2048  128    4]
+ [   2   64   16    2]]
+moving left
+score: 21936
+game:
+[[   4    4   32    0]
+ [  64   64    2    2]
+ [   4 2048  128    4]
+ [   2   64   16    2]]
+moving right
+score: 22076
+game:
+[[   0    0    8   32]
+ [   2    0  128    4]
+ [   4 2048  128    4]
+ [   2   64   16    2]]
+moving down
+score: 22340
+game:
+[[   0    0    0    0]
+ [   2    2    8   32]
+ [   4 2048  256    8]
+ [   2   64   16    2]]
+moving left
+score: 22344
+game:
+[[   0    0    0    2]
+ [   4    8   32    0]
+ [   4 2048  256    8]
+ [   2   64   16    2]]
+moving up
+score: 22352
+game:
+[[   8    8   32    2]
+ [   2 2048  256    8]
+ [   2   64   16    2]
+ [   0    0    0    0]]
+moving left
+score: 22368
+game:
+[[  16   32    2    0]
+ [   2 2048  256    8]
+ [   2   64   16    2]
+ [   4    0    0    0]]
+moving up
+score: 22372
+game:
+[[  16   32    2    8]
+ [   4 2048  256    2]
+ [   4   64   16    0]
+ [   0    0    2    0]]
+moving down
+score: 22380
+game:
+[[   2    0    2    0]
+ [   0   32  256    0]
+ [  16 2048   16    8]
+ [   8   64    2    2]]
+moving left
+score: 22388
+game:
+[[   4    2    0    0]
+ [  32  256    0    0]
+ [  16 2048   16    8]
+ [   8   64    4    0]]
+moving down
+score: 22388
+game:
+[[   4    2    4    0]
+ [  32  256    0    0]
+ [  16 2048   16    0]
+ [   8   64    4    8]]
+moving down
+score: 22388
+game:
+[[   4    2    2    0]
+ [  32  256    4    0]
+ [  16 2048   16    0]
+ [   8   64    4    8]]
+moving left
+score: 22392
+game:
+[[   4    4    0    0]
+ [  32  256    4    2]
+ [  16 2048   16    0]
+ [   8   64    4    8]]
+moving right
+score: 22400
+game:
+[[   0    0    0    8]
+ [  32  256    4    2]
+ [   2   16 2048   16]
+ [   8   64    4    8]]
+moving left
+score: 22400
+game:
+[[   8    2    0    0]
+ [  32  256    4    2]
+ [   2   16 2048   16]
+ [   8   64    4    8]]
+moving right
+score: 22400
+game:
+[[   0    2    8    2]
+ [  32  256    4    2]
+ [   2   16 2048   16]
+ [   8   64    4    8]]
+moving down
+score: 22404
+game:
+[[   2    2    8    0]
+ [  32  256    4    4]
+ [   2   16 2048   16]
+ [   8   64    4    8]]
+moving right
+score: 22416
+game:
+[[   2    0    4    8]
+ [   0   32  256    8]
+ [   2   16 2048   16]
+ [   8   64    4    8]]
+moving down
+score: 22436
+game:
+[[   0    0    4    2]
+ [   0   32  256   16]
+ [   4   16 2048   16]
+ [   8   64    4    8]]
+moving down
+score: 22468
+game:
+[[   0    2    4    0]
+ [   0   32  256    2]
+ [   4   16 2048   32]
+ [   8   64    4    8]]
+moving right
+score: 22468
+game:
+[[   2    0    2    4]
+ [   0   32  256    2]
+ [   4   16 2048   32]
+ [   8   64    4    8]]
+moving left
+score: 22472
+game:
+[[   4    4    4    0]
+ [  32  256    2    0]
+ [   4   16 2048   32]
+ [   8   64    4    8]]
+moving left
+score: 22480
+game:
+[[   8    4    2    0]
+ [  32  256    2    0]
+ [   4   16 2048   32]
+ [   8   64    4    8]]
+moving up
+score: 22484
+game:
+[[   8    4    4   32]
+ [  32  256 2048    8]
+ [   4   16    4    0]
+ [   8   64    0    2]]
+moving left
+score: 22492
+game:
+[[   8    8   32    0]
+ [  32  256 2048    8]
+ [   4   16    4    2]
+ [   8   64    2    0]]
+moving right
+score: 22508
+game:
+[[   2    0   16   32]
+ [  32  256 2048    8]
+ [   4   16    4    2]
+ [   0    8   64    2]]
+moving up
+score: 22512
+game:
+[[   2  256   16   32]
+ [  32   16 2048    8]
+ [   4    8    4    4]
+ [   4    0   64    0]]
+moving up
+score: 22520
+game:
+[[   2  256   16   32]
+ [  32   16 2048    8]
+ [   8    8    4    4]
+ [   0    2   64    0]]
+moving right
+score: 22544
+game:
+[[   2  256   16   32]
+ [  32   16 2048    8]
+ [   0    2   16    8]
+ [   0    0    2   64]]
+moving down
+score: 22560
+game:
+[[   4    0   16    0]
+ [   0  256 2048   32]
+ [   2   16   16   16]
+ [  32    2    2   64]]
+moving right
+score: 22596
+game:
+[[   0    0    4   16]
+ [   0  256 2048   32]
+ [   0    2   16   32]
+ [   2   32    4   64]]
+moving up
+score: 22660
+game:
+[[   2  256    4   16]
+ [   2    2 2048   64]
+ [   0   32   16   64]
+ [   0    0    4    0]]
+moving down
+score: 22792
+game:
+[[   0    2    4    0]
+ [   0  256 2048    0]
+ [   0    2   16   16]
+ [   4   32    4  128]]
+moving left
+score: 22824
+game:
+[[   2    4    0    0]
+ [ 256 2048    2    0]
+ [   2   32    0    0]
+ [   4   32    4  128]]
+moving down
+score: 22888
+game:
+[[   2    0    0    0]
+ [ 256    4    2    0]
+ [   2 2048    2    0]
+ [   4   64    4  128]]
+moving down
+score: 22892
+game:
+[[   2    0    0    0]
+ [ 256    4    2    0]
+ [   2 2048    4    0]
+ [   4   64    4  128]]
+moving down
+score: 22900
+game:
+[[   2    0    2    0]
+ [ 256    4    0    0]
+ [   2 2048    2    0]
+ [   4   64    8  128]]
+moving up
+score: 22904
+game:
+[[   2    4    4  128]
+ [ 256 2048    8    0]
+ [   2   64    0    0]
+ [   4    0    4    0]]
+moving right
+score: 22920
+game:
+[[   0    2    8  128]
+ [   2  256 2048    8]
+ [   0    0    2   64]
+ [   0    0    0    8]]
+moving down
+score: 22920
+game:
+[[   2    0    0  128]
+ [   0    0    8    8]
+ [   0    2 2048   64]
+ [   2  256    2    8]]
+moving right
+score: 22936
+game:
+[[   0    0    2  128]
+ [   0    0    2   16]
+ [   0    2 2048   64]
+ [   2  256    2    8]]
+moving up
+score: 22940
+game:
+[[   2    2    4  128]
+ [   0  256 2048   16]
+ [   0    0    2   64]
+ [   0    2    0    8]]
+moving right
+score: 22944
+game:
+[[   0    4    4  128]
+ [   0  256 2048   16]
+ [   0    0    2   64]
+ [   0    2    2    8]]
+moving right
+score: 22956
+game:
+[[   0    0    8  128]
+ [   0  256 2048   16]
+ [   0    2    2   64]
+ [   0    0    4    8]]
+moving right
+score: 22960
+game:
+[[   0    0    8  128]
+ [   0  256 2048   16]
+ [   2    0    4   64]
+ [   0    0    4    8]]
+moving down
+score: 22968
+game:
+[[   0    0    2  128]
+ [   0    0    8   16]
+ [   0    0 2048   64]
+ [   2  256    8    8]]
+moving right
+score: 22984
+game:
+[[   0    2    2  128]
+ [   0    0    8   16]
+ [   0    0 2048   64]
+ [   0    2  256   16]]
+moving right
+score: 22988
+game:
+[[   0    0    4  128]
+ [   0    0    8   16]
+ [   0    2 2048   64]
+ [   0    2  256   16]]
+moving up
+score: 22992
+game:
+[[   2    4    4  128]
+ [   0    0    8   16]
+ [   0    0 2048   64]
+ [   0    0  256   16]]
+moving right
+score: 23000
+game:
+[[   0    2    8  128]
+ [   0    0    8   16]
+ [   4    0 2048   64]
+ [   0    0  256   16]]
+moving down
+score: 23016
+game:
+[[   0    0    0  128]
+ [   0    0   16   16]
+ [   0    2 2048   64]
+ [   4    2  256   16]]
+moving down
+score: 23020
+game:
+[[   2    0    0  128]
+ [   0    0   16   16]
+ [   0    0 2048   64]
+ [   4    4  256   16]]
+moving right
+score: 23060
+game:
+[[   0    0    2  128]
+ [   0    0    0   32]
+ [   0    0 2048   64]
+ [   2    8  256   16]]
+moving down
+score: 23060
+game:
+[[   0    0    0  128]
+ [   0    0    2   32]
+ [   2    0 2048   64]
+ [   2    8  256   16]]
+moving down
+score: 23064
+game:
+[[   0    2    0  128]
+ [   0    0    2   32]
+ [   0    0 2048   64]
+ [   4    8  256   16]]
+moving right
+score: 23064
+game:
+[[   0    2    2  128]
+ [   0    0    2   32]
+ [   0    0 2048   64]
+ [   4    8  256   16]]
+moving down
+score: 23068
+game:
+[[   2    0    0  128]
+ [   0    0    4   32]
+ [   0    2 2048   64]
+ [   4    8  256   16]]
+moving down
+score: 23068
+game:
+[[   0    0    0  128]
+ [   0    2    4   32]
+ [   2    2 2048   64]
+ [   4    8  256   16]]
+moving down
+score: 23072
+game:
+[[   0    0    0  128]
+ [   0    2    4   32]
+ [   2    4 2048   64]
+ [   4    8  256   16]]
+moving up
+score: 23072
+game:
+[[   2    2    4  128]
+ [   4    4 2048   32]
+ [   0    8  256   64]
+ [   0    0    2   16]]
+moving right
+score: 23084
+game:
+[[   2    4    4  128]
+ [   0    8 2048   32]
+ [   0    8  256   64]
+ [   0    0    2   16]]
+moving right
+score: 23092
+game:
+[[   0    2    8  128]
+ [   0    8 2048   32]
+ [   0    8  256   64]
+ [   2    0    2   16]]
+moving right
+score: 23096
+game:
+[[   0    2    8  128]
+ [   0    8 2048   32]
+ [   2    8  256   64]
+ [   0    0    4   16]]
+moving down
+score: 23112
+game:
+[[   0    0    8  128]
+ [   2    0 2048   32]
+ [   0    2  256   64]
+ [   2   16    4   16]]
+moving down
+score: 23116
+game:
+[[   0    2    8  128]
+ [   0    0 2048   32]
+ [   0    2  256   64]
+ [   4   16    4   16]]
+moving up
+score: 23120
+game:
+[[   4    4    8  128]
+ [   0   16 2048   32]
+ [   0    2  256   64]
+ [   0    0    4   16]]
+moving right
+score: 23128
+game:
+[[   0    8    8  128]
+ [   0   16 2048   32]
+ [   0    2  256   64]
+ [   2    0    4   16]]
+moving left
+score: 23144
+game:
+[[  16  128    2    0]
+ [  16 2048   32    0]
+ [   2  256   64    0]
+ [   2    4   16    0]]
+moving down
+score: 23180
+game:
+[[   0  128    2    2]
+ [   0 2048   32    0]
+ [  32  256   64    0]
+ [   4    4   16    0]]
+moving left
+score: 23192
+game:
+[[ 128    4    0    2]
+ [2048   32    0    0]
+ [  32  256   64    0]
+ [   8   16    0    0]]
+moving up
+score: 23192
+game:
+[[ 128    4   64    2]
+ [2048   32    0    2]
+ [  32  256    0    0]
+ [   8   16    0    0]]
+moving right
+score: 23192
+game:
+[[ 128    4   64    2]
+ [   0 2048   32    2]
+ [   0    0   32  256]
+ [   2    0    8   16]]
+moving up
+score: 23260
+game:
+[[ 128    4   64    4]
+ [   2 2048   64  256]
+ [   0    0    8   16]
+ [   0    0    0    2]]
+moving up
+score: 23388
+game:
+[[ 128    4  128    4]
+ [   2 2048    8  256]
+ [   0    0    0   16]
+ [   2    0    0    2]]
+moving left
+score: 23392
+game:
+[[ 128    4  128    4]
+ [   2 2048    8  256]
+ [  16    0    0    0]
+ [   4    0    2    0]]
+moving left
+score: 23392
+game:
+[[ 128    4  128    4]
+ [   2 2048    8  256]
+ [  16    0    0    0]
+ [   4    2    0    2]]
+moving right
+score: 23396
+game:
+[[ 128    4  128    4]
+ [   2 2048    8  256]
+ [   2    0    0   16]
+ [   0    0    4    4]]
+moving down
+score: 23400
+game:
+[[   2    0    0    4]
+ [   0    0  128  256]
+ [ 128    4    8   16]
+ [   4 2048    4    4]]
+moving left
+score: 23408
+game:
+[[   2    4    0    0]
+ [ 128  256    0    0]
+ [ 128    4    8   16]
+ [   4 2048    8    2]]
+moving up
+score: 23680
+game:
+[[   2    4   16   16]
+ [ 256  256    0    2]
+ [   4    4    2    0]
+ [   0 2048    0    0]]
+moving right
+score: 24232
+game:
+[[   0    2    4   32]
+ [   0    0  512    2]
+ [   0    2    8    2]
+ [   0    0    0 2048]]
+moving up
+score: 24240
+game:
+[[   2    4    4   32]
+ [   0    0  512    4]
+ [   0    0    8 2048]
+ [   0    0    0    0]]
+moving right
+score: 24248
+game:
+[[   0    2    8   32]
+ [   0    0  512    4]
+ [   0    0    8 2048]
+ [   2    0    0    0]]
+moving up
+score: 24248
+game:
+[[   2    2    8   32]
+ [   0    0  512    4]
+ [   0    0    8 2048]
+ [   0    0    0    4]]
+moving right
+score: 24252
+game:
+[[   0    4    8   32]
+ [   0    4  512    4]
+ [   0    0    8 2048]
+ [   0    0    0    4]]
+moving up
+score: 24260
+game:
+[[   0    8    8   32]
+ [   0    0  512    4]
+ [   2    0    8 2048]
+ [   0    0    0    4]]
+moving right
+score: 24276
+game:
+[[   0    0   16   32]
+ [   0    0  512    4]
+ [   0    2    8 2048]
+ [   2    0    0    4]]
+moving up
+score: 24276
+game:
+[[   2    2   16   32]
+ [   2    0  512    4]
+ [   0    0    8 2048]
+ [   0    0    0    4]]
+moving right
+score: 24280
+game:
+[[   0    4   16   32]
+ [   0    2  512    4]
+ [   0    2    8 2048]
+ [   0    0    0    4]]
+moving up
+score: 24284
+game:
+[[   0    4   16   32]
+ [   0    4  512    4]
+ [   4    0    8 2048]
+ [   0    0    0    4]]
+moving left
+score: 24284
+game:
+[[   4   16   32    2]
+ [   4  512    4    0]
+ [   4    8 2048    0]
+ [   4    0    0    0]]
+moving up
+score: 24300
+game:
+[[   8   16   32    2]
+ [   8  512    4    0]
+ [   0    8 2048    0]
+ [   4    0    0    0]]
+moving up
+score: 24316
+game:
+[[  16   16   32    2]
+ [   4  512    4    0]
+ [   0    8 2048    2]
+ [   0    0    0    0]]
+moving left
+score: 24348
+game:
+[[  32   32    2    0]
+ [   4  512    4    0]
+ [   8 2048    2    0]
+ [   0    4    0    0]]
+moving left
+score: 24412
+game:
+[[  64    2    0    2]
+ [   4  512    4    0]
+ [   8 2048    2    0]
+ [   4    0    0    0]]
+moving down
+score: 24412
+game:
+[[  64    2    0    0]
+ [   4    2    0    0]
+ [   8  512    4    0]
+ [   4 2048    2    2]]
+moving down
+score: 24416
+game:
+[[  64    2    0    0]
+ [   4    4    0    0]
+ [   8  512    4    0]
+ [   4 2048    2    2]]
+moving left
+score: 24428
+game:
+[[  64    2    0    0]
+ [   8    0    0    0]
+ [   8  512    4    2]
+ [   4 2048    4    0]]
+moving up
+score: 24452
+game:
+[[  64    2    8    2]
+ [  16  512    0    0]
+ [   4 2048    0    2]
+ [   0    0    0    0]]
+moving down
+score: 24456
+game:
+[[   0    0    0    0]
+ [  64    2    0    0]
+ [  16  512    2    0]
+ [   4 2048    8    4]]
+moving right
+score: 24456
+game:
+[[   0    0    0    0]
+ [   2    0   64    2]
+ [   0   16  512    2]
+ [   4 2048    8    4]]
+moving down
+score: 24460
+game:
+[[   0    0    0    0]
+ [   0    2   64    0]
+ [   2   16  512    4]
+ [   4 2048    8    4]]
+moving down
+score: 24468
+game:
+[[   0    0    0    0]
+ [   0    2   64    0]
+ [   2   16  512    4]
+ [   4 2048    8    8]]
+moving right
+score: 24484
+game:
+[[   0    0    0    0]
+ [   2    0    2   64]
+ [   2   16  512    4]
+ [   0    4 2048   16]]
+moving down
+score: 24488
+game:
+[[   0    2    0    0]
+ [   0    0    2   64]
+ [   0   16  512    4]
+ [   4    4 2048   16]]
+moving right
+score: 24496
+game:
+[[   0    0    0    2]
+ [   0    2    2   64]
+ [   0   16  512    4]
+ [   0    8 2048   16]]
+moving right
+score: 24500
+game:
+[[   0    0    2    2]
+ [   0    0    4   64]
+ [   0   16  512    4]
+ [   0    8 2048   16]]
+moving left
+score: 24504
+game:
+[[   4    0    0    0]
+ [   4   64    0    2]
+ [  16  512    4    0]
+ [   8 2048   16    0]]
+moving up
+score: 24512
+game:
+[[   8   64    4    2]
+ [  16  512   16    0]
+ [   8 2048    0    0]
+ [   0    0    2    0]]
+moving down
+score: 24512
+game:
+[[   0    0    0    0]
+ [   8   64    4    0]
+ [  16  512   16    2]
+ [   8 2048    2    2]]
+moving up
+score: 24516
+game:
+[[   8   64    4    4]
+ [  16  512   16    0]
+ [   8 2048    2    0]
+ [   0    0    0    4]]
+moving up
+score: 24524
+game:
+[[   8   64    4    8]
+ [  16  512   16    0]
+ [   8 2048    2    2]
+ [   0    0    0    0]]
+moving left
+score: 24528
+game:
+[[   8   64    4    8]
+ [  16  512   16    0]
+ [   8 2048    4    0]
+ [   0    2    0    0]]
+moving left
+score: 24528
+game:
+[[   8   64    4    8]
+ [  16  512   16    0]
+ [   8 2048    4    0]
+ [   2    0    2    0]]
+moving right
+score: 24532
+game:
+[[   8   64    4    8]
+ [   2   16  512   16]
+ [   0    8 2048    4]
+ [   0    0    0    4]]
+moving down
+score: 24540
+game:
+[[   0    0    0    0]
+ [   4   64    4    8]
+ [   8   16  512   16]
+ [   2    8 2048    8]]
+moving up
+score: 24540
+game:
+[[   4   64    4    8]
+ [   8   16  512   16]
+ [   2    8 2048    8]
+ [   2    0    0    0]]
+moving down
+score: 24544
+game:
+[[   0    2    0    0]
+ [   4   64    4    8]
+ [   8   16  512   16]
+ [   4    8 2048    8]]
+moving right
+score: 24544
+game:
+[[   0    0    2    2]
+ [   4   64    4    8]
+ [   8   16  512   16]
+ [   4    8 2048    8]]
+moving left
+score: 24548
+game:
+[[   4    0    0    2]
+ [   4   64    4    8]
+ [   8   16  512   16]
+ [   4    8 2048    8]]
+moving down
+score: 24556
+game:
+[[   2    0    0    2]
+ [   8   64    4    8]
+ [   8   16  512   16]
+ [   4    8 2048    8]]
+moving up
+score: 24572
+game:
+[[   2   64    4    2]
+ [  16   16  512    8]
+ [   4    8 2048   16]
+ [   2    0    0    8]]
+moving left
+score: 24604
+game:
+[[   2   64    4    2]
+ [  32  512    8    2]
+ [   4    8 2048   16]
+ [   2    8    0    0]]
+moving up
+score: 24624
+game:
+[[   2   64    4    4]
+ [  32  512    8   16]
+ [   4   16 2048    0]
+ [   2    0    2    0]]
+moving left
+score: 24636
+game:
+[[   2   64    8    0]
+ [  32  512    8   16]
+ [   4   16 2048    0]
+ [   4    2    0    0]]
+moving down
+score: 24660
+game:
+[[   0   64    2    0]
+ [   2  512    0    0]
+ [  32   16   16    0]
+ [   8    2 2048   16]]
+moving right
+score: 24692
+game:
+[[   0    2   64    2]
+ [   0    0    2  512]
+ [   0    0   32   32]
+ [   8    2 2048   16]]
+moving right
+score: 24756
+game:
+[[   0    2   64    2]
+ [   0    0    2  512]
+ [   0    2    0   64]
+ [   8    2 2048   16]]
+moving down
+score: 24760
+game:
+[[   0    0    0    2]
+ [   0    2   64  512]
+ [   0    2    2   64]
+ [   8    4 2048   16]]
+moving down
+score: 24764
+game:
+[[   0    0    2    2]
+ [   0    0   64  512]
+ [   0    4    2   64]
+ [   8    4 2048   16]]
+moving down
+score: 24772
+game:
+[[   0    0    2    2]
+ [   0    2   64  512]
+ [   0    0    2   64]
+ [   8    8 2048   16]]
+moving left
+score: 24792
+game:
+[[   4    0    0    0]
+ [   2   64  512    0]
+ [   2   64    0    0]
+ [  16 2048   16    4]]
+moving down
+score: 24924
+game:
+[[   0    0    0    0]
+ [   4    0    0    0]
+ [   4  128  512    2]
+ [  16 2048   16    4]]
+moving down
+score: 24932
+game:
+[[   0    2    0    0]
+ [   0    0    0    0]
+ [   8  128  512    2]
+ [  16 2048   16    4]]
+moving right
+score: 24932
+game:
+[[   2    0    0    2]
+ [   0    0    0    0]
+ [   8  128  512    2]
+ [  16 2048   16    4]]
+moving down
+score: 24936
+game:
+[[   0    0    0    0]
+ [   2    0    0    4]
+ [   8  128  512    4]
+ [  16 2048   16    4]]
+moving left
+score: 24936
+game:
+[[   0    0    4    0]
+ [   2    4    0    0]
+ [   8  128  512    4]
+ [  16 2048   16    4]]
+moving right
+score: 24936
+game:
+[[   0    0    0    4]
+ [   2    0    2    4]
+ [   8  128  512    4]
+ [  16 2048   16    4]]
+moving down
+score: 24952
+game:
+[[   2    0    0    0]
+ [   2    0    2    0]
+ [   8  128  512    8]
+ [  16 2048   16    8]]
+moving down
+score: 24972
+game:
+[[   0    0    0    0]
+ [   4    2    2    0]
+ [   8  128  512    0]
+ [  16 2048   16   16]]
+moving left
+score: 25008
+game:
+[[   2    0    0    0]
+ [   4    4    0    0]
+ [   8  128  512    0]
+ [  16 2048   32    0]]
+moving left
+score: 25016
+game:
+[[   2    0    0    0]
+ [   8    2    0    0]
+ [   8  128  512    0]
+ [  16 2048   32    0]]
+moving down
+score: 25032
+game:
+[[   0    0    0    0]
+ [   2    2    0    0]
+ [  16  128  512    0]
+ [  16 2048   32    2]]
+moving left
+score: 25036
+game:
+[[   2    0    0    0]
+ [   4    0    0    0]
+ [  16  128  512    0]
+ [  16 2048   32    2]]
+moving down
+score: 25068
+game:
+[[   0    0    0    0]
+ [   2    0    0    0]
+ [   4  128  512    2]
+ [  32 2048   32    2]]
+moving down
+score: 25072
+game:
+[[   0    0    0    0]
+ [   2    0    2    0]
+ [   4  128  512    0]
+ [  32 2048   32    4]]
+moving left
+score: 25076
+game:
+[[   0    0    0    0]
+ [   4    0    0    2]
+ [   4  128  512    0]
+ [  32 2048   32    4]]
+moving down
+score: 25084
+game:
+[[   0    0    0    2]
+ [   0    0    0    0]
+ [   8  128  512    2]
+ [  32 2048   32    4]]
+moving down
+score: 25088
+game:
+[[   0    0    0    0]
+ [   0    0    2    0]
+ [   8  128  512    4]
+ [  32 2048   32    4]]
+moving down
+score: 25096
+game:
+[[   0    0    0    0]
+ [   0    0    2    0]
+ [   8  128  512    2]
+ [  32 2048   32    8]]
+moving left
+score: 25096
+game:
+[[   0    0    4    0]
+ [   2    0    0    0]
+ [   8  128  512    2]
+ [  32 2048   32    8]]
+moving right
+score: 25096
+game:
+[[   0    0    0    4]
+ [   2    0    0    2]
+ [   8  128  512    2]
+ [  32 2048   32    8]]
+moving down
+score: 25100
+game:
+[[   0    0    0    2]
+ [   2    0    0    4]
+ [   8  128  512    4]
+ [  32 2048   32    8]]
+moving down
+score: 25108
+game:
+[[   2    0    0    0]
+ [   2    0    0    2]
+ [   8  128  512    8]
+ [  32 2048   32    8]]
+moving down
+score: 25128
+game:
+[[   0    0    2    0]
+ [   4    0    0    0]
+ [   8  128  512    2]
+ [  32 2048   32   16]]
+moving left
+score: 25128
+game:
+[[   2    0    0    2]
+ [   4    0    0    0]
+ [   8  128  512    2]
+ [  32 2048   32   16]]
+moving left
+score: 25132
+game:
+[[   4    2    0    0]
+ [   4    0    0    0]
+ [   8  128  512    2]
+ [  32 2048   32   16]]
+moving down
+score: 25140
+game:
+[[   2    0    0    0]
+ [   8    2    0    0]
+ [   8  128  512    2]
+ [  32 2048   32   16]]
+moving down
+score: 25156
+game:
+[[   0    0    0    0]
+ [   2    2    2    0]
+ [  16  128  512    2]
+ [  32 2048   32   16]]
+moving left
+score: 25160
+game:
+[[   0    0    0    0]
+ [   4    2    2    0]
+ [  16  128  512    2]
+ [  32 2048   32   16]]
+moving left
+score: 25164
+game:
+[[   0    0    0    0]
+ [   4    4    2    0]
+ [  16  128  512    2]
+ [  32 2048   32   16]]
+moving right
+score: 25172
+game:
+[[   2    0    0    0]
+ [   0    0    8    2]
+ [  16  128  512    2]
+ [  32 2048   32   16]]
+moving down
+score: 25176
+game:
+[[   0    0    0    0]
+ [   2    0    8    2]
+ [  16  128  512    4]
+ [  32 2048   32   16]]
+moving left
+score: 25176
+game:
+[[   0    0    0    0]
+ [   2    8    2    2]
+ [  16  128  512    4]
+ [  32 2048   32   16]]
+moving right
+score: 25180
+game:
+[[   0    0    0    2]
+ [   0    2    8    4]
+ [  16  128  512    4]
+ [  32 2048   32   16]]
+moving down
+score: 25188
+game:
+[[   0    0    0    0]
+ [   2    2    8    2]
+ [  16  128  512    8]
+ [  32 2048   32   16]]
+moving left
+score: 25192
+game:
+[[   2    0    0    0]
+ [   4    8    2    0]
+ [  16  128  512    8]
+ [  32 2048   32   16]]
+moving right
+score: 25192
+game:
+[[   0    0    0    2]
+ [   2    4    8    2]
+ [  16  128  512    8]
+ [  32 2048   32   16]]
+moving down
+score: 25196
+game:
+[[   2    0    0    0]
+ [   2    4    8    4]
+ [  16  128  512    8]
+ [  32 2048   32   16]]
+moving down
+score: 25200
+game:
+[[   0    2    0    0]
+ [   4    4    8    4]
+ [  16  128  512    8]
+ [  32 2048   32   16]]
+moving left
+score: 25208
+game:
+[[   2    4    0    0]
+ [   8    8    4    0]
+ [  16  128  512    8]
+ [  32 2048   32   16]]
+moving left
+score: 25224
+game:
+[[   2    4    0    0]
+ [  16    4    2    0]
+ [  16  128  512    8]
+ [  32 2048   32   16]]
+moving down
+score: 25264
+game:
+[[   0    0    0    2]
+ [   2    8    2    0]
+ [  32  128  512    8]
+ [  32 2048   32   16]]
+moving down
+score: 25328
+game:
+[[   0    0    2    0]
+ [   0    8    2    2]
+ [   2  128  512    8]
+ [  64 2048   32   16]]
+moving left
+score: 25332
+game:
+[[   2    2    0    0]
+ [   8    4    0    0]
+ [   2  128  512    8]
+ [  64 2048   32   16]]
+moving right
+score: 25336
+game:
+[[   0    0    0    4]
+ [   2    0    8    4]
+ [   2  128  512    8]
+ [  64 2048   32   16]]
+moving down
+score: 25348
+game:
+[[   0    2    0    0]
+ [   0    0    8    8]
+ [   4  128  512    8]
+ [  64 2048   32   16]]
+moving down
+score: 25364
+game:
+[[   2    0    0    0]
+ [   0    2    8    0]
+ [   4  128  512   16]
+ [  64 2048   32   16]]
+moving down
+score: 25396
+game:
+[[   2    0    0    0]
+ [   2    2    8    0]
+ [   4  128  512    0]
+ [  64 2048   32   32]]
+moving left
+score: 25464
+game:
+[[   2    0    2    0]
+ [   4    8    0    0]
+ [   4  128  512    0]
+ [  64 2048   64    0]]
+moving right
+score: 25468
+game:
+[[   0    2    0    4]
+ [   0    0    4    8]
+ [   0    4  128  512]
+ [   0   64 2048   64]]
+moving up
+score: 25468
+game:
+[[   4    2    4    4]
+ [   0    4  128    8]
+ [   0   64 2048  512]
+ [   0    0    0   64]]
+moving left
+score: 25476
+game:
+[[   4    2    8    0]
+ [   4  128    8    0]
+ [  64 2048  512    0]
+ [  64    2    0    0]]
+moving up
+score: 25628
+game:
+[[   8    2   16    0]
+ [ 128  128  512    0]
+ [   0 2048    0    0]
+ [   2    2    0    0]]
+moving right
+score: 25888
+game:
+[[   0    8    2   16]
+ [   0    0  256  512]
+ [   0    0    2 2048]
+ [   0    0    0    4]]
+moving down
+score: 25888
+game:
+[[   0    2    0   16]
+ [   0    0    2  512]
+ [   0    0  256 2048]
+ [   0    8    2    4]]
+moving left
+score: 25888
+game:
+[[   2   16    0    0]
+ [   2  512    2    0]
+ [ 256 2048    0    0]
+ [   8    2    4    0]]
+moving up
+score: 25892
+game:
+[[   4   16    2    0]
+ [ 256  512    4    0]
+ [   8 2048    0    0]
+ [   0    2    0    2]]
+moving left
+score: 25896
+game:
+[[   4   16    2    0]
+ [ 256  512    4    2]
+ [   8 2048    0    0]
+ [   4    0    0    0]]
+moving right
+score: 25896
+game:
+[[   0    4   16    2]
+ [ 256  512    4    2]
+ [   0    0    8 2048]
+ [   0    2    0    4]]
+moving up
+score: 25900
+game:
+[[ 256    4   16    4]
+ [   0  512    4 2048]
+ [   0    2    8    4]
+ [   0    0    2    0]]
+moving down
+score: 25900
+game:
+[[   2    0   16    0]
+ [   0    4    4    4]
+ [   0  512    8 2048]
+ [ 256    2    2    4]]
+moving right
+score: 25912
+game:
+[[   0    0    2   16]
+ [   0    0    4    8]
+ [   2  512    8 2048]
+ [   0  256    4    4]]
+moving right
+score: 25920
+game:
+[[   0    0    2   16]
+ [   0    2    4    8]
+ [   2  512    8 2048]
+ [   0    0  256    8]]
+moving down
+score: 25920
+game:
+[[   0    2    2   16]
+ [   0    0    4    8]
+ [   0    2    8 2048]
+ [   2  512  256    8]]
+moving right
+score: 25924
+game:
+[[   0    0    4   16]
+ [   0    0    4    8]
+ [   2    2    8 2048]
+ [   2  512  256    8]]
+moving down
+score: 25936
+game:
+[[   0    0    0   16]
+ [   2    0    8    8]
+ [   0    2    8 2048]
+ [   4  512  256    8]]
+moving right
+score: 25952
+game:
+[[   2    0    0   16]
+ [   0    0    2   16]
+ [   0    2    8 2048]
+ [   4  512  256    8]]
+moving down
+score: 25984
+game:
+[[   2    0    0    0]
+ [   0    0    2   32]
+ [   2    2    8 2048]
+ [   4  512  256    8]]
+moving down
+score: 25988
+game:
+[[   0    0    2    0]
+ [   0    0    2   32]
+ [   4    2    8 2048]
+ [   4  512  256    8]]
+moving down
+score: 26000
+game:
+[[   4    0    0    0]
+ [   0    0    4   32]
+ [   0    2    8 2048]
+ [   8  512  256    8]]
+moving right
+score: 26000
+game:
+[[   0    0    0    4]
+ [   0    0    4   32]
+ [   2    2    8 2048]
+ [   8  512  256    8]]
+moving left
+score: 26004
+game:
+[[   4    2    0    0]
+ [   4   32    0    0]
+ [   4    8 2048    0]
+ [   8  512  256    8]]
+moving down
+score: 26012
+game:
+[[   0    2    0    4]
+ [   4   32    0    0]
+ [   8    8 2048    0]
+ [   8  512  256    8]]
+moving right
+score: 26028
+game:
+[[   0    2    2    4]
+ [   0    0    4   32]
+ [   0    0   16 2048]
+ [   8  512  256    8]]
+moving right
+score: 26032
+game:
+[[   0    0    4    4]
+ [   0    2    4   32]
+ [   0    0   16 2048]
+ [   8  512  256    8]]
+moving right
+score: 26040
+game:
+[[   0    2    0    8]
+ [   0    2    4   32]
+ [   0    0   16 2048]
+ [   8  512  256    8]]
+moving up
+score: 26044
+game:
+[[   8    4    4    8]
+ [   0  512   16   32]
+ [   2    0  256 2048]
+ [   0    0    0    8]]
+moving right
+score: 26052
+game:
+[[   0    8    8    8]
+ [   0  512   16   32]
+ [   0    2  256 2048]
+ [   0    0    2    8]]
+moving left
+score: 26068
+game:
+[[  16    8    0    0]
+ [ 512   16   32    0]
+ [   2  256 2048    4]
+ [   2    8    0    0]]
+moving down
+score: 26072
+game:
+[[   0    8    0    0]
+ [  16   16    0    0]
+ [ 512  256   32    2]
+ [   4    8 2048    4]]
+moving left
+score: 26104
+game:
+[[   8    2    0    0]
+ [  32    0    0    0]
+ [ 512  256   32    2]
+ [   4    8 2048    4]]
+moving down
+score: 26104
+game:
+[[   8    0    0    2]
+ [  32    2    0    0]
+ [ 512  256   32    2]
+ [   4    8 2048    4]]
+moving down
+score: 26108
+game:
+[[   8    2    0    0]
+ [  32    2    0    0]
+ [ 512  256   32    4]
+ [   4    8 2048    4]]
+moving right
+score: 26108
+game:
+[[   0    0    8    2]
+ [   2    0   32    2]
+ [ 512  256   32    4]
+ [   4    8 2048    4]]
+moving down
+score: 26184
+game:
+[[   0    0    0    0]
+ [   2    0    8    2]
+ [ 512  256   64    4]
+ [   4    8 2048    8]]
+moving left
+score: 26184
+game:
+[[   0    0    2    0]
+ [   2    8    2    0]
+ [ 512  256   64    4]
+ [   4    8 2048    8]]
+moving up
+score: 26188
+game:
+[[   2    8    4    4]
+ [ 512  256   64    8]
+ [   4    8 2048    2]
+ [   0    0    0    0]]
+moving right
+score: 26196
+game:
+[[   2    2    8    8]
+ [ 512  256   64    8]
+ [   4    8 2048    2]
+ [   0    0    0    0]]
+moving down
+score: 26212
+game:
+[[   4    0    0    0]
+ [   2    2    8    0]
+ [ 512  256   64   16]
+ [   4    8 2048    2]]
+moving left
+score: 26216
+game:
+[[   4    0    0    0]
+ [   4    8    2    0]
+ [ 512  256   64   16]
+ [   4    8 2048    2]]
+moving down
+score: 26224
+game:
+[[   2    0    0    0]
+ [   8    8    2    0]
+ [ 512  256   64   16]
+ [   4    8 2048    2]]
+moving right
+score: 26240
+game:
+[[   2    0    0    2]
+ [   0    0   16    2]
+ [ 512  256   64   16]
+ [   4    8 2048    2]]
+moving left
+score: 26244
+game:
+[[   4    2    0    0]
+ [  16    2    0    0]
+ [ 512  256   64   16]
+ [   4    8 2048    2]]
+moving up
+score: 26248
+game:
+[[   4    4   64   16]
+ [  16  256 2048    2]
+ [ 512    8    0    0]
+ [   4    2    0    0]]
+moving left
+score: 26256
+game:
+[[   8   64   16    0]
+ [  16  256 2048    2]
+ [ 512    8    0    0]
+ [   4    2    0    2]]
+moving left
+score: 26260
+game:
+[[   8   64   16    0]
+ [  16  256 2048    2]
+ [ 512    8    0    0]
+ [   4    4    2    0]]
+moving left
+score: 26268
+game:
+[[   8   64   16    0]
+ [  16  256 2048    2]
+ [ 512    8    2    0]
+ [   8    2    0    0]]
+moving up
+score: 26268
+game:
+[[   8   64   16    2]
+ [  16  256 2048    0]
+ [ 512    8    2    2]
+ [   8    2    0    0]]
+moving down
+score: 26272
+game:
+[[   8   64    2    0]
+ [  16  256   16    0]
+ [ 512    8 2048    0]
+ [   8    2    2    4]]
+moving left
+score: 26276
+game:
+[[   8   64    2    2]
+ [  16  256   16    0]
+ [ 512    8 2048    0]
+ [   8    4    4    0]]
+moving right
+score: 26288
+game:
+[[   0    8   64    4]
+ [   0   16  256   16]
+ [   0  512    8 2048]
+ [   0    2    8    8]]
+moving up
+score: 26304
+game:
+[[   0    8   64    4]
+ [   0   16  256   16]
+ [   0  512   16 2048]
+ [   2    2    0    8]]
+moving left
+score: 26308
+game:
+[[   8   64    4    0]
+ [  16  256   16    0]
+ [ 512   16 2048    2]
+ [   4    8    0    0]]
+moving down
+score: 26308
+game:
+[[   8   64    2    0]
+ [  16  256    4    0]
+ [ 512   16   16    0]
+ [   4    8 2048    2]]
+moving left
+score: 26340
+game:
+[[   8   64    2    2]
+ [  16  256    4    0]
+ [ 512   32    0    0]
+ [   4    8 2048    2]]
+moving down
+score: 26344
+game:
+[[   8   64    0    0]
+ [  16  256    2    2]
+ [ 512   32    4    0]
+ [   4    8 2048    4]]
+moving left
+score: 26348
+game:
+[[   8   64    0    0]
+ [  16  256    4    2]
+ [ 512   32    4    0]
+ [   4    8 2048    4]]
+moving down
+score: 26356
+game:
+[[   8   64    0    2]
+ [  16  256    0    0]
+ [ 512   32    8    2]
+ [   4    8 2048    4]]
+moving up
+score: 26360
+game:
+[[   8   64    8    4]
+ [  16  256 2048    4]
+ [ 512   32    0    2]
+ [   4    8    0    0]]
+moving up
+score: 26368
+game:
+[[   8   64    8    8]
+ [  16  256 2048    2]
+ [ 512   32    2    0]
+ [   4    8    0    0]]
+moving left
+score: 26384
+game:
+[[   8   64   16    0]
+ [  16  256 2048    2]
+ [ 512   32    2    2]
+ [   4    8    0    0]]
+moving up
+score: 26388
+game:
+[[   8   64   16    4]
+ [  16  256 2048    0]
+ [ 512   32    2    0]
+ [   4    8    2    0]]
+moving down
+score: 26392
+game:
+[[   8   64    0    2]
+ [  16  256   16    0]
+ [ 512   32 2048    0]
+ [   4    8    4    4]]
+moving left
+score: 26400
+game:
+[[   8   64    2    2]
+ [  16  256   16    0]
+ [ 512   32 2048    0]
+ [   4    8    8    0]]
+moving right
+score: 26420
+game:
+[[   0    8   64    4]
+ [   0   16  256   16]
+ [   0  512   32 2048]
+ [   0    2    4   16]]
+moving left
+score: 26420
+game:
+[[   8   64    4    0]
+ [  16  256   16    0]
+ [ 512   32 2048    0]
+ [   2    4   16    2]]
+moving right
+score: 26420
+game:
+[[   2    8   64    4]
+ [   0   16  256   16]
+ [   0  512   32 2048]
+ [   2    4   16    2]]
+moving down
+score: 26424
+game:
+[[   0    8   64    4]
+ [   0   16  256   16]
+ [   2  512   32 2048]
+ [   4    4   16    2]]
+moving right
+score: 26432
+game:
+[[   0    8   64    4]
+ [   2   16  256   16]
+ [   2  512   32 2048]
+ [   0    8   16    2]]
+moving down
+score: 26436
+game:
+[[   0    8   64    4]
+ [   2   16  256   16]
+ [   0  512   32 2048]
+ [   4    8   16    2]]
+moving down
+score: 26436
+game:
+[[   0    8   64    4]
+ [   2   16  256   16]
+ [   2  512   32 2048]
+ [   4    8   16    2]]
+moving up
+score: 26440
+game:
+[[   4    8   64    4]
+ [   4   16  256   16]
+ [   0  512   32 2048]
+ [   2    8   16    2]]
+moving up
+score: 26448
+game:
+[[   8    8   64    4]
+ [   2   16  256   16]
+ [   2  512   32 2048]
+ [   0    8   16    2]]
+moving right
+score: 26464
+game:
+[[   2   16   64    4]
+ [   2   16  256   16]
+ [   2  512   32 2048]
+ [   0    8   16    2]]
+moving down
+score: 26500
+game:
+[[   2    0   64    4]
+ [   0   32  256   16]
+ [   2  512   32 2048]
+ [   4    8   16    2]]
+moving down
+score: 26504
+game:
+[[   2    0   64    4]
+ [   0   32  256   16]
+ [   4  512   32 2048]
+ [   4    8   16    2]]
+moving down
+score: 26512
+game:
+[[   0    2   64    4]
+ [   0   32  256   16]
+ [   2  512   32 2048]
+ [   8    8   16    2]]
+moving right
+score: 26528
+game:
+[[   0    2   64    4]
+ [   0   32  256   16]
+ [   2  512   32 2048]
+ [   2   16   16    2]]
+moving down
+score: 26532
+game:
+[[   0    2   64    4]
+ [   2   32  256   16]
+ [   0  512   32 2048]
+ [   4   16   16    2]]
+moving right
+score: 26564
+game:
+[[   0    2   64    4]
+ [   2   32  256   16]
+ [   2  512   32 2048]
+ [   0    4   32    2]]
+moving down
+score: 26632
+game:
+[[   0    2    2    4]
+ [   0   32   64   16]
+ [   0  512  256 2048]
+ [   4    4   64    2]]
+moving left
+score: 26644
+game:
+[[   4    4    0    0]
+ [  32   64   16    0]
+ [ 512  256 2048    4]
+ [   8   64    2    0]]
+moving up
+score: 26644
+game:
+[[   4    4   16    4]
+ [  32   64 2048    2]
+ [ 512  256    2    0]
+ [   8   64    0    0]]
+moving left
+score: 26652
+game:
+[[   8   16    4    0]
+ [  32   64 2048    2]
+ [ 512  256    2    0]
+ [   8   64    2    0]]
+moving up
+score: 26656
+game:
+[[   8   16    4    2]
+ [  32   64 2048    0]
+ [ 512  256    4    0]
+ [   8   64    0    2]]
+moving down
+score: 26660
+game:
+[[   8   16    0    0]
+ [  32   64    4    2]
+ [ 512  256 2048    0]
+ [   8   64    4    4]]
+moving left
+score: 26668
+game:
+[[   8   16    0    4]
+ [  32   64    4    2]
+ [ 512  256 2048    0]
+ [   8   64    8    0]]
+moving left
+score: 26668
+game:
+[[   8   16    4    0]
+ [  32   64    4    2]
+ [ 512  256 2048    2]
+ [   8   64    8    0]]
+moving up
+score: 26680
+game:
+[[   8   16    8    4]
+ [  32   64 2048    0]
+ [ 512  256    8    0]
+ [   8   64    0    2]]
+moving up
+score: 26680
+game:
+[[   8   16    8    4]
+ [  32   64 2048    2]
+ [ 512  256    8    0]
+ [   8   64    2    0]]
+moving down
+score: 26680
+game:
+[[   8   16    8    2]
+ [  32   64 2048    0]
+ [ 512  256    8    4]
+ [   8   64    2    2]]
+moving left
+score: 26684
+game:
+[[   8   16    8    2]
+ [  32   64 2048    0]
+ [ 512  256    8    4]
+ [   8   64    4    2]]
+moving down
+score: 26684
+game:
+[[   8   16    8    2]
+ [  32   64 2048    2]
+ [ 512  256    8    4]
+ [   8   64    4    2]]
+moving up
+score: 26688
+game:
+[[   8   16    8    4]
+ [  32   64 2048    4]
+ [ 512  256    8    2]
+ [   8   64    4    4]]
+moving left
+score: 26696
+game:
+[[   8   16    8    4]
+ [  32   64 2048    4]
+ [ 512  256    8    2]
+ [   8   64    8    2]]
+moving up
+score: 26724
+game:
+[[   8   16    8    8]
+ [  32   64 2048    4]
+ [ 512  256   16    2]
+ [   8   64    0    0]]
+moving left
+score: 26740
+game:
+[[   8   16   16    0]
+ [  32   64 2048    4]
+ [ 512  256   16    2]
+ [   8   64    0    2]]
+moving up
+score: 26744
+game:
+[[   8   16   16    4]
+ [  32   64 2048    4]
+ [ 512  256   16    2]
+ [   8   64    0    0]]
+moving up
+score: 26752
+game:
+[[   8   16   16    8]
+ [  32   64 2048    2]
+ [ 512  256   16    2]
+ [   8   64    0    0]]
+moving left
+score: 26784
+game:
+[[   8   32    8    0]
+ [  32   64 2048    2]
+ [ 512  256   16    2]
+ [   8   64    0    2]]
+moving up
+score: 26788
+game:
+[[   8   32    8    4]
+ [  32   64 2048    2]
+ [ 512  256   16    0]
+ [   8   64    0    2]]
+moving up
+score: 26792
+game:
+[[   8   32    8    4]
+ [  32   64 2048    4]
+ [ 512  256   16    0]
+ [   8   64    0    2]]
+moving up
+score: 26800
+game:
+[[   8   32    8    8]
+ [  32   64 2048    2]
+ [ 512  256   16    0]
+ [   8   64    0    2]]
+moving left
+score: 26816
+game:
+[[   8   32   16    4]
+ [  32   64 2048    2]
+ [ 512  256   16    0]
+ [   8   64    2    0]]
+moving down
+score: 26816
+game:
+[[   8   32   16    2]
+ [  32   64 2048    0]
+ [ 512  256   16    4]
+ [   8   64    2    2]]
+moving right
+score: 26820
+game:
+[[   8   32   16    2]
+ [   0   32   64 2048]
+ [ 512  256   16    4]
+ [   4    8   64    4]]
+moving down
+score: 26892
+game:
+[[   2    0   16    0]
+ [   8   64   64    2]
+ [ 512  256   16 2048]
+ [   4    8   64    8]]
+moving left
+score: 27020
+game:
+[[   2   16    0    0]
+ [   8  128    2    2]
+ [ 512  256   16 2048]
+ [   4    8   64    8]]
+moving up
+score: 27020
+game:
+[[   2   16    2    2]
+ [   8  128   16 2048]
+ [ 512  256   64    8]
+ [   4    8    4    0]]
+moving right
+score: 27024
+game:
+[[   0    2   16    4]
+ [   8  128   16 2048]
+ [ 512  256   64    8]
+ [   2    4    8    4]]
+moving up
+score: 27056
+game:
+[[   8    2   32    4]
+ [ 512  128   64 2048]
+ [   2  256    8    8]
+ [   2    4    0    4]]
+moving down
+score: 27060
+game:
+[[   2    2    0    4]
+ [   8  128   32 2048]
+ [ 512  256   64    8]
+ [   4    4    8    4]]
+moving left
+score: 27072
+game:
+[[   4    4    0    0]
+ [   8  128   32 2048]
+ [ 512  256   64    8]
+ [   8    8    4    2]]
+moving left
+score: 27096
+game:
+[[   8    0    0    0]
+ [   8  128   32 2048]
+ [ 512  256   64    8]
+ [  16    4    2    2]]
+moving up
+score: 27112
+game:
+[[  16  128   32 2048]
+ [ 512  256   64    8]
+ [  16    4    2    2]
+ [   0    0    2    0]]
+moving right
+score: 27116
+game:
+[[  16  128   32 2048]
+ [ 512  256   64    8]
+ [   0   16    4    4]
+ [   2    0    0    2]]
+moving right
+score: 27128
+game:
+[[  16  128   32 2048]
+ [ 512  256   64    8]
+ [   2    0   16    8]
+ [   0    0    0    4]]
+moving up
+score: 27144
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   2    0   16    4]
+ [   2    0    0    0]]
+moving right
+score: 27144
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   2    2   16    4]
+ [   0    0    0    2]]
+moving right
+score: 27148
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   0    4   16    4]
+ [   4    0    0    2]]
+moving up
+score: 27148
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   4    4   16    4]
+ [   2    0    0    2]]
+moving right
+score: 27160
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   0    8   16    4]
+ [   0    0    2    4]]
+moving up
+score: 27168
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   0    8   16    8]
+ [   0    0    2    2]]
+moving right
+score: 27172
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   0    8   16    8]
+ [   0    2    0    4]]
+moving right
+score: 27172
+game:
+[[  16  128   32 2048]
+ [ 512  256   64   16]
+ [   0    8   16    8]
+ [   0    4    2    4]]
+moving down
+score: 27172
+game:
+[[   0  128   32 2048]
+ [   2  256   64   16]
+ [  16    8   16    8]
+ [ 512    4    2    4]]
+moving up
+score: 27172
+game:
+[[   2  128   32 2048]
+ [  16  256   64   16]
+ [ 512    8   16    8]
+ [   4    4    2    4]]
+moving right
+score: 27180
+game:
+[[   2  128   32 2048]
+ [  16  256   64   16]
+ [ 512    8   16    8]
+ [   2    8    2    4]]
+moving up
+score: 27196
+game:
+[[   2  128   32 2048]
+ [  16  256   64   16]
+ [ 512   16   16    8]
+ [   2    2    2    4]]
+moving right
+score: 27232
+game:
+[[   2  128   32 2048]
+ [  16  256   64   16]
+ [   2  512   32    8]
+ [   0    2    4    4]]
+moving right
+score: 27240
+game:
+[[   2  128   32 2048]
+ [  16  256   64   16]
+ [   2  512   32    8]
+ [   2    0    2    8]]
+moving down
+score: 27260
+game:
+[[   0    0   32    2]
+ [   2  128   64 2048]
+ [  16  256   32   16]
+ [   4  512    2   16]]
+moving up
+score: 27292
+game:
+[[   2  128   32    2]
+ [  16  256   64 2048]
+ [   4  512   32   32]
+ [   0    2    2    0]]
+moving left
+score: 27360
+game:
+[[   2  128   32    2]
+ [  16  256   64 2048]
+ [   4  512   64    2]
+ [   4    0    0    0]]
+moving down
+score: 27496
+game:
+[[   0    0    2    0]
+ [   2  128    0    2]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving down
+score: 27496
+game:
+[[   0    0    0    2]
+ [   2  128    2    2]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving right
+score: 27500
+game:
+[[   2    0    0    2]
+ [   0    2  128    4]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving right
+score: 27504
+game:
+[[   0    0    2    4]
+ [   0    2  128    4]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving down
+score: 27512
+game:
+[[   0    2    2    0]
+ [   0    2  128    8]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving right
+score: 27516
+game:
+[[   0    0    0    4]
+ [   2    2  128    8]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving left
+score: 27520
+game:
+[[   4    0    2    0]
+ [   4  128    8    0]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving down
+score: 27528
+game:
+[[   0    2    2    0]
+ [   8  128    8    0]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving right
+score: 27532
+game:
+[[   2    0    0    4]
+ [   0    8  128    8]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving right
+score: 27532
+game:
+[[   0    2    2    4]
+ [   0    8  128    8]
+ [  16  256   32 2048]
+ [   8  512  128    2]]
+moving up
+score: 27532
+game:
+[[  16    2    2    4]
+ [   8    8  128    8]
+ [   0  256   32 2048]
+ [   2  512  128    2]]
+moving right
+score: 27552
+game:
+[[   0   16    4    4]
+ [   0   16  128    8]
+ [   2  256   32 2048]
+ [   2  512  128    2]]
+moving up
+score: 27588
+game:
+[[   4   32    4    4]
+ [   0  256  128    8]
+ [   0  512   32 2048]
+ [   0    2  128    2]]
+moving right
+score: 27596
+game:
+[[   0    4   32    8]
+ [   0  256  128    8]
+ [   2  512   32 2048]
+ [   0    2  128    2]]
+moving up
+score: 27612
+game:
+[[   2    4   32   16]
+ [   2  256  128 2048]
+ [   0  512   32    2]
+ [   0    2  128    0]]
+moving up
+score: 27616
+game:
+[[   4    4   32   16]
+ [   2  256  128 2048]
+ [   0  512   32    2]
+ [   0    2  128    0]]
+moving right
+score: 27624
+game:
+[[   2    8   32   16]
+ [   2  256  128 2048]
+ [   0  512   32    2]
+ [   0    0    2  128]]
+moving up
+score: 27628
+game:
+[[   4    8   32   16]
+ [   0  256  128 2048]
+ [   0  512   32    2]
+ [   0    2    2  128]]
+moving left
+score: 27632
+game:
+[[   4    8   32   16]
+ [ 256  128 2048    2]
+ [ 512   32    2    0]
+ [   4  128    0    0]]
+moving right
+score: 27632
+game:
+[[   4    8   32   16]
+ [ 256  128 2048    2]
+ [   4  512   32    2]
+ [   0    0    4  128]]
+moving up
+score: 27636
+game:
+[[   4    8   32   16]
+ [ 256  128 2048    4]
+ [   4  512   32  128]
+ [   0    2    4    0]]
+moving right
+score: 27636
+game:
+[[   4    8   32   16]
+ [ 256  128 2048    4]
+ [   4  512   32  128]
+ [   0    2    2    4]]
+moving right
+score: 27640
+game:
+[[   4    8   32   16]
+ [ 256  128 2048    4]
+ [   4  512   32  128]
+ [   2    0    4    4]]
+moving right
+score: 27648
+game:
+[[   4    8   32   16]
+ [ 256  128 2048    4]
+ [   4  512   32  128]
+ [   0    2    2    8]]
+moving left
+score: 27652
+game:
+[[   4    8   32   16]
+ [ 256  128 2048    4]
+ [   4  512   32  128]
+ [   4    8    2    0]]
+moving down
+score: 27660
+game:
+[[   2    8   32    0]
+ [   4  128 2048   16]
+ [ 256  512   32    4]
+ [   8    8    2  128]]
+moving right
+score: 27676
+game:
+[[   0    2    8   32]
+ [   4  128 2048   16]
+ [ 256  512   32    4]
+ [   2   16    2  128]]
+moving up
+score: 27676
+game:
+[[   4    2    8   32]
+ [ 256  128 2048   16]
+ [   2  512   32    4]
+ [   2   16    2  128]]
+moving down
+score: 27680
+game:
+[[   2    2    8   32]
+ [   4  128 2048   16]
+ [ 256  512   32    4]
+ [   4   16    2  128]]
+moving left
+score: 27684
+game:
+[[   4    8   32    2]
+ [   4  128 2048   16]
+ [ 256  512   32    4]
+ [   4   16    2  128]]
+moving up
+score: 27692
+game:
+[[   8    8   32    2]
+ [ 256  128 2048   16]
+ [   4  512   32    4]
+ [   2   16    2  128]]
+game over. Score: 27692
